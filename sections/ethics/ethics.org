@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8178-afb4-cd5cd9ddc40c
+:NOTION_ID: 41ea657440a58178afb4cd5cd9ddc40c
+:NOTION_URL: https://app.notion.com/p/41ea657440a58178afb4cd5cd9ddc40c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41ea6574-40a5-8189-b7cd-cb19285ae5d2
+:PRIVATE_NOTION_ID: 41ea657440a58189b7cdcb19285ae5d2
+:END:
+#+title: Ethics
+#+filetags: :public:Ethics:Ethics_and_Virtue:Section:
+
+** Summary
+
+Section page added during the reorganization (not Daniel's own text): it holds the topics from the Roam page Virtues and Ethics that concern the good and conduct toward others: what is good, quality, helping others, giving back, collaborative development and community awareness. It also cross-references justice, responsibility, rights, and good and evil elsewhere in the tree.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (related page in this tree)
+- [[id:41ea6574-40a5-81c3-95a1-ca3235938bac][Justice and Fairness]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58183a037cebfb8652567][Meta-Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58122aae9c0cbd663a6f3][Applied Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Page de section ajoutée lors de la réorganisation (pas un texte de Daniel) : elle regroupe les sujets de la page Roam Virtues and Ethics qui portent sur le bien et la conduite envers les autres : qu'est-ce que le bien, la qualité, aider les autres, rendre à la communauté, le développement collaboratif et la conscience communautaire. Elle renvoie aussi à la justice, la responsabilité, les droits, et le bien et le mal ailleurs dans l'arborescence.
+
+Lectures recommandées (titres conservés tels quels) : Virtues ; Justice and Fairness ; Normative Ethics ; Meta-Ethics ; Applied Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

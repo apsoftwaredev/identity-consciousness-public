@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b7-99f1-c077ab04366c
+:NOTION_ID: 41ea657440a581b799f1c077ab04366c
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b799f1c077ab04366c
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Development and Learning
+#+filetags: :Tag:Development_and_Learning:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Développement et apprentissage

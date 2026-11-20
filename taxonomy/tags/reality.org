@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8146-aecf-c84bfa3ffee9
+:NOTION_ID: 41ea657440a58146aecfc84bfa3ffee9
+:NOTION_URL: https://app.notion.com/p/41ea657440a58146aecfc84bfa3ffee9
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Reality
+#+filetags: :Tag:Reality:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Réalité

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81fd-8ea0-dd1749dc2d05
+:NOTION_ID: 41ea657440a581fd8ea0dd1749dc2d05
+:NOTION_URL: https://app.notion.com/p/41ea657440a581fd8ea0dd1749dc2d05
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Society and Politics
+#+filetags: :Tag:Society_and_Politics:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Société et politique

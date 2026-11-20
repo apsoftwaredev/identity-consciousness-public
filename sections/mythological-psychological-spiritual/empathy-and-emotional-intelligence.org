@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81af-acc0-eca6b9e87f47
+:NOTION_ID: 41ea657440a581afacc0eca6b9e87f47
+:NOTION_URL: https://app.notion.com/p/41ea657440a581afacc0eca6b9e87f47
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81d6-b73a-dbe267bc9f67
+:PRIVATE_NOTION_ID: 41da657440a581d6b73adbe267bc9f67
+:END:
+#+title: Empathy and Emotional Intelligence
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Emotion:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Empathy is understanding and sharing another's feelings. Emotional intelligence is the ability to perceive, understand and manage emotions in oneself and others.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (related page in this tree)
+- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'empathie consiste à comprendre et à partager les sentiments d'autrui. L'intelligence émotionnelle est la capacité de percevoir, de comprendre et de gérer les émotions chez soi et chez les autres.
+
+Lectures recommandées (titres conservés tels quels) : Helping Others ; Mood States ; Social Psychology ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c8-a565-eaa82393f367
+:NOTION_ID: 41ea657440a581c8a565eaa82393f367
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c8a565eaa82393f367
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81b6-9245-e6d3e4f97f98
+:PRIVATE_NOTION_ID: 41da657440a581b69245e6d3e4f97f98
+:END:
+#+title: Dreams
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Consciousness:Jungian_Psychology:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Dreams are the images, stories and feelings experienced during sleep. They are studied in neuroscience and psychology and interpreted in psychoanalysis and in Jungian thought.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81fa-b376-db234bb83f3d][The Under Consciousness]] (related page in this tree)
+- [[id:41ea6574-40a5-81d8-947e-c733c1749fa5][Jung]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581a29cdbef43c0bc1d0d][Psychoanalysis & Psychodynamic Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581b38ffbf7035ba605a2][Consciousness States (Psychology)]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les rêves sont les images, histoires et émotions vécues pendant le sommeil. Ils sont étudiés en neurosciences et en psychologie, et interprétés en psychanalyse et dans la pensée de Jung.
+
+Lectures recommandées (titres conservés tels quels) : The Under Consciousness ; Jung ; Psychoanalysis & Psychodynamic Psychology ; Consciousness States (Psychology).
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

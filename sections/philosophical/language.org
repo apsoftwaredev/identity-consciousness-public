@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81cf-911c-fff8fe8acad8
+:NOTION_ID: 41ea657440a581cf911cfff8fe8acad8
+:NOTION_URL: https://app.notion.com/p/41ea657440a581cf911cfff8fe8acad8
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8178-bb7c-dba0ef1a40ad
+:PRIVATE_NOTION_ID: 41da657440a58178bb7cdba0ef1a40ad
+:END:
+#+title: Language
+#+filetags: :public:Philosophical:Logic_Language_and_Meaning:Language_and_Communication:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Language is the system of signs through which people think, communicate and share meaning. Its study spans grammar, meaning, use and the link between language and thought.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]] (related page in this tree)
+- [[id:41ea6574-40a5-8170-8343-f99ae94a549d][Meaning]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5812ab0e6f3c440b3960b][Philosophy of Language]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le langage est le système de signes par lequel les personnes pensent, communiquent et partagent du sens. Son étude couvre la grammaire, le sens, l'usage et le lien entre langage et pensée.
+
+Lectures recommandées (titres conservés tels quels) : Communication ; Meaning ; Philosophy of Language ; Thread: Lifelong learning & languages.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

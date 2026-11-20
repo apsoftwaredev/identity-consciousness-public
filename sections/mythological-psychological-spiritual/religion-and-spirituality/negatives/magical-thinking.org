@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-812c-b14d-f64f47379771
+:NOTION_ID: 41ea657440a5812cb14df64f47379771
+:NOTION_URL: https://app.notion.com/p/41ea657440a5812cb14df64f47379771
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8104-a221-fc6aad71fee6
+:PRIVATE_NOTION_ID: 41da657440a58104a221fc6aad71fee6
+:END:
+#+title: Magical Thinking
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Knowledge:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Magical thinking is the belief that one's thoughts, words or rituals can influence unrelated events. It appears in childhood, superstition and some psychological conditions.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81c7-9c35-ebffcc54ba64][Magic]] (related page in this tree)
+- [[id:41ea6574-40a5-81f6-8877-dd831d04b7ac][Irrational Beliefs]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La pensée magique est la croyance que ses pensées, ses paroles ou ses rituels peuvent influer sur des événements sans lien. On la trouve dans l'enfance, la superstition et certains états psychologiques.
+
+Lectures recommandées (titres conservés tels quels) : Magic ; Irrational Beliefs ; Cognitive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

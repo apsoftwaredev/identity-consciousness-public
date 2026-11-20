@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-819b-a0f2-e907e642a06c
+:NOTION_ID: 41ea657440a5819ba0f2e907e642a06c
+:NOTION_URL: https://app.notion.com/p/41ea657440a5819ba0f2e907e642a06c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8187-b891-fe33f8bce343
+:PRIVATE_NOTION_ID: 41da657440a58187b891fe33f8bce343
+:END:
+#+title: Perseverance
+#+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Goals_and_Habits:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Perseverance is continuing toward a goal despite difficulty, delay or failure. It is studied as grit and resilience and valued as a virtue.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-815c-ab41-fee02b71db99][Dealing with Obstacles and Setbacks]] (related page in this tree)
+- [[id:41ea6574-40a5-8144-8b8a-ced6f5aeec76][Patience]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La persévérance consiste à poursuivre un objectif malgré la difficulté, le retard ou l'échec. Elle est étudiée comme ténacité et résilience et valorisée comme vertu.
+
+Lectures recommandées (titres conservés tels quels) : Dealing with Obstacles and Setbacks ; Patience ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

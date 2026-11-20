@@ -1,0 +1,42 @@
+#+title: Identity and Consciousness (public Org-mode tree)
+
+This repository is the public tree only. It mirrors public Notion pages from the Identity and Consciousness: Public Research Map. It does not contain the Director's private working pages, the local org-folder backup, or personal health or money records.
+
+* Sites
+
+- Public research site: https://research.dan.credit
+- System site: https://system.dan.engineer
+- Private Director site: https://private.dan.engineer (Director-only)
+
+Daniel's public identity for this work is dan.credit.
+
+* Layout
+
+- index.org :: tree index (links to the eight sections, taxonomy, and version history)
+- sections/<section-slug>/ :: one .org file per Notion page, nested to match branches
+- sections/<section-slug>/index.org :: links to child pages in that section
+- taxonomy/topics/, taxonomy/categories/, taxonomy/tags/ :: Notion Topic, Category, and Tag pages
+- versions/version-history.org :: public version history log
+- sync-log.org :: dated sync counts (Pacific Time)
+
+Each page file is org-roam compatible. The :ID: property is the dashed form of the Notion page id, so it stays stable across re-runs. Internal links use =[[id:...]]= when the target is in this tree.
+
+* Sync direction
+
+Notion is the source for this pull. The assistant refreshes snapshots under raw/ (this script cannot call the Notion MCP connector itself) and then runs:
+
+: python3 /workspace/orgsync/notion_to_org.py
+
+The script overwrites generated files in place and never deletes files, so later copies under C:/Users/DanBPC/org stay safe if extra notes are added. A later, allowlisted Org-to-Notion push is a separate step and is not enabled here.
+
+This public snapshot includes 166 topic/landing pages, 8 topics, 11 categories, and 32 tags, plus the version history log.
+
+Twelve duplicate public rows that were moved to a private holding page are excluded.
+
+* Community note (public tree)
+
+The public map is open for anyone who is kind. The Director maintains a banned-list mechanism on the Notion side.
+
+* Provenance
+
+Mirrored on 2026-11-19 5:36 PM PT from Daniel Bryan Boice's Notion workspace (Adaptive Philosophy Foundation). Cadmus (AI assistant) built this Org-mode tree. Quoted words in the Consciousness discussion Ethos section are Daniel's.

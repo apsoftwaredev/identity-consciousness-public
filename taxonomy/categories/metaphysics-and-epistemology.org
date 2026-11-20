@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8197-b192-f7938816fbf4
+:NOTION_ID: 41ea657440a58197b192f7938816fbf4
+:NOTION_URL: https://app.notion.com/p/41ea657440a58197b192f7938816fbf4
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Metaphysics and Epistemology
+#+filetags: :Category:Metaphysics_and_Epistemology:
+
+Being, reality, truth, and knowledge.
+
+* Français / French :FRENCH:
+L'être, la réalité, la vérité et la connaissance.

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8184-8d4e-cad6eb8c839d
+:NOTION_ID: 41ea657440a581848d4ecad6eb8c839d
+:NOTION_URL: https://app.notion.com/p/41ea657440a581848d4ecad6eb8c839d
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81fd-80b4-da4fdae41200
+:PRIVATE_NOTION_ID: 41da657440a581fd80b4da4fdae41200
+:END:
+#+title: Old and New Testament
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Religion:Ethics:Sub_subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel saved a passage from Aquinas's commentary on Galatians 6 (sections 347 and 348, from aquinas.cc) on bearing one another's burdens: by patiently enduring others' defects, by aiding one another in need, and by making satisfaction through prayer and good works. Aquinas explains that this fulfills the law of Christ, which is charity, and contrasts the old law of fear with the new law of love.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (related page in this tree)
+- [[id:41ea6574-40a5-8117-b925-f478272130c6][Forgiveness of Self and Others]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58124bdd8c6d8efd241f6][Christianity]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : Daniel a conservé un passage du commentaire de Thomas d'Aquin sur Galates 6 (sections 347 et 348, depuis aquinas.cc) sur le fait de porter les fardeaux les uns des autres : en supportant patiemment les défauts d'autrui, en s'aidant dans le besoin, et en offrant réparation par la prière et les bonnes œuvres. Thomas d'Aquin explique que cela accomplit la loi du Christ, qui est la charité, et oppose l'ancienne loi de la crainte à la nouvelle loi de l'amour.
+
+Lectures recommandées (titres conservés tels quels) : Helping Others ; Forgiveness of Self and Others ; Christianity ; Normative Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

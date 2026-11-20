@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8170-867d-e297eea1d0f1
+:NOTION_ID: 41ea657440a58170867de297eea1d0f1
+:NOTION_URL: https://app.notion.com/p/41ea657440a58170867de297eea1d0f1
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8113-8b10-d2e31203a1ef
+:PRIVATE_NOTION_ID: 41da657440a581138b10d2e31203a1ef
+:END:
+#+title: Gratitude and Happiness
+#+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Emotion:Meaning_and_Purpose:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns gratitude, recognizing and appreciating what one has received, and its link to happiness and well-being.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-817b-8364-eb1930e4f940][Joy]] (related page in this tree)
+- [[id:41ea6574-40a5-8117-991b-f6756a6ca4e6][Giving Back]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur la gratitude, le fait de reconnaître et d'apprécier ce que l'on a reçu, et sur son lien avec le bonheur et le bien-être.
+
+Lectures recommandées (titres conservés tels quels) : Joy ; Giving Back ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

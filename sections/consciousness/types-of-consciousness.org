@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81ad-9061-fd84b1f3042b
+:NOTION_ID: 41ea657440a581ad9061fd84b1f3042b
+:NOTION_URL: https://app.notion.com/p/41ea657440a581ad9061fd84b1f3042b
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81f9-af9a-d2002513b27b
+:PRIVATE_NOTION_ID: 41da657440a581f9af9ad2002513b27b
+:END:
+#+title: Types of Consciousness
+#+filetags: :public:Consciousness:Philosophy_of_Mind:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic distinguishes kinds and states of consciousness, such as waking, dreaming, altered, self-reflective and phenomenal consciousness.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (related page in this tree)
+- [[id:41ea6574-40a5-8174-89e2-f066cf93bee8][Higher Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b38ffbf7035ba605a2][Consciousness States (Psychology)]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58161a4a5f57754ddcd93][Self-Consciousness]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet distingue des types et des états de conscience, comme l'éveil, le rêve, la conscience modifiée, la conscience réflexive et la conscience phénoménale.
+
+Lectures recommandées (titres conservés tels quels) : Altered Consciousness ; Higher Consciousness ; Consciousness States (Psychology) ; Self-Consciousness.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

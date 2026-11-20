@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-815c-ab41-fee02b71db99
+:NOTION_ID: 41ea657440a5815cab41fee02b71db99
+:NOTION_URL: https://app.notion.com/p/41ea657440a5815cab41fee02b71db99
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81d6-84b8-c56b6c8ed8dc
+:PRIVATE_NOTION_ID: 41da657440a581d684b8c56b6c8ed8dc
+:END:
+#+title: Dealing with Obstacles and Setbacks
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Goals_and_Habits:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers strategies for coping with obstacles and setbacks: problem solving, reframing, resilience and support.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-819b-a0f2-e907e642a06c][Perseverance]] (related page in this tree)
+- [[id:41ea6574-40a5-81f2-8827-ef8a80f3d118][Learning From Mistakes]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet couvre les stratégies pour faire face aux obstacles et aux revers : résolution de problèmes, recadrage, résilience et soutien.
+
+Lectures recommandées (titres conservés tels quels) : Perseverance ; Learning From Mistakes ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

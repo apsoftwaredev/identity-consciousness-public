@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-812f-876e-fb12c522b501
+:NOTION_ID: 41ea657440a5812f876efb12c522b501
+:NOTION_URL: https://app.notion.com/p/41ea657440a5812f876efb12c522b501
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Spirituality
+#+filetags: :Tag:Spirituality:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Spiritualité

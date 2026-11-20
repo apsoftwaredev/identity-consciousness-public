@@ -1,0 +1,13 @@
+#+title: Research Categorys
+
+- [[id:41ea6574-40a5-819f-b654-ee337d3bae06][Philosophy of Mind]]
+- [[id:41ea6574-40a5-81d6-b96c-c0f51f97f1bf][Ethics and Virtue]]
+- [[id:41ea6574-40a5-8197-b192-f7938816fbf4][Metaphysics and Epistemology]]
+- [[id:41ea6574-40a5-8112-826d-e789659d8e1d][Logic, Language, and Meaning]]
+- [[id:41ea6574-40a5-81a7-889f-f9bf40c4f957][Social and Political Philosophy]]
+- [[id:41ea6574-40a5-810a-82a7-d3a45959f6aa][Psychology]]
+- [[id:41ea6574-40a5-81ba-b4b2-e93fb7f57e0f][Clinical Psychology and Mental Health]]
+- [[id:41ea6574-40a5-8181-90dd-f33652628835][Religion, Spirituality, and Myth]]
+- [[id:41ea6574-40a5-8192-a10b-c205115982a0][Science, Mathematics, and Computing]]
+- [[id:41ea6574-40a5-8121-b140-c8f7dec64467][Biology and Neuroscience]]
+- [[id:41ea6574-40a5-8130-9767-f7252df4755c][Culture and the Arts]]

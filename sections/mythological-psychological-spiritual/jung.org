@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81d8-947e-c733c1749fa5
+:NOTION_ID: 41ea657440a581d8947ec733c1749fa5
+:NOTION_URL: https://app.notion.com/p/41ea657440a581d8947ec733c1749fa5
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8194-9802-c7e7489fd786
+:PRIVATE_NOTION_ID: 41da657440a581949802c7e7489fd786
+:END:
+#+title: Jung
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Jungian_Psychology:Myth_and_Story:Subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel links Jung to two topics: archetypes and collective consciousness. The page anchors the analytical psychology strand of the graph, where myth and symbol describe structures of the psyche.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8160-880d-caf499264482][Archetypes]] (related page in this tree)
+- [[id:41ea6574-40a5-81b4-9413-ea2c565bd25c][Collective Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a58117b06bc97401b6d198][Thread: Myth & analytical psychology]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a5813abf59c84318510350][Myth & Analytical Psychology (Jung)]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : Daniel relie Jung à deux sujets : les archétypes et la conscience collective. La page ancre le volet de psychologie analytique du graphe, où le mythe et le symbole décrivent des structures de la psyché.
+
+Lectures recommandées (titres conservés tels quels) : Archetypes ; Collective Consciousness ; Thread: Myth & analytical psychology ; Myth & Analytical Psychology (Jung).
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

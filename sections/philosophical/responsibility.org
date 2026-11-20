@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81e4-a281-fe168e02b427
+:NOTION_ID: 41ea657440a581e4a281fe168e02b427
+:NOTION_URL: https://app.notion.com/p/41ea657440a581e4a281fe168e02b427
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81a9-931b-c4203daef4f1
+:PRIVATE_NOTION_ID: 41da657440a581a9931bc4203daef4f1
+:END:
+#+title: Responsibility
+#+filetags: :public:Philosophical:Ethics_and_Virtue:Ethics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Responsibility concerns being accountable for one's actions and their effects on others. It links free will, moral blame and praise, and duties to the community.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
+- [[id:41ea6574-40a5-81ad-8531-c04bcc56799e][Character Development]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58158823ed67590d95bbe][Free Will]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La responsabilité consiste à répondre de ses actes et de leurs effets sur autrui. Elle relie le libre arbitre, le blâme et l'éloge moraux, et les devoirs envers la communauté.
+
+Lectures recommandées (titres conservés tels quels) : Ethics ; Character Development ; Free Will ; Normative Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

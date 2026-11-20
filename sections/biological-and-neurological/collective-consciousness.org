@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b4-9413-ea2c565bd25c
+:NOTION_ID: 41ea657440a581b49413ea2c565bd25c
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b49413ea2c565bd25c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8119-bb8e-d4681a0f657b
+:PRIVATE_NOTION_ID: 41da657440a58119bb8ed4681a0f657b
+:END:
+#+title: Collective Consciousness
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Consciousness:Community:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Collective consciousness refers to shared beliefs and ideas that bind a group, a term from Émile Durkheim, and relates to Jung's collective unconscious. In this graph it is linked from both Jung and the biological branch.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81d8-947e-c733c1749fa5][Jung]] (related page in this tree)
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a58117b06bc97401b6d198][Thread: Myth & analytical psychology]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a5813abf59c84318510350][Myth & Analytical Psychology (Jung)]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La conscience collective désigne les croyances et idées partagées qui unissent un groupe, un terme d'Émile Durkheim, et se rapproche de l'inconscient collectif de Jung. Dans ce graphe, elle est reliée à la fois à Jung et à la branche biologique.
+
+Lectures recommandées (titres conservés tels quels) : Jung ; Community of Consciousness ; Thread: Myth & analytical psychology ; Myth & Analytical Psychology (Jung).
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

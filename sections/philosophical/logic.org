@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-816e-b01e-fa25747ab69d
+:NOTION_ID: 41ea657440a5816eb01efa25747ab69d
+:NOTION_URL: https://app.notion.com/p/41ea657440a5816eb01efa25747ab69d
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-812e-b222-ce48b1cb69cd
+:PRIVATE_NOTION_ID: 41da657440a5812eb222ce48b1cb69cd
+:END:
+#+title: Logic
+#+filetags: :public:Philosophical:Logic_Language_and_Meaning:Logic_and_Mathematics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Logic is the study of valid reasoning: what follows from what. It includes formal systems, argument analysis, and the foundations of mathematics and computing.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8106-8399-dece0d0ae8e9][Incompleteness]] (related page in this tree)
+- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58185b685d478e35f1304][Logic and Philosophy of Logic]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58181ae32c3eaeacac5d1][Mathematical Logic & Foundations]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La logique est l'étude du raisonnement valide : ce qui découle de quoi. Elle comprend les systèmes formels, l'analyse des arguments et les fondements des mathématiques et de l'informatique.
+
+Lectures recommandées (titres conservés tels quels) : Incompleteness ; Truth and Conjecture ; Logic and Philosophy of Logic ; Mathematical Logic & Foundations.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8180-9378-e127be87d7f1
+:NOTION_ID: 41ea657440a581809378e127be87d7f1
+:NOTION_URL: https://app.notion.com/p/41ea657440a581809378e127be87d7f1
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-812b-9e9c-efbadecd351b
+:PRIVATE_NOTION_ID: 41da657440a5812b9e9cefbadecd351b
+:END:
+#+title: Historical Development of Understanding
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:History_of_Ideas:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic traces how human understanding of the world has changed over time, through myth, philosophy, religion and science. It asks how knowledge grows and how worldviews shift.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8100-bd09-cb46b0d60df8][History and Philosophy of Science, Technology, Mathematics]] (related page in this tree)
+- [[id:41ea6574-40a5-8198-a2ad-cc68db37dc3f][Understanding]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5815da10ff8a483f62953][History of Western Philosophy]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581278a05f4fdee984a5c][General Philosophy of Science]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet retrace l'évolution de la compréhension humaine du monde au fil du temps, à travers le mythe, la philosophie, la religion et la science. Il demande comment le savoir progresse et comment les visions du monde changent.
+
+Lectures recommandées (titres conservés tels quels) : History and Philosophy of Science, Technology, Mathematics ; Understanding ; History of Western Philosophy ; General Philosophy of Science.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

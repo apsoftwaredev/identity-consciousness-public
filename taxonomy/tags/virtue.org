@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-812e-9cb7-e44528986ee0
+:NOTION_ID: 41ea657440a5812e9cb7e44528986ee0
+:NOTION_URL: https://app.notion.com/p/41ea657440a5812e9cb7e44528986ee0
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Virtue
+#+filetags: :Tag:Virtue:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Vertu

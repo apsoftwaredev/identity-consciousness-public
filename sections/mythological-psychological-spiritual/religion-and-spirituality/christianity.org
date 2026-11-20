@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-815d-bfd5-fe4d4cb1737d
+:NOTION_ID: 41ea657440a5815dbfd5fe4d4cb1737d
+:NOTION_URL: https://app.notion.com/p/41ea657440a5815dbfd5fe4d4cb1737d
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8194-8b00-e12d51444614
+:PRIVATE_NOTION_ID: 41da657440a581948b00e12d51444614
+:END:
+#+title: Christianity
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Religion:Sub_subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel links Christianity to Thomas Aquinas, whose commentary on Scripture is excerpted further down this branch. The topic covers Christian belief and practice within the graph's study of religion.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8114-9b5a-e832a8e76889][Theism, Atheism, Pantheism, Dao, Theology]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58124bdd8c6d8efd241f6][Christianity]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5816ab1c5f3ca77abdae0][Christian Spirituality]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : Daniel relie le christianisme à Thomas d'Aquin, dont le commentaire de l'Écriture est cité plus bas dans cette branche. Le sujet porte sur la foi et la pratique chrétiennes dans l'étude de la religion menée par le graphe.
+
+Lectures recommandées (titres conservés tels quels) : Theism, Atheism, Pantheism, Dao, Theology ; Christianity ; Christian Spirituality.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

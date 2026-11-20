@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81bc-962d-f9bdc64d31e3
+:NOTION_ID: 41ea657440a581bc962df9bdc64d31e3
+:NOTION_URL: https://app.notion.com/p/41ea657440a581bc962df9bdc64d31e3
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-813e-ab86-de999d29e1ac
+:PRIVATE_NOTION_ID: 41da657440a5813eab86de999d29e1ac
+:END:
+#+title: Theories and Concepts
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Knowledge:Philosophy_of_Science:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This page is a place for the theories and concepts that frame the rest of the graph. It concerns how concepts are formed and how theories organize them to explain the world.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81b9-a570-d712ba7b0c36][Metaphilosophy]] (related page in this tree)
+- [[id:41ea6574-40a5-8101-b42c-d0fbf2e53424][Theories of Consciousness, maps of current controversies]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581278a05f4fdee984a5c][General Philosophy of Science]] (Research Library topic)
+- [[https://app.notion.com/p/405a657440a581a09dfacea1f128d42a][Research Orientation: The Map of Our Threads]] (public research page)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Cette page accueille les théories et concepts qui encadrent le reste du graphe. Elle porte sur la formation des concepts et sur la façon dont les théories les organisent pour expliquer le monde.
+
+Lectures recommandées (titres conservés tels quels) : Metaphilosophy ; Theories of Consciousness, maps of current controversies ; General Philosophy of Science ; Research Orientation: The Map of Our Threads.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

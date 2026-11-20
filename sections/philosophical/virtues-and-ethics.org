@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b1-9196-e1309957dcb1
+:NOTION_ID: 41ea657440a581b19196e1309957dcb1
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b19196e1309957dcb1
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8186-9043-c425ec357124
+:PRIVATE_NOTION_ID: 41da657440a581869043c425ec357124
+:END:
+#+title: Virtues and Ethics
+#+filetags: :public:Philosophical:Ethics_and_Virtue:Virtue:Ethics:Subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel's original Roam page listing virtues and ethical themes: giving back, gratitude and happiness, forgiveness, character development, perseverance, humility, pride and shame, helping others, collaborative development, what is good, quality, patience and community awareness, with a link to religion and spirituality. The reorganization splits it into the Virtues and Ethics sections.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (related page in this tree)
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
+- [[id:41ea6574-40a5-81e8-96dd-fca50fa78b2f][Religion and Spirituality]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5810c980dcc3ebea08457][Value Theory]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : la page Roam d'origine de Daniel qui liste des vertus et des thèmes éthiques : rendre à la communauté, gratitude et bonheur, pardon, développement du caractère, persévérance, humilité, fierté et honte, aider les autres, développement collaboratif, qu'est-ce que le bien, qualité, patience et conscience communautaire, avec un lien vers la religion et la spiritualité. La réorganisation la divise en deux sections, Virtues et Ethics.
+
+Lectures recommandées (titres conservés tels quels) : Virtues ; Ethics ; Religion and Spirituality ; Normative Ethics ; Value Theory.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

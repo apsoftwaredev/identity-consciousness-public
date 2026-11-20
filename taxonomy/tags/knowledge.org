@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8110-82f0-c26e334b753a
+:NOTION_ID: 41ea657440a5811082f0c26e334b753a
+:NOTION_URL: https://app.notion.com/p/41ea657440a5811082f0c26e334b753a
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Knowledge
+#+filetags: :Tag:Knowledge:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Connaissance

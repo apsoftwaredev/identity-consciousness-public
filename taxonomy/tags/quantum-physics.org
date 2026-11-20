@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8193-9985-c232cc851068
+:NOTION_ID: 41ea657440a581939985c232cc851068
+:NOTION_URL: https://app.notion.com/p/41ea657440a581939985c232cc851068
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Quantum Physics
+#+filetags: :Tag:Quantum_Physics:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Physique quantique

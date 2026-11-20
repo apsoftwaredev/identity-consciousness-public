@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-814f-b219-d82618f7c47c
+:NOTION_ID: 41ea657440a5814fb219d82618f7c47c
+:NOTION_URL: https://app.notion.com/p/41ea657440a5814fb219d82618f7c47c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8135-ae01-c4421759a32e
+:PRIVATE_NOTION_ID: 41da657440a58135ae01c4421759a32e
+:END:
+#+title: Intelligence and Cognitive Assessment
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Development_and_Learning:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers theories of intelligence and the tests used to measure cognitive abilities, along with debates about what intelligence is.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
+- [[id:41ea6574-40a5-81af-acc0-eca6b9e87f47][Empathy and Emotional Intelligence]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet couvre les théories de l'intelligence et les tests qui mesurent les capacités cognitives, ainsi que les débats sur ce qu'est l'intelligence.
+
+Lectures recommandées (titres conservés tels quels) : Theories of Learning ; Empathy and Emotional Intelligence ; Cognitive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

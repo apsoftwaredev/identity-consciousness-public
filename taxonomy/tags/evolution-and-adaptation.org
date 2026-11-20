@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81f7-bf48-d7b40140b62d
+:NOTION_ID: 41ea657440a581f7bf48d7b40140b62d
+:NOTION_URL: https://app.notion.com/p/41ea657440a581f7bf48d7b40140b62d
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Evolution and Adaptation
+#+filetags: :Tag:Evolution_and_Adaptation:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Évolution et adaptation

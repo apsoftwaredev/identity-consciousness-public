@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8195-bd3d-d01432cf658b
+:NOTION_ID: 41ea657440a58195bd3dd01432cf658b
+:NOTION_URL: https://app.notion.com/p/41ea657440a58195bd3dd01432cf658b
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81b0-a428-c2ffad3caa79
+:PRIVATE_NOTION_ID: 41da657440a581b0a428c2ffad3caa79
+:END:
+#+title: Collective Behavior/Biological Species and Ecosystems
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Evolution_and_Adaptation:Community:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers how groups of organisms behave collectively, as in flocks, colonies and ecosystems, and how group-level patterns arise from individuals.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81b4-9413-ea2c565bd25c][Collective Consciousness]] (related page in this tree)
+- [[id:41ea6574-40a5-811c-bfeb-df15c20e0cd5][Evolution]] (related page in this tree)
+- [[https://app.notion.com/p/405a657440a58185a1e5d8bb1e0f7ff0][Animals: Consciousness, Welfare & Rights]] (public research page)
+- [[https://app.notion.com/p/3eaa657440a58159abf7e2ad97468eba][Philosophy of Biology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur le comportement collectif des organismes, comme dans les volées, les colonies et les écosystèmes, et sur la façon dont des régularités de groupe naissent des individus.
+
+Lectures recommandées (titres conservés tels quels) : Collective Consciousness ; Evolution ; Animals: Consciousness, Welfare & Rights ; Philosophy of Biology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

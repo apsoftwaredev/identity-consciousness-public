@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8101-b42c-d0fbf2e53424
+:NOTION_ID: 41ea657440a58101b42cd0fbf2e53424
+:NOTION_URL: https://app.notion.com/p/41ea657440a58101b42cd0fbf2e53424
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-811a-a53e-f55f345555f1
+:PRIVATE_NOTION_ID: 41da657440a5811aa53ef55f345555f1
+:END:
+#+title: Theories of Consciousness, maps of current controversies
+#+filetags: :public:Consciousness:Philosophy_of_Mind:Brain_and_Nervous_System:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This page is for mapping the main scientific and philosophical theories of consciousness and the debates between them, such as global workspace, integrated information, higher-order theories and panpsychism.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8103-9523-d47caeef0b50][What is consciousness?]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581678c27c181d9eb03b3][Theories of Consciousness (Higher-Order & Self-Representational)]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581e687f9cc4875fa0c26][Science of Consciousness]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a5819dae49ead443c9cf29][Research topics: consciousness]] (private research notes)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Cette page sert à cartographier les principales théories scientifiques et philosophiques de la conscience et les débats qui les opposent, comme l'espace de travail global, l'information intégrée, les théories d'ordre supérieur et le panpsychisme.
+
+Lectures recommandées (titres conservés tels quels) : What is consciousness? ; Theories of Consciousness (Higher-Order & Self-Representational) ; Science of Consciousness ; Research topics: consciousness.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

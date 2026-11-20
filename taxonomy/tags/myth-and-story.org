@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8191-a3d6-c92614bdd23c
+:NOTION_ID: 41ea657440a58191a3d6c92614bdd23c
+:NOTION_URL: https://app.notion.com/p/41ea657440a58191a3d6c92614bdd23c
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Myth and Story
+#+filetags: :Tag:Myth_and_Story:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Mythe et récit

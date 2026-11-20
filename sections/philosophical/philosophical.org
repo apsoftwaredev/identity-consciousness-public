@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8107-99bc-ec3e160a2ca8
+:NOTION_ID: 41ea657440a5810799bcec3e160a2ca8
+:NOTION_URL: https://app.notion.com/p/41ea657440a5810799bcec3e160a2ca8
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8115-aac0-dd6c10b7208a
+:PRIVATE_NOTION_ID: 41da657440a58115aac0dd6c10b7208a
+:END:
+#+title: Philosophical
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:History_of_Ideas:Knowledge:Section:
+
+** Summary
+
+From Daniel's Roam notes: this branch gathers the philosophical topics of the Identity and Consciousness graph, including identity, consciousness, meaning, language, truth, ethics, metaphysics, epistemology, logic and Eastern philosophy. It also links practical and political themes such as responsibility, justice and fairness, and optimal community arrangements, along with Adaptive Philosophy itself.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (related page in this tree)
+- [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/405a657440a581a09dfacea1f128d42a][Research Orientation: The Map of Our Threads]] (public research page)
+- [[https://app.notion.com/p/3eaa657440a5815da10ff8a483f62953][History of Western Philosophy]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : cette branche réunit les sujets philosophiques du graphe Identity and Consciousness, notamment l'identité, la conscience, le sens, le langage, la vérité, l'éthique, la métaphysique, l'épistémologie, la logique et la philosophie orientale. Elle relie aussi des thèmes pratiques et politiques comme la responsabilité, la justice et l'équité, et les meilleures formes d'organisation communautaire, ainsi qu'Adaptive Philosophy elle-même.
+
+Lectures recommandées (titres conservés tels quels) : Consciousness ; Identity ; Thread: Consciousness & philosophy of mind ; Research Orientation: The Map of Our Threads ; History of Western Philosophy.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

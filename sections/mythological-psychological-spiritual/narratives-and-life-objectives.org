@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-814f-8940-f36cfef23ba3
+:NOTION_ID: 41ea657440a5814f8940f36cfef23ba3
+:NOTION_URL: https://app.notion.com/p/41ea657440a5814f8940f36cfef23ba3
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8181-bd3c-c14fdcefa2ca
+:PRIVATE_NOTION_ID: 41da657440a58181bd3cc14fdcefa2ca
+:END:
+#+title: Narratives and Life Objectives
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Myth_and_Story:Meaning_and_Purpose:Goals_and_Habits:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns the stories people tell about their lives and how those narratives shape goals, identity and meaning. In Roam it is linked together with Mythic Journeys.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81f6-8d49-c4a924a1293b][Mythic Journeys]] (related page in this tree)
+- [[id:41ea6574-40a5-81fc-8192-fb8e420c147d][Goal Orientation and Attainment Strategies]] (related page in this tree)
+- [[id:41ea6574-40a5-81ef-9732-da4cd7ca7e59][Identity Development]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581d2945dfff878d4b017][Personality Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur les récits que les personnes font de leur vie et sur la façon dont ces récits orientent les objectifs, l'identité et le sens. Dans Roam, il est relié à Mythic Journeys.
+
+Lectures recommandées (titres conservés tels quels) : Mythic Journeys ; Goal Orientation and Attainment Strategies ; Identity Development ; Personality Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8129-9320-edbb22dbd70a
+:NOTION_ID: 41ea657440a581299320edbb22dbd70a
+:NOTION_URL: https://app.notion.com/p/41ea657440a581299320edbb22dbd70a
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Creativity
+#+filetags: :Tag:Creativity:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Créativité

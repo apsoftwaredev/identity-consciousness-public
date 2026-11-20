@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81ed-a2b1-e7889f9c3978
+:NOTION_ID: 41ea657440a581eda2b1e7889f9c3978
+:NOTION_URL: https://app.notion.com/p/41ea657440a581eda2b1e7889f9c3978
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8156-8517-f326c96c5022
+:PRIVATE_NOTION_ID: 41da657440a581568517f326c96c5022
+:END:
+#+title: Humor
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:Culture_and_Arts:Emotion:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Humor is the capacity to find and express what is funny. It is studied for its role in coping, social bonding, creativity and health.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-811d-868c-def4bd4c2017][Games]] (related page in this tree)
+- [[id:41ea6574-40a5-8119-9eed-d7255993ecff][42]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'humour est la capacité de percevoir et d'exprimer ce qui est drôle. Il est étudié pour son rôle dans la capacité à faire face, le lien social, la créativité et la santé.
+
+Lectures recommandées (titres conservés tels quels) : Games ; 42 ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

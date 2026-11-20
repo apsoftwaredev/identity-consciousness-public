@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8121-a775-f684a047fddc
+:NOTION_ID: 41ea657440a58121a775f684a047fddc
+:NOTION_URL: https://app.notion.com/p/41ea657440a58121a775f684a047fddc
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41ea6574-40a5-8191-91cb-db34a7c0cb87
+:PRIVATE_NOTION_ID: 41ea657440a5819191cbdb34a7c0cb87
+:END:
+#+title: Virtues
+#+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Section:
+
+** Summary
+
+Section page added during the reorganization (not Daniel's own text): it holds the personal character topics that Roam listed on the page Virtues and Ethics: character development, perseverance, patience, humility, pride and shame, gratitude and happiness, and forgiveness of self and others. Its companion section is Ethics.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81b1-9196-e1309957dcb1][Virtues and Ethics]] (related page in this tree)
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Page de section ajoutée lors de la réorganisation (pas un texte de Daniel) : elle regroupe les sujets de caractère personnel que Roam listait sur la page Virtues and Ethics : développement du caractère, persévérance, patience, humilité, fierté et honte, gratitude et bonheur, et pardon de soi et des autres. Sa section sœur est Ethics.
+
+Lectures recommandées (titres conservés tels quels) : Virtues and Ethics ; Ethics ; Normative Ethics ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

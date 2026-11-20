@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c3-a29d-f07102ebd6be
+:NOTION_ID: 41ea657440a581c3a29df07102ebd6be
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c3a29df07102ebd6be
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81ea-9c85-da8f11a28cfb
+:PRIVATE_NOTION_ID: 41da657440a581ea9c85da8f11a28cfb
+:END:
+#+title: Lifecycle Stages
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Development_and_Learning:Health_and_Aging:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Lifecycle stages are the phases of life from birth through childhood, adolescence, adulthood and old age, each with its own tasks and changes.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81c2-821e-df21d992a0af][Aging]] (related page in this tree)
+- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581d3876af9ddcc2c2004][Developmental Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les étapes de la vie sont les phases qui vont de la naissance à l'enfance, à l'adolescence, à l'âge adulte et à la vieillesse, chacune avec ses tâches et ses changements.
+
+Lectures recommandées (titres conservés tels quels) : Aging ; Growth and Psychological Development ; Developmental Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

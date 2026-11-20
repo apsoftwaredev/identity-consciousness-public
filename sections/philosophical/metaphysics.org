@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-813c-902c-db0ba0327a57
+:NOTION_ID: 41ea657440a5813c902cdb0ba0327a57
+:NOTION_URL: https://app.notion.com/p/41ea657440a5813c902cdb0ba0327a57
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81e2-8966-ee8af52c6b81
+:PRIVATE_NOTION_ID: 41da657440a581e28966ee8af52c6b81
+:END:
+#+title: Metaphysics
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Reality:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Metaphysics studies the basic nature of reality: existence, objects, properties, causation, time and possibility. It asks what there is and what it is like.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81f7-94a8-f4e27f0df836][Being and Nonbeing]] (related page in this tree)
+- [[id:41ea6574-40a5-813c-86d5-d6e826e74381][What is reality?]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581ebafe3f721d6733641][Metaphysics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58115b3c5db1cd3961e8f][Metaphysics and Epistemology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La métaphysique étudie la nature fondamentale de la réalité : l'existence, les objets, les propriétés, la causalité, le temps et la possibilité. Elle demande ce qui existe et ce qu'il est.
+
+Lectures recommandées (titres conservés tels quels) : Being and Nonbeing ; What is reality? ; Metaphysics ; Metaphysics and Epistemology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

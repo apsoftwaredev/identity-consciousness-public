@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81d3-9702-fe6eb72648ab
+:NOTION_ID: 41ea657440a581d39702fe6eb72648ab
+:NOTION_URL: https://app.notion.com/p/41ea657440a581d39702fe6eb72648ab
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Religion
+#+filetags: :Tag:Religion:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Religion

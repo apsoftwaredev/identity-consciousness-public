@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81af-9f24-cdbd823fa05f
+:NOTION_ID: 41ea657440a581af9f24cdbd823fa05f
+:NOTION_URL: https://app.notion.com/p/41ea657440a581af9f24cdbd823fa05f
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Time and Space
+#+filetags: :Tag:Time_and_Space:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Temps et espace

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8182-9ad8-ce455c7ca6ed
+:NOTION_ID: 41ea657440a581829ad8ce455c7ca6ed
+:NOTION_URL: https://app.notion.com/p/41ea657440a581829ad8ce455c7ca6ed
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81fc-ae13-c7add1257cb0
+:PRIVATE_NOTION_ID: 41da657440a581fcae13c7add1257cb0
+:END:
+#+title: Data Processing
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Computing_and_AI:Logic_and_Mathematics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Data processing is the collection, transformation and analysis of data to produce information. The topic also covers how brains and machines process information.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]] (related page in this tree)
+- [[id:41ea6574-40a5-8141-afae-f2de679fdfe9][Efficiency]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5818e8900d9041abc0162][Data Mining & Data Management]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581458a7de0fe2a1c2b6a][Computational Theory of Mind]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le traitement des données est la collecte, la transformation et l'analyse de données pour produire de l'information. Le sujet couvre aussi la manière dont cerveaux et machines traitent l'information.
+
+Lectures recommandées (titres conservés tels quels) : Neural Networks ; Efficiency ; Data Mining & Data Management ; Computational Theory of Mind.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

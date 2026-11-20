@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8111-a9f7-ea75e8bec85a
+:NOTION_ID: 41ea657440a58111a9f7ea75e8bec85a
+:NOTION_URL: https://app.notion.com/p/41ea657440a58111a9f7ea75e8bec85a
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8111-bd94-e8c5966991d9
+:PRIVATE_NOTION_ID: 41da657440a58111bd94e8c5966991d9
+:END:
+#+title: Psychopharmacology and Psychedelics
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Mental_Health:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Psychopharmacology studies how drugs affect mood, thought and behavior. Psychedelics are substances that alter perception and consciousness and are under renewed research interest.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b38ffbf7035ba605a2][Consciousness States (Psychology)]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La psychopharmacologie étudie l'effet des médicaments et substances sur l'humeur, la pensée et le comportement. Les psychédéliques sont des substances qui modifient la perception et la conscience et font l'objet d'un regain d'intérêt pour la recherche.
+
+Lectures recommandées (titres conservés tels quels) : Altered Consciousness ; Consciousness States (Psychology) ; Behavioral Neuroscience & Physiological Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

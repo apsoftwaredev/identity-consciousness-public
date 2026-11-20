@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c8-9ba6-fe31a30ed936
+:NOTION_ID: 41ea657440a581c89ba6fe31a30ed936
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c89ba6fe31a30ed936
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81f3-82e9-fd4836b8fd5d
+:PRIVATE_NOTION_ID: 41da657440a581f382e9fd4836b8fd5d
+:END:
+#+title: Community Awareness
+#+filetags: :public:Ethics:Social_and_Political_Philosophy:Community:Society_and_Politics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Community awareness is knowing and caring about the needs, resources and people of one's community.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81f0-b19f-d9622f337092][Optimal Community Arrangements and Systems]] (related page in this tree)
+- [[id:41ea6574-40a5-8117-991b-f6756a6ca4e6][Giving Back]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a5818ba456dddfc10442d8][Thread: Mental health & disability systems]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La conscience communautaire consiste à connaître les besoins, les ressources et les personnes de sa communauté, et à s'en soucier.
+
+Lectures recommandées (titres conservés tels quels) : Optimal Community Arrangements and Systems ; Giving Back ; Thread: Mental health & disability systems.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

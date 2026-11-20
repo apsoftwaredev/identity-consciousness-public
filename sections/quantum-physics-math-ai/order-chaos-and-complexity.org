@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-813f-9e05-ef525d176ff9
+:NOTION_ID: 41ea657440a5813f9e05ef525d176ff9
+:NOTION_URL: https://app.notion.com/p/41ea657440a5813f9e05ef525d176ff9
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81a5-902d-c8b3ceac3c41
+:PRIVATE_NOTION_ID: 41da657440a581a5902dc8b3ceac3c41
+:END:
+#+title: Order, Chaos, and Complexity
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Complexity_and_Chaos:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers how order emerges from simple rules, how chaotic systems become unpredictable, and how complex systems show emergent behavior.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-811e-a98a-f9abc619d12f][Chaos and Reason]] (related page in this tree)
+- [[id:41ea6574-40a5-814c-b47d-d646d3f8d5cd][Holism]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5812ab66ce67100dd6a6a][Calculus, Real Functions & Dynamical Systems]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5818cb29ffd9a245632bd][Information Theory]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur la manière dont l'ordre naît de règles simples, dont les systèmes chaotiques deviennent imprévisibles, et dont les systèmes complexes montrent des comportements émergents.
+
+Lectures recommandées (titres conservés tels quels) : Chaos and Reason ; Holism ; Calculus, Real Functions & Dynamical Systems ; Information Theory.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

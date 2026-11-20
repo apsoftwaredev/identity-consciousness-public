@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81a0-97c5-fa907a85094f
+:NOTION_ID: 41ea657440a581a097c5fa907a85094f
+:NOTION_URL: https://app.notion.com/p/41ea657440a581a097c5fa907a85094f
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Health and Aging
+#+filetags: :Tag:Health_and_Aging:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Santé et vieillissement

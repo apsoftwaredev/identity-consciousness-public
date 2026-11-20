@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-819d-8ffc-fb497b86149c
+:NOTION_ID: 41ea657440a5819d8ffcfb497b86149c
+:NOTION_URL: https://app.notion.com/p/41ea657440a5819d8ffcfb497b86149c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81bd-a3aa-e464a1352ff6
+:PRIVATE_NOTION_ID: 41da657440a581bda3aae464a1352ff6
+:END:
+#+title: Consciousness and Location
+#+filetags: :public:Consciousness:Philosophy_of_Mind:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic asks where consciousness is located: in the brain, in the whole body, extended into the environment, or not in space at all.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]] (related page in this tree)
+- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5810b97e3ebbefed46be3][Extended Cognition]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58104a0eaf9a60853e057][Philosophy of Mind]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet demande où se situe la conscience : dans le cerveau, dans tout le corps, étendue à l'environnement, ou nulle part dans l'espace.
+
+Lectures recommandées (titres conservés tels quels) : Flow of Consciousness in Person, Place, Time ; Brain and Body Systems ; Extended Cognition ; Philosophy of Mind.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

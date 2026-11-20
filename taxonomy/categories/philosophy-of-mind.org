@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-819f-b654-ee337d3bae06
+:NOTION_ID: 41ea657440a5819fb654ee337d3bae06
+:NOTION_URL: https://app.notion.com/p/41ea657440a5819fb654ee337d3bae06
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Philosophy of Mind
+#+filetags: :Category:Philosophy_of_Mind:
+
+Consciousness, self, and the nature of mind.
+
+* Français / French :FRENCH:
+Conscience, soi et nature de l'esprit.

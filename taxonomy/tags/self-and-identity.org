@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8147-9b88-c907fa4e16f2
+:NOTION_ID: 41ea657440a581479b88c907fa4e16f2
+:NOTION_URL: https://app.notion.com/p/41ea657440a581479b88c907fa4e16f2
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Self and Identity
+#+filetags: :Tag:Self_and_Identity:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Soi et identité

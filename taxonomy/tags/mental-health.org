@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-814c-ba7a-e1e71d09fbee
+:NOTION_ID: 41ea657440a5814cba7ae1e71d09fbee
+:NOTION_URL: https://app.notion.com/p/41ea657440a5814cba7ae1e71d09fbee
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Mental Health
+#+filetags: :Tag:Mental_Health:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Santé mentale

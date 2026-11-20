@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81ad-8531-c04bcc56799e
+:NOTION_ID: 41ea657440a581ad8531c04bcc56799e
+:NOTION_URL: https://app.notion.com/p/41ea657440a581ad8531c04bcc56799e
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-819b-9ac5-e7ac23aafa2b
+:PRIVATE_NOTION_ID: 41da657440a5819b9ac5e7ac23aafa2b
+:END:
+#+title: Character Development
+#+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Development_and_Learning:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Character development is the growth of moral and personal qualities such as honesty, courage and kindness over time.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (related page in this tree)
+- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le développement du caractère est la croissance, au fil du temps, de qualités morales et personnelles comme l'honnêteté, le courage et la bonté.
+
+Lectures recommandées (titres conservés tels quels) : Role Modeling and Leadership ; Growth and Psychological Development ; Normative Ethics ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

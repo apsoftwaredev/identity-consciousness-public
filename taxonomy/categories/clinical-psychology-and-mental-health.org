@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81ba-b4b2-e93fb7f57e0f
+:NOTION_ID: 41ea657440a581bab4b2e93fb7f57e0f
+:NOTION_URL: https://app.notion.com/p/41ea657440a581bab4b2e93fb7f57e0f
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Clinical Psychology and Mental Health
+#+filetags: :Category:Clinical_Psychology_and_Mental_Health:
+
+Neutral academic overviews of clinical topics and care systems.
+
+* Français / French :FRENCH:
+Aperçus académiques neutres des sujets cliniques et des systèmes de soins.

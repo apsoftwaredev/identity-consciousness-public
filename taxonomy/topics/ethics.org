@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8147-8c63-d4abee32a03f
+:NOTION_ID: 41ea657440a581478c63d4abee32a03f
+:NOTION_URL: https://app.notion.com/p/41ea657440a581478c63d4abee32a03f
+:VISIBILITY: public
+:TAXONOMY: Topic
+:END:
+#+title: Ethics
+#+filetags: :Topic:Ethics:
+
+Topic 4 of 8
+
+* Français / French :FRENCH:
+Sujet 4 sur 8 : Éthique

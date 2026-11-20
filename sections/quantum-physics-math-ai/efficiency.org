@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8141-afae-f2de679fdfe9
+:NOTION_ID: 41ea657440a58141afaef2de679fdfe9
+:NOTION_URL: https://app.notion.com/p/41ea657440a58141afaef2de679fdfe9
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8106-8c89-d0bbc463a649
+:PRIVATE_NOTION_ID: 41da657440a581068c89d0bbc463a649
+:END:
+#+title: Efficiency
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Logic_and_Mathematics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Efficiency is achieving results with the least waste of time, energy or resources. It applies to computing, biology, organizations and personal habits.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8182-9ad8-ce455c7ca6ed][Data Processing]] (related page in this tree)
+- [[id:41ea6574-40a5-81fe-97f8-dd1750eca784][Daily Habits]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5816e9be8dc7cda52e30e][Theory of Computation]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581cf92edd7f9b2e9d086][Software & Its Engineering]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'efficacité consiste à obtenir des résultats avec le moins de perte de temps, d'énergie ou de ressources. Elle s'applique à l'informatique, à la biologie, aux organisations et aux habitudes personnelles.
+
+Lectures recommandées (titres conservés tels quels) : Data Processing ; Daily Habits ; Theory of Computation ; Software & Its Engineering.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

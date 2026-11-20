@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81f0-b19f-d9622f337092
+:NOTION_ID: 41ea657440a581f0b19fd9622f337092
+:NOTION_URL: https://app.notion.com/p/41ea657440a581f0b19fd9622f337092
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8125-b0fe-d308d3110179
+:PRIVATE_NOTION_ID: 41da657440a58125b0fed308d3110179
+:END:
+#+title: Optimal Community Arrangements and Systems
+#+filetags: :public:Philosophical:Social_and_Political_Philosophy:Community:Society_and_Politics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic asks how communities can best be organized to meet people's needs, through governance, economics, mutual aid and shared institutions.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81c8-9ba6-fe31a30ed936][Community Awareness]] (related page in this tree)
+- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58166a026d5e4a79512df][Social and Political Philosophy]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a5818ba456dddfc10442d8][Thread: Mental health & disability systems]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet demande comment les communautés peuvent être organisées au mieux pour répondre aux besoins des personnes, par la gouvernance, l'économie, l'entraide et les institutions partagées.
+
+Lectures recommandées (titres conservés tels quels) : Community Awareness ; Organizational Dynamics and Psychology ; Social and Political Philosophy ; Thread: Mental health & disability systems.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

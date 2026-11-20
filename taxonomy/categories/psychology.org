@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-810a-82a7-d3a45959f6aa
+:NOTION_ID: 41ea657440a5810a82a7d3a45959f6aa
+:NOTION_URL: https://app.notion.com/p/41ea657440a5810a82a7d3a45959f6aa
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Psychology
+#+filetags: :Category:Psychology:
+
+Development, learning, personality, emotion, and social life.
+
+* Français / French :FRENCH:
+Développement, apprentissage, personnalité, émotion et vie sociale.

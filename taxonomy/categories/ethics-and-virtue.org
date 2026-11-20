@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81d6-b96c-c0f51f97f1bf
+:NOTION_ID: 41ea657440a581d6b96cc0f51f97f1bf
+:NOTION_URL: https://app.notion.com/p/41ea657440a581d6b96cc0f51f97f1bf
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Ethics and Virtue
+#+filetags: :Category:Ethics_and_Virtue:
+
+Character, the good, and how we treat one another.
+
+* Français / French :FRENCH:
+Caractère, le bien et notre manière de traiter autrui.

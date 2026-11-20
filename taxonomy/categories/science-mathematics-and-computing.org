@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8192-a10b-c205115982a0
+:NOTION_ID: 41ea657440a58192a10bc205115982a0
+:NOTION_URL: https://app.notion.com/p/41ea657440a58192a10bc205115982a0
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Science, Mathematics, and Computing
+#+filetags: :Category:Science_Mathematics_and_Computing:
+
+Physics, mathematics, information, and artificial intelligence.
+
+* Français / French :FRENCH:
+Physique, mathématiques, information et intelligence artificielle.

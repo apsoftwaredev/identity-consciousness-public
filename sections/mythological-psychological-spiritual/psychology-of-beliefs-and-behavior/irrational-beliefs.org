@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81f6-8877-dd831d04b7ac
+:NOTION_ID: 41ea657440a581f68877dd831d04b7ac
+:NOTION_URL: https://app.notion.com/p/41ea657440a581f68877dd831d04b7ac
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8166-a808-fa78d5de7a5a
+:PRIVATE_NOTION_ID: 41da657440a58166a808fa78d5de7a5a
+:END:
+#+title: Irrational Beliefs
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Knowledge:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Irrational beliefs are rigid, unrealistic beliefs that lead to distress, a central idea in Albert Ellis's rational emotive behavior therapy.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8184-a43c-fd58c91589ae][Self Imposed Limitations]] (related page in this tree)
+- [[id:41ea6574-40a5-812c-b14d-f64f47379771][Magical Thinking]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813782b5dd4268c38c1f][Psychotherapy]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les croyances irrationnelles sont des croyances rigides et irréalistes qui engendrent de la détresse, une idée centrale de la thérapie rationnelle émotive et comportementale d'Albert Ellis.
+
+Lectures recommandées (titres conservés tels quels) : Self Imposed Limitations ; Magical Thinking ; Psychotherapy ; Cognitive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

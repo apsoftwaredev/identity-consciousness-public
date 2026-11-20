@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81fe-bf3d-eb60de76a348
+:NOTION_ID: 41ea657440a581febf3deb60de76a348
+:NOTION_URL: https://app.notion.com/p/41ea657440a581febf3deb60de76a348
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-814e-a9a5-c312fa5c712f
+:PRIVATE_NOTION_ID: 41da657440a5814ea9a5c312fa5c712f
+:END:
+#+title: Community Mental Health Systems and Optimal Helping Strategies and Philosophy
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Clinical_Psychology_and_Mental_Health:Mental_Health:Community:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns how communities organize mental health services and which helping approaches work best, along with the values behind care.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a5818ba456dddfc10442d8][Thread: Mental health & disability systems]] (public research thread)
+- [[https://app.notion.com/p/3fba657440a581488c0def0cb0a13c1a][Robotics & AI Assistance for Developmental Disabilities and Mental Health, Olympia, WA Research Plan]] (public research page)
+- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur l'organisation des services de santé mentale dans les communautés et sur les approches d'aide les plus efficaces, ainsi que sur les valeurs qui guident les soins.
+
+Lectures recommandées (titres conservés tels quels) : Helping Others ; Thread: Mental health & disability systems ; Robotics & AI Assistance for Developmental Disabilities and Mental Health, Olympia, WA Research Plan ; Clinical Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

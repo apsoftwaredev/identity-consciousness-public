@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8198-a2ad-cc68db37dc3f
+:NOTION_ID: 41ea657440a58198a2adcc68db37dc3f
+:NOTION_URL: https://app.notion.com/p/41ea657440a58198a2adcc68db37dc3f
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8198-af1c-c0efb284f2e1
+:PRIVATE_NOTION_ID: 41da657440a58198af1cc0efb284f2e1
+:END:
+#+title: Understanding
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Understanding is grasping how things fit together and why, beyond holding isolated facts. It is studied in epistemology, the philosophy of science and cognitive psychology.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-819c-abbb-cc1b6007f8f6][Knowledge and Wisdom]] (related page in this tree)
+- [[id:41ea6574-40a5-8180-9378-e127be87d7f1][Historical Development of Understanding]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581069325c9d8bff9a50c][Epistemology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La compréhension consiste à saisir comment les choses s'articulent et pourquoi, au-delà de faits isolés. Elle est étudiée en épistémologie, en philosophie des sciences et en psychologie cognitive.
+
+Lectures recommandées (titres conservés tels quels) : Knowledge and Wisdom ; Historical Development of Understanding ; Epistemology ; Cognitive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-815e-a9e3-d40e6e3888b9
+:NOTION_ID: 41ea657440a5815ea9e3d40e6e3888b9
+:NOTION_URL: https://app.notion.com/p/41ea657440a5815ea9e3d40e6e3888b9
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Mind and Machines
+#+filetags: :Tag:Mind_and_Machines:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Esprit et machines

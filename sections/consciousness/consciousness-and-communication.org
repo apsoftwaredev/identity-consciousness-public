@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8134-97e3-f0ca611af725
+:NOTION_ID: 41ea657440a5813497e3f0ca611af725
+:NOTION_URL: https://app.notion.com/p/41ea657440a5813497e3f0ca611af725
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-819e-a1b7-d33e93c6ba50
+:PRIVATE_NOTION_ID: 41da657440a5819ea1b7d33e93c6ba50
+:END:
+#+title: Consciousness and Communication
+#+filetags: :public:Consciousness:Philosophy_of_Mind:Language_and_Communication:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns how conscious minds share experience through language and other signals, and whether communication itself shapes consciousness.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]] (related page in this tree)
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5812ab0e6f3c440b3960b][Philosophy of Language]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a5817da0c2e4746f57b399][Thread: Navigating the system with mind and voice]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur la manière dont des esprits conscients partagent leur expérience par le langage et d'autres signaux, et sur la question de savoir si la communication façonne elle-même la conscience.
+
+Lectures recommandées (titres conservés tels quels) : Communication ; Community of Consciousness ; Philosophy of Language ; Thread: Navigating the system with mind and voice.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

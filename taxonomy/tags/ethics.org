@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-819b-b732-e9a3d08305c7
+:NOTION_ID: 41ea657440a5819bb732e9a3d08305c7
+:NOTION_URL: https://app.notion.com/p/41ea657440a5819bb732e9a3d08305c7
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Ethics
+#+filetags: :Tag:Ethics:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Éthique

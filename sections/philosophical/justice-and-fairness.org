@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c3-95a1-ca3235938bac
+:NOTION_ID: 41ea657440a581c395a1ca3235938bac
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c395a1ca3235938bac
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8141-94b1-f3e0c5334ac4
+:PRIVATE_NOTION_ID: 41da657440a5814194b1f3e0c5334ac4
+:END:
+#+title: Justice and Fairness
+#+filetags: :public:Philosophical:Social_and_Political_Philosophy:Society_and_Politics:Ethics:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Justice and fairness concern giving each person their due and treating people equally. The topic covers distributive, procedural and restorative justice.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
+- [[id:41ea6574-40a5-81ba-a524-f48493c6c919][Individual Rights and the State]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58166a026d5e4a79512df][Social and Political Philosophy]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La justice et l'équité consistent à rendre à chacun ce qui lui revient et à traiter les personnes de façon égale. Le sujet couvre la justice distributive, procédurale et réparatrice.
+
+Lectures recommandées (titres conservés tels quels) : Ethics ; Individual Rights and the State ; Social and Political Philosophy ; Normative Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

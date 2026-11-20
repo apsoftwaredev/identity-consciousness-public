@@ -1,0 +1,10 @@
+#+title: Research Topics
+
+- [[id:41ea6574-40a5-818c-8890-ec21d77a0f05][Identity]]
+- [[id:41ea6574-40a5-811c-aa3e-f1d496fa2f24][Consciousness]]
+- [[id:41ea6574-40a5-8161-9f6e-d7533503fa53][Virtues]]
+- [[id:41ea6574-40a5-8147-8c63-d4abee32a03f][Ethics]]
+- [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]]
+- [[id:41ea6574-40a5-81fc-b81f-e7982018b43b][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]]
+- [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+- [[id:41ea6574-40a5-8104-a37e-d492f8cebcc0][Biological and Neurological]]

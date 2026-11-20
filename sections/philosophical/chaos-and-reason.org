@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-811e-a98a-f9abc619d12f
+:NOTION_ID: 41ea657440a5811ea98af9abc619d12f
+:NOTION_URL: https://app.notion.com/p/41ea657440a5811ea98af9abc619d12f
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8106-95fe-d1fc7e68eafa
+:PRIVATE_NOTION_ID: 41da657440a5810695fed1fc7e68eafa
+:END:
+#+title: Chaos and Reason
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Complexity_and_Chaos:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic sets disorder and unpredictability against rational order and explanation. It asks how reason can find patterns in, or impose structure on, a chaotic world.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-813f-9e05-ef525d176ff9][Order, Chaos, and Complexity]] (related page in this tree)
+- [[id:41ea6574-40a5-816e-b01e-fa25747ab69d][Logic]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5812ab66ce67100dd6a6a][Calculus, Real Functions & Dynamical Systems]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581ebafe3f721d6733641][Metaphysics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet oppose le désordre et l'imprévisibilité à l'ordre rationnel et à l'explication. Il demande comment la raison peut trouver des régularités dans un monde chaotique, ou lui donner une structure.
+
+Lectures recommandées (titres conservés tels quels) : Order, Chaos, and Complexity ; Logic ; Calculus, Real Functions & Dynamical Systems ; Metaphysics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

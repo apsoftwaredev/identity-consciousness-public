@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-814d-b64b-edec5c869222
+:NOTION_ID: 41ea657440a5814db64bedec5c869222
+:NOTION_URL: https://app.notion.com/p/41ea657440a5814db64bedec5c869222
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Culture and Arts
+#+filetags: :Tag:Culture_and_Arts:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Culture et arts

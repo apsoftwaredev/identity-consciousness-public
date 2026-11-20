@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81fb-8c8f-f4e6aef50c67
+:NOTION_ID: 41ea657440a581fb8c8ff4e6aef50c67
+:NOTION_URL: https://app.notion.com/p/41ea657440a581fb8c8ff4e6aef50c67
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Consciousness
+#+filetags: :Tag:Consciousness:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Conscience

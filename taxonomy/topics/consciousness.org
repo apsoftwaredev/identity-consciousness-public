@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-811c-aa3e-f1d496fa2f24
+:NOTION_ID: 41ea657440a5811caa3ef1d496fa2f24
+:NOTION_URL: https://app.notion.com/p/41ea657440a5811caa3ef1d496fa2f24
+:VISIBILITY: public
+:TAXONOMY: Topic
+:END:
+#+title: Consciousness
+#+filetags: :Topic:Consciousness:
+
+Topic 2 of 8
+
+* Français / French :FRENCH:
+Sujet 2 sur 8 : Conscience

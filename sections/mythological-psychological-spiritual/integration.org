@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8188-8f3e-d29dd2c25414
+:NOTION_ID: 41ea657440a581888f3ed29dd2c25414
+:NOTION_URL: https://app.notion.com/p/41ea657440a581888f3ed29dd2c25414
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-817e-9bf2-facabec0c2b6
+:PRIVATE_NOTION_ID: 41da657440a5817e9bf2facabec0c2b6
+:END:
+#+title: Integration
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Self_and_Identity:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Integration is bringing separate parts of experience, personality or knowledge into a coherent whole. In psychology it describes the healthy joining of parts of the self.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-814c-b47d-d646d3f8d5cd][Holism]] (related page in this tree)
+- [[id:41ea6574-40a5-81a9-9cef-fa5fcca92c7c][Synthesis]] (related page in this tree)
+- [[id:41ea6574-40a5-812c-b067-f86006acf0bd][Ego States]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5818385e4e52316908649][Humanistic Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'intégration consiste à réunir des parties séparées de l'expérience, de la personnalité ou du savoir en un tout cohérent. En psychologie, elle désigne l'union saine des parties du soi.
+
+Lectures recommandées (titres conservés tels quels) : Holism ; Synthesis ; Ego States ; Humanistic Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

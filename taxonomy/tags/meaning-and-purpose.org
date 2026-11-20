@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8165-9a23-e9e0aacc2f8e
+:NOTION_ID: 41ea657440a581659a23e9e0aacc2f8e
+:NOTION_URL: https://app.notion.com/p/41ea657440a581659a23e9e0aacc2f8e
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Meaning and Purpose
+#+filetags: :Tag:Meaning_and_Purpose:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Sens et finalité

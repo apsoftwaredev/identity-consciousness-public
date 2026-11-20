@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c6-8b5d-eb1a321fdeea
+:NOTION_ID: 41ea657440a581c68b5deb1a321fdeea
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c68b5deb1a321fdeea
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-814b-89fb-e7bda70c376f
+:PRIVATE_NOTION_ID: 41da657440a5814b89fbe7bda70c376f
+:END:
+#+title: Following
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Society_and_Politics:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Following concerns why and how people follow leaders and groups, including conformity, obedience and loyalty.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (related page in this tree)
+- [[id:41ea6574-40a5-81fc-964d-ceca7ddda5d2][Cult Leaders]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le suivisme porte sur les raisons et la manière dont les personnes suivent des dirigeants et des groupes : conformisme, obéissance et loyauté.
+
+Lectures recommandées (titres conservés tels quels) : Role Modeling and Leadership ; Cult Leaders ; Social Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

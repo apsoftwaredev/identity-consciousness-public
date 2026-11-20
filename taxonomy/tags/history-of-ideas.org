@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81a9-8f88-cfa2a324baf6
+:NOTION_ID: 41ea657440a581a98f88cfa2a324baf6
+:NOTION_URL: https://app.notion.com/p/41ea657440a581a98f88cfa2a324baf6
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: History of Ideas
+#+filetags: :Tag:History_of_Ideas:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Histoire des idées

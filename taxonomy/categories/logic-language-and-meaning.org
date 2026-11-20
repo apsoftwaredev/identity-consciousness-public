@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8112-826d-e789659d8e1d
+:NOTION_ID: 41ea657440a58112826de789659d8e1d
+:NOTION_URL: https://app.notion.com/p/41ea657440a58112826de789659d8e1d
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Logic, Language, and Meaning
+#+filetags: :Category:Logic_Language_and_Meaning:
+
+Reasoning, language, and how meaning works.
+
+* Français / French :FRENCH:
+Le raisonnement, le langage et le fonctionnement du sens.

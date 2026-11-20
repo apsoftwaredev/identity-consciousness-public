@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81dd-bb3f-c35b16a458ee
+:NOTION_ID: 41ea657440a581ddbb3fc35b16a458ee
+:NOTION_URL: https://app.notion.com/p/41ea657440a581ddbb3fc35b16a458ee
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-815c-8ff2-c539c905feb2
+:PRIVATE_NOTION_ID: 41da657440a5815c8ff2c539c905feb2
+:END:
+#+title: Philosophy
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:History_of_Ideas:Culture_and_Arts:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Linked under Culture, this page treats philosophy as part of a culture's shared life: the love of wisdom and the practice of examining basic questions.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (related page in this tree)
+- [[id:41ea6574-40a5-81b9-a570-d712ba7b0c36][Metaphilosophy]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5817fb313f9b6ac4bfff7][Philosophical Traditions]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5815da10ff8a483f62953][History of Western Philosophy]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Rattachée à Culture, cette page traite la philosophie comme une part de la vie partagée d'une culture : l'amour de la sagesse et la pratique de l'examen des questions fondamentales.
+
+Lectures recommandées (titres conservés tels quels) : Philosophical ; Metaphilosophy ; Philosophical Traditions ; History of Western Philosophy.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

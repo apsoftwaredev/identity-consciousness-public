@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81a7-889f-f9bf40c4f957
+:NOTION_ID: 41ea657440a581a7889ff9bf40c4f957
+:NOTION_URL: https://app.notion.com/p/41ea657440a581a7889ff9bf40c4f957
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Social and Political Philosophy
+#+filetags: :Category:Social_and_Political_Philosophy:
+
+Rights, justice, community, and institutions.
+
+* Français / French :FRENCH:
+Droits, justice, communauté et institutions.

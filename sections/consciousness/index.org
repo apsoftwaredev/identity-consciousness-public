@@ -1,0 +1,19 @@
+#+title: Consciousness
+
+Section page: [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]]
+
+* Pages
+
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]]
+- [[id:41ea6574-40a5-813d-b088-f299478d2bbc][2026-11-19 · Consciousness discussion]]
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]]
+- [[id:41ea6574-40a5-8134-97e3-f0ca611af725][Consciousness and Communication]]
+- [[id:41ea6574-40a5-819d-8ffc-fb497b86149c][Consciousness and Location]]
+  - [[id:41ea6574-40a5-8100-9576-e648dfb52935][Consciousness and Machines / Nonorganic Consciousness]]
+- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]]
+- [[id:41ea6574-40a5-81e3-8f22-d6c4787c65d2][Parallel Distributed Systems]]
+- [[id:41ea6574-40a5-8174-87f9-c84898d04149][Problems Defining]]
+- [[id:41ea6574-40a5-8101-b42c-d0fbf2e53424][Theories of Consciousness, maps of current controversies]]
+- [[id:41ea6574-40a5-81ad-9061-fd84b1f3042b][Types of Consciousness]]
+- [[id:41ea6574-40a5-8103-9523-d47caeef0b50][What is consciousness?]]
+- [[id:41ea6574-40a5-81ab-a84b-ee21804bca9b][Why is there consciousness?]]

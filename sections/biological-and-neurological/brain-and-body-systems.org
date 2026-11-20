@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c1-a2dd-db6e397c6c15
+:NOTION_ID: 41ea657440a581c1a2dddb6e397c6c15
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c1a2dddb6e397c6c15
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-812a-87ba-c03eebe9f950
+:PRIVATE_NOTION_ID: 41da657440a5812a87bac03eebe9f950
+:END:
+#+title: Brain and Body Systems
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers the nervous, endocrine, immune and other body systems and how they interact with the brain to produce behavior and experience.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-815b-846c-c90a93155fcf][Brain and Body Health]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5813194afd787fa555202][Psychoneuroimmunology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur les systèmes nerveux, endocrinien, immunitaire et autres, et sur leur interaction avec le cerveau pour produire le comportement et l'expérience.
+
+Lectures recommandées (titres conservés tels quels) : Brain and Body Health ; Behavioral Neuroscience & Physiological Psychology ; Psychoneuroimmunology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

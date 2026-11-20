@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8192-ab01-ca713c65bf45
+:NOTION_ID: 41ea657440a58192ab01ca713c65bf45
+:NOTION_URL: https://app.notion.com/p/41ea657440a58192ab01ca713c65bf45
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81ba-9837-c15bd0763f4b
+:PRIVATE_NOTION_ID: 41da657440a581ba9837c15bd0763f4b
+:END:
+#+title: Family Systems
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Community:Development_and_Learning:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Family systems theory views the family as an emotional unit in which each member's behavior affects the others, a framework developed by Murray Bowen.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-817e-b18a-f7b38f04bc3b][The Self and Relationships with Others]] (related page in this tree)
+- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813782b5dd4268c38c1f][Psychotherapy]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La théorie des systèmes familiaux considère la famille comme une unité émotionnelle où le comportement de chacun influe sur les autres, un cadre développé par Murray Bowen.
+
+Lectures recommandées (titres conservés tels quels) : The Self and Relationships with Others ; Organizational Dynamics and Psychology ; Psychotherapy ; Clinical Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

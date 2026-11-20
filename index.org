@@ -1,0 +1,32 @@
+#+title: Identity and Consciousness: Public Research Map
+
+Public Org-mode mirror of Daniel Bryan Boice's Identity and Consciousness research map.
+Sites: https://research.dan.credit · https://system.dan.engineer
+The Director-only site is https://private.dan.engineer.
+
+Landing page: [[file:identity-and-consciousness-public-research-map.org][Public Research Map]]
+
+* Sections
+
+- [[file:sections/identity/index.org][Identity]]
+- [[file:sections/consciousness/index.org][Consciousness]]
+- [[file:sections/virtues/index.org][Virtues]]
+- [[file:sections/ethics/index.org][Ethics]]
+- [[file:sections/philosophical/index.org][Philosophical]]
+- [[file:sections/quantum-physics-math-ai/index.org][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]]
+- [[file:sections/mythological-psychological-spiritual/index.org][Mythological, Psychological, and Spiritual]]
+- [[file:sections/biological-and-neurological/index.org][Biological and Neurological]]
+
+* Taxonomy
+
+- [[file:taxonomy/topics/index.org][Topics]]
+- [[file:taxonomy/categories/index.org][Categories]]
+- [[file:taxonomy/tags/index.org][Tags]]
+
+* Version history
+
+- [[file:versions/version-history.org][Version history]]
+
+* Sync log
+
+- [[file:sync-log.org][Sync log]]

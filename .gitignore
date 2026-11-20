@@ -1,0 +1,10 @@
+*~
+.#*
+*.bak
+org-roam.db
+org-roam.db-shm
+org-roam.db-wal
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

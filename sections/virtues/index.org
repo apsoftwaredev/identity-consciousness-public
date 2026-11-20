@@ -1,0 +1,13 @@
+#+title: Virtues
+
+Section page: [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]]
+
+* Pages
+
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]]
+- [[id:41ea6574-40a5-81ad-8531-c04bcc56799e][Character Development]]
+- [[id:41ea6574-40a5-8117-b925-f478272130c6][Forgiveness of Self and Others]]
+- [[id:41ea6574-40a5-8170-867d-e297eea1d0f1][Gratitude and Happiness]]
+- [[id:41ea6574-40a5-8112-9a72-ff8c1ad088ff][Humility, Pride, and Shame]]
+- [[id:41ea6574-40a5-8144-8b8a-ced6f5aeec76][Patience]]
+- [[id:41ea6574-40a5-819b-a0f2-e907e642a06c][Perseverance]]

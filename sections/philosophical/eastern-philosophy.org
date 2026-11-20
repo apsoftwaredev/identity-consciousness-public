@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8172-ac76-e11a1cbc7609
+:NOTION_ID: 41ea657440a58172ac76e11a1cbc7609
+:NOTION_URL: https://app.notion.com/p/41ea657440a58172ac76e11a1cbc7609
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81b1-b829-d313b991ef92
+:PRIVATE_NOTION_ID: 41da657440a581b1b829d313b991ef92
+:END:
+#+title: Eastern Philosophy
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Eastern_Thought:Spirituality:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Eastern philosophy covers the traditions of India, China and Japan, including Hindu, Buddhist, Daoist and Confucian thought. Central themes include the self, harmony, impermanence and liberation.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8154-8b31-c4f8f2788c77][Meditation, Hypnosis, Prayer]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a5810dab5ad8bd2814dc20][Buddhism]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5810c87f6dbf4c4c6231f][Taoism & Confucianism]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La philosophie orientale couvre les traditions de l'Inde, de la Chine et du Japon, dont les pensées hindoue, bouddhiste, taoïste et confucéenne. Ses thèmes centraux sont le soi, l'harmonie, l'impermanence et la libération.
+
+Lectures recommandées (titres conservés tels quels) : Meditation, Hypnosis, Prayer ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Buddhism ; Taoism & Confucianism.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

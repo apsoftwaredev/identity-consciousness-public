@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8130-9767-f7252df4755c
+:NOTION_ID: 41ea657440a581309767f7252df4755c
+:NOTION_URL: https://app.notion.com/p/41ea657440a581309767f7252df4755c
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Culture and the Arts
+#+filetags: :Category:Culture_and_the_Arts:
+
+Creativity, culture, play, and the arts.
+
+* Français / French :FRENCH:
+Créativité, culture, jeu et arts.

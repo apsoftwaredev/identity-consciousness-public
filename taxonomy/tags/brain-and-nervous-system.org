@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8181-96f9-d2f21af3dd33
+:NOTION_ID: 41ea657440a5818196f9d2f21af3dd33
+:NOTION_URL: https://app.notion.com/p/41ea657440a5818196f9d2f21af3dd33
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Brain and Nervous System
+#+filetags: :Tag:Brain_and_Nervous_System:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Cerveau et système nerveux

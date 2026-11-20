@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8112-9a72-ff8c1ad088ff
+:NOTION_ID: 41ea657440a581129a72ff8c1ad088ff
+:NOTION_URL: https://app.notion.com/p/41ea657440a581129a72ff8c1ad088ff
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81b9-ad99-c8bbb12a1d15
+:PRIVATE_NOTION_ID: 41da657440a581b9ad99c8bbb12a1d15
+:END:
+#+title: Humility, Pride, and Shame
+#+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Emotion:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic looks at three self-conscious emotions: humility, an accurate and modest view of oneself; pride, pleasure in one's worth or achievements; and shame, a painful sense of being flawed.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81ad-8531-c04bcc56799e][Character Development]] (related page in this tree)
+- [[id:41ea6574-40a5-8144-8cc6-c6e20b274a16][Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet examine trois émotions liées à la conscience de soi : l'humilité, une vision juste et modeste de soi ; la fierté, le plaisir de sa valeur ou de ses réussites ; et la honte, le sentiment douloureux d'être défaillant.
+
+Lectures recommandées (titres conservés tels quels) : Character Development ; Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration ; Positive Psychology ; Normative Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-817a-894e-df62279613ab
+:NOTION_ID: 41ea657440a5817a894edf62279613ab
+:NOTION_URL: https://app.notion.com/p/41ea657440a5817a894edf62279613ab
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8102-81bb-e45b06324292
+:PRIVATE_NOTION_ID: 41da657440a5810281bbe45b06324292
+:END:
+#+title: Extremes
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Emotion:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns extremes of belief, emotion and behavior, and the value of balance and moderation.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8178-8d91-e538c5ac6c54][Inner Peace and Balance]] (related page in this tree)
+- [[id:41ea6574-40a5-815c-9779-d4091dad6a85][Rigidity and Conflict]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur les extrêmes de croyance, d'émotion et de comportement, et sur la valeur de l'équilibre et de la modération.
+
+Lectures recommandées (titres conservés tels quels) : Inner Peace and Balance ; Rigidity and Conflict ; Normative Ethics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

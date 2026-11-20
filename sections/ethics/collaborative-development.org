@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8133-b291-cc59d1d9fd9c
+:NOTION_ID: 41ea657440a58133b291cc59d1d9fd9c
+:NOTION_URL: https://app.notion.com/p/41ea657440a58133b291cc59d1d9fd9c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8129-a8f7-f60e73dafae8
+:PRIVATE_NOTION_ID: 41da657440a58129a8f7f60e73dafae8
+:END:
+#+title: Collaborative Development
+#+filetags: :public:Ethics:Social_and_Political_Philosophy:Community:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Collaborative development is growing ideas, projects or communities by working together, sharing knowledge and building on each other's contributions.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81c8-9ba6-fe31a30ed936][Community Awareness]] (related page in this tree)
+- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (related page in this tree)
+- [[https://app.notion.com/p/3f7a657440a58108baead478e9594e72][Open Research Topics]] (public research page)
+- [[https://app.notion.com/p/3eaa657440a581bfa4c5d3d6a374bc8e][Human-Centered Computing]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le développement collaboratif consiste à faire grandir des idées, des projets ou des communautés en travaillant ensemble, en partageant le savoir et en s'appuyant sur les contributions de chacun.
+
+Lectures recommandées (titres conservés tels quels) : Community Awareness ; Organizational Dynamics and Psychology ; Open Research Topics ; Human-Centered Computing.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

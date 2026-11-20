@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8128-8666-f942cdcaf4a1
+:NOTION_ID: 41ea657440a581288666f942cdcaf4a1
+:NOTION_URL: https://app.notion.com/p/41ea657440a581288666f942cdcaf4a1
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81a3-84e3-e6f8d65dd6e4
+:PRIVATE_NOTION_ID: 41da657440a581a384e3e6f8d65dd6e4
+:END:
+#+title: Psychology of Beliefs and Behavior
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Knowledge:Emotion:Subtopic:
+
+** Summary
+
+From Daniel's Roam notes: this page links habituation, extremes, self-imposed limitations, irrational beliefs, mood states and a systematic behavioral learning process. It gathers how beliefs form, persist and shape behavior.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
+- [[id:41ea6574-40a5-8149-8674-d986dfa37b36][Dogmatism]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : cette page relie l'habituation, les extrêmes, les limites que l'on s'impose, les croyances irrationnelles, les états d'humeur et un processus systématique d'apprentissage comportemental. Elle rassemble la façon dont les croyances se forment, persistent et orientent le comportement.
+
+Lectures recommandées (titres conservés tels quels) : Theories of Learning ; Dogmatism ; Cognitive Psychology ; Social Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

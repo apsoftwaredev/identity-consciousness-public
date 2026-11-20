@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8134-b6de-c5aedb2c7ca7
+:NOTION_ID: 41ea657440a58134b6dec5aedb2c7ca7
+:NOTION_URL: https://app.notion.com/p/41ea657440a58134b6dec5aedb2c7ca7
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-810c-974a-ecc279794278
+:PRIVATE_NOTION_ID: 41da657440a5810c974aecc279794278
+:END:
+#+title: Brain Development and Plasticity
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Development_and_Learning:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers how the brain develops from before birth through adulthood and how it reorganizes itself in response to learning and experience.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581d3876af9ddcc2c2004][Developmental Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur le développement du cerveau, d'avant la naissance à l'âge adulte, et sur sa capacité à se réorganiser sous l'effet de l'apprentissage et de l'expérience.
+
+Lectures recommandées (titres conservés tels quels) : Growth and Psychological Development ; Theories of Learning ; Developmental Psychology ; Behavioral Neuroscience & Physiological Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8161-9f6e-d7533503fa53
+:NOTION_ID: 41ea657440a581619f6ed7533503fa53
+:NOTION_URL: https://app.notion.com/p/41ea657440a581619f6ed7533503fa53
+:VISIBILITY: public
+:TAXONOMY: Topic
+:END:
+#+title: Virtues
+#+filetags: :Topic:Virtues:
+
+Topic 3 of 8
+
+* Français / French :FRENCH:
+Sujet 3 sur 8 : Vertus

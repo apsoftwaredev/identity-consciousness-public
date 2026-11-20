@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8140-b5ec-c484975d011d
+:NOTION_ID: 41ea657440a58140b5ecc484975d011d
+:NOTION_URL: https://app.notion.com/p/41ea657440a58140b5ecc484975d011d
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8132-a417-cc719d19febc
+:PRIVATE_NOTION_ID: 41da657440a58132a417cc719d19febc
+:END:
+#+title: Problems of Quantum Mechanics
+#+filetags: :public:Philosophical:Science_Mathematics_and_Computing:Quantum_Physics:Reality:Philosophy_of_Science:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic covers the open puzzles in quantum mechanics, such as the measurement problem, superposition, entanglement and the role of the observer. These puzzles bear on reality and consciousness.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8130-8a46-d40b0ccae903][Quantum States]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a58100a9b9cdcd954c81fb][Theory notes: ego states, networks and the bubble of possibilities (Nov 7, 2026)]] (private research notes)
+- [[https://app.notion.com/p/411a657440a5815c8f40c866a770590a][Thread: Quantum & reality]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a58135ab37f028521ac0c9][Philosophy of Physical Science]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet couvre les énigmes ouvertes de la mécanique quantique, comme le problème de la mesure, la superposition, l'intrication et le rôle de l'observateur. Ces énigmes touchent à la réalité et à la conscience.
+
+Lectures recommandées (titres conservés tels quels) : Quantum States ; Theory notes: ego states, networks and the bubble of possibilities (Nov 7, 2026) ; Thread: Quantum & reality ; Philosophy of Physical Science.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

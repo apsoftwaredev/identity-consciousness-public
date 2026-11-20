@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81fc-b81f-e7982018b43b
+:NOTION_ID: 41ea657440a581fcb81fe7982018b43b
+:NOTION_URL: https://app.notion.com/p/41ea657440a581fcb81fe7982018b43b
+:VISIBILITY: public
+:TAXONOMY: Topic
+:END:
+#+title: Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
+#+filetags: :Topic:Quantum_Physics_Mathematics_and_Statistics_Data_:
+
+Topic 6 of 8
+
+* Français / French :FRENCH:
+Sujet 6 sur 8 : Physique quantique, mathématiques et statistiques, science des données, IA et ordinateurs

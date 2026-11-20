@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81eb-90de-f05a0f89df8f
+:NOTION_ID: 41ea657440a581eb90def05a0f89df8f
+:NOTION_URL: https://app.notion.com/p/41ea657440a581eb90def05a0f89df8f
+:VISIBILITY: public
+:TAXONOMY: Topic
+:END:
+#+title: Philosophical
+#+filetags: :Topic:Philosophical:
+
+Topic 5 of 8
+
+* Français / French :FRENCH:
+Sujet 5 sur 8 : Philosophique

@@ -1,0 +1,16 @@
+#+title: Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
+
+Section page: [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]]
+
+* Pages
+
+- [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]]
+- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]]
+- [[id:41ea6574-40a5-8182-9ad8-ce455c7ca6ed][Data Processing]]
+- [[id:41ea6574-40a5-8141-afae-f2de679fdfe9][Efficiency]]
+- [[id:41ea6574-40a5-81da-b0d0-e9fb4feb5762][Laws of Nature]]
+- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]]
+- [[id:41ea6574-40a5-813f-9e05-ef525d176ff9][Order, Chaos, and Complexity]]
+- [[id:41ea6574-40a5-8130-8a46-d40b0ccae903][Quantum States]]
+- [[id:41ea6574-40a5-8106-a39b-c7e20e5a1226][Time and Space]]
+  - [[id:41ea6574-40a5-8102-b024-e16a944a499d][Relativity and Consciousness]]

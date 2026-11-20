@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81c0-80ac-e3184976aa09
+:NOTION_ID: 41ea657440a581c080ace3184976aa09
+:NOTION_URL: https://app.notion.com/p/41ea657440a581c080ace3184976aa09
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8127-b7fa-de062e9cefd5
+:PRIVATE_NOTION_ID: 41da657440a58127b7fade062e9cefd5
+:END:
+#+title: Psychopathology
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Clinical_Psychology_and_Mental_Health:Mental_Health:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Psychopathology is the study of mental disorders: their symptoms, causes, classification and course. It underlies clinical diagnosis and treatment.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8175-bf3e-da2f474f3af5][Psychosis]] (related page in this tree)
+- [[id:41ea6574-40a5-81fe-bf3d-eb60de76a348][Community Mental Health Systems and Optimal Helping Strategies and Philosophy]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581eaad1bff392aaf859b][Philosophy of Psychiatry and Psychopathology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La psychopathologie est l'étude des troubles mentaux : leurs symptômes, leurs causes, leur classification et leur évolution. Elle fonde le diagnostic et le traitement cliniques.
+
+Lectures recommandées (titres conservés tels quels) : Psychosis ; Community Mental Health Systems and Optimal Helping Strategies and Philosophy ; Philosophy of Psychiatry and Psychopathology ; Clinical Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

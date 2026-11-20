@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b4-aff7-de42fde6e693
+:NOTION_ID: 41ea657440a581b4aff7de42fde6e693
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b4aff7de42fde6e693
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81f0-83db-ebe0eba56dc0
+:PRIVATE_NOTION_ID: 41da657440a581f083dbebe0eba56dc0
+:END:
+#+title: Systematic Behavioral Learning Process
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Development_and_Learning:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns structured, step-by-step learning based on behavioral principles such as reinforcement and shaping.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
+- [[id:41ea6574-40a5-8189-9508-ced9d27c303e][Habituation]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur l'apprentissage structuré, étape par étape, fondé sur des principes comportementaux comme le renforcement et le façonnement.
+
+Lectures recommandées (titres conservés tels quels) : Theories of Learning ; Habituation ; Cognitive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

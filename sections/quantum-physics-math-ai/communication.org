@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8132-9a49-de03cb668295
+:NOTION_ID: 41ea657440a581329a49de03cb668295
+:NOTION_URL: https://app.notion.com/p/41ea657440a581329a49de03cb668295
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81e3-915d-e3df4849a23e
+:PRIVATE_NOTION_ID: 41da657440a581e3915de3df4849a23e
+:END:
+#+title: Communication
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Language_and_Communication:Computing_and_AI:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Communication is the transfer of meaning between people, animals or machines. Its study ranges from information theory and signals to language, listening and relationships.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81cf-911c-fff8fe8acad8][Language]] (related page in this tree)
+- [[id:41ea6574-40a5-8134-97e3-f0ca611af725][Consciousness and Communication]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5818cb29ffd9a245632bd][Information Theory]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a5817da0c2e4746f57b399][Thread: Navigating the system with mind and voice]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La communication est la transmission de sens entre personnes, animaux ou machines. Son étude va de la théorie de l'information et des signaux au langage, à l'écoute et aux relations.
+
+Lectures recommandées (titres conservés tels quels) : Language ; Consciousness and Communication ; Information Theory ; Thread: Navigating the system with mind and voice.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

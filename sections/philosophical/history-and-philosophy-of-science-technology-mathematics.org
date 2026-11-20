@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8100-bd09-cb46b0d60df8
+:NOTION_ID: 41ea657440a58100bd09cb46b0d60df8
+:NOTION_URL: https://app.notion.com/p/41ea657440a58100bd09cb46b0d60df8
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81a3-86ba-ec7efb1dfb4a
+:PRIVATE_NOTION_ID: 41da657440a581a386baec7efb1dfb4a
+:END:
+#+title: History and Philosophy of Science, Technology, Mathematics
+#+filetags: :public:Philosophical:Science_Mathematics_and_Computing:History_of_Ideas:Philosophy_of_Science:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This field studies how science, technology and mathematics developed and what their methods and claims mean. It asks what makes knowledge scientific and how mathematics relates to the world.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81a4-b8b1-c85245c8a1b3][Science and Non Science]] (related page in this tree)
+- [[id:41ea6574-40a5-8180-9378-e127be87d7f1][Historical Development of Understanding]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581278a05f4fdee984a5c][General Philosophy of Science]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5817791d2f2ac5ae086d8][Philosophy of Mathematics]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce domaine étudie le développement des sciences, des techniques et des mathématiques, et la portée de leurs méthodes et affirmations. Il demande ce qui rend un savoir scientifique et quel lien les mathématiques entretiennent avec le monde.
+
+Lectures recommandées (titres conservés tels quels) : Science and Non Science ; Historical Development of Understanding ; General Philosophy of Science ; Philosophy of Mathematics.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

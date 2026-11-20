@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-815b-846c-c90a93155fcf
+:NOTION_ID: 41ea657440a5815b846cc90a93155fcf
+:NOTION_URL: https://app.notion.com/p/41ea657440a5815b846cc90a93155fcf
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-819e-a801-c29d9ae3d7db
+:PRIVATE_NOTION_ID: 41da657440a5819ea801c29d9ae3d7db
+:END:
+#+title: Brain and Body Health
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Health_and_Aging:Brain_and_Nervous_System:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic concerns keeping the brain and body healthy through sleep, nutrition, exercise, stress management and medical care, and how physical and mental health connect.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58167812ce6a6737fda1e][Health Psychology & Mind–Body Medicine]] (Research Library topic)
+- [[https://app.notion.com/p/411a657440a58109b01fd5bfd05ed229][Thread: Medical hypnosis & mind-body healing]] (public research thread)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur le maintien de la santé du cerveau et du corps par le sommeil, l'alimentation, l'exercice, la gestion du stress et les soins médicaux, et sur les liens entre santé physique et mentale.
+
+Lectures recommandées (titres conservés tels quels) : Brain and Body Systems ; Health Psychology & Mind–Body Medicine ; Thread: Medical hypnosis & mind-body healing.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

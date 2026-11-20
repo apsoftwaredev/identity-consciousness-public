@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b5-adec-e04d4abcfa21
+:NOTION_ID: 41ea657440a581b5adece04d4abcfa21
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b5adece04d4abcfa21
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Computing and AI
+#+filetags: :Tag:Computing_and_AI:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Informatique et IA

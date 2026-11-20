@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81d5-974a-d5add371f8e2
+:NOTION_ID: 41ea657440a581d5974ad5add371f8e2
+:NOTION_URL: https://app.notion.com/p/41ea657440a581d5974ad5add371f8e2
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8187-b56f-deee5708f224
+:PRIVATE_NOTION_ID: 41da657440a58187b56fdeee5708f224
+:END:
+#+title: Adaptive Philosophy
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Meaning_and_Purpose:Development_and_Learning:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Adaptive Philosophy is the name of the foundation Daniel directs and of the project this graph belongs to. As a topic, it points to a philosophy that adapts to changing conditions and to people's needs.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8102-a30b-f1838993b6d6][Adaptation]] (related page in this tree)
+- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (related page in this tree)
+- [[https://app.notion.com/p/405a657440a581a09dfacea1f128d42a][Research Orientation: The Map of Our Threads]] (public research page)
+- [[https://app.notion.com/p/405a657440a58188951bdd8d68d7cb3b][The Bigger Picture: Why We Care]] (public research page)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Adaptive Philosophy est le nom de la fondation que dirige Daniel et du projet auquel appartient ce graphe. Comme sujet, il désigne une philosophie qui s'adapte aux conditions changeantes et aux besoins des personnes.
+
+Lectures recommandées (titres conservés tels quels) : Adaptation ; Practical Philosophy ; Research Orientation: The Map of Our Threads ; The Bigger Picture: Why We Care.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

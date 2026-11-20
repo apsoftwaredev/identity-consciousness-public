@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b9-a570-d712ba7b0c36
+:NOTION_ID: 41ea657440a581b9a570d712ba7b0c36
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b9a570d712ba7b0c36
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81c7-995b-f3bd6d933b10
+:PRIVATE_NOTION_ID: 41da657440a581c7995bf3bd6d933b10
+:END:
+#+title: Metaphilosophy
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:History_of_Ideas:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Metaphilosophy is philosophy about philosophy: its aims, methods and limits. It asks what philosophical questions are and how they can be answered.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81bc-962d-f9bdc64d31e3][Theories and Concepts]] (related page in this tree)
+- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581a78032dbc77068795e][Metaphilosophy]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5817fb313f9b6ac4bfff7][Philosophical Traditions]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La métaphilosophie est la philosophie de la philosophie : ses buts, ses méthodes et ses limites. Elle demande ce que sont les questions philosophiques et comment y répondre.
+
+Lectures recommandées (titres conservés tels quels) : Theories and Concepts ; Practical Philosophy ; Metaphilosophy ; Philosophical Traditions.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

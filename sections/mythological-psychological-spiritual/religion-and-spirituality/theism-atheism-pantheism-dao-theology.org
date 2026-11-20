@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8114-9b5a-e832a8e76889
+:NOTION_ID: 41ea657440a581149b5ae832a8e76889
+:NOTION_URL: https://app.notion.com/p/41ea657440a581149b5ae832a8e76889
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-810b-85a9-fc1a2fe78d69
+:PRIVATE_NOTION_ID: 41da657440a5810b85a9fc1a2fe78d69
+:END:
+#+title: Theism, Atheism, Pantheism, Dao, Theology
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Religion:Eastern_Thought:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This topic compares views of the divine: theism (belief in God), atheism (its denial), pantheism (God as identical with nature), the Dao of Chinese thought, and theology as the systematic study of God.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-815d-bfd5-fe4d4cb1737d][Christianity]] (related page in this tree)
+- [[id:41ea6574-40a5-8172-ac76-e11a1cbc7609][Eastern Philosophy]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581ab8b5ee59eee7fe637][Philosophy of Religion]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5810c87f6dbf4c4c6231f][Taoism & Confucianism]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet compare des conceptions du divin : le théisme (croyance en Dieu), l'athéisme (son rejet), le panthéisme (Dieu identique à la nature), le Dao de la pensée chinoise, et la théologie comme étude systématique de Dieu.
+
+Lectures recommandées (titres conservés tels quels) : Christianity ; Eastern Philosophy ; Philosophy of Religion ; Taoism & Confucianism.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8115-983f-f22076b33fa0
+:NOTION_ID: 41ea657440a58115983ff22076b33fa0
+:NOTION_URL: https://app.notion.com/p/41ea657440a58115983ff22076b33fa0
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81fa-9039-df3556c5ea50
+:PRIVATE_NOTION_ID: 41da657440a581fa9039df3556c5ea50
+:END:
+#+title: What is Good?
+#+filetags: :public:Ethics:Ethics_and_Virtue:Meaning_and_Purpose:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): This question asks what goodness is and what makes actions, people or lives good. It is the central question of ethics and value theory.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-81a8-963d-f92baf8b7872][Good and Evil]] (related page in this tree)
+- [[id:41ea6574-40a5-812f-ab6f-ed2d62436048][Quality]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58183a037cebfb8652567][Meta-Ethics]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5810c980dcc3ebea08457][Value Theory]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Cette question demande ce qu'est le bien et ce qui rend bons des actes, des personnes ou des vies. C'est la question centrale de l'éthique et de la théorie des valeurs.
+
+Lectures recommandées (titres conservés tels quels) : Good and Evil ; Quality ; Meta-Ethics ; Value Theory.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

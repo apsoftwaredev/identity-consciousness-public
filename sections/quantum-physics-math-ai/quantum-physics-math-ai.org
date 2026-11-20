@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81be-8f8d-c45f539d4d62
+:NOTION_ID: 41ea657440a581be8f8dc45f539d4d62
+:NOTION_URL: https://app.notion.com/p/41ea657440a581be8f8dc45f539d4d62
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81b5-ab2c-d0f5941d1f8c
+:PRIVATE_NOTION_ID: 41da657440a581b5ab2cd0f5941d1f8c
+:END:
+#+title: Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Quantum_Physics:Computing_and_AI:Logic_and_Mathematics:Section:
+
+** Summary
+
+From Daniel's Roam notes: this branch links the scientific and computational topics of the graph: neural networks, data processing, communication, quantum states, time and space, order, chaos and complexity, efficiency, and the laws of nature. It frames identity and consciousness through physics, mathematics and computing.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8140-b5ec-c484975d011d][Problems of Quantum Mechanics]] (related page in this tree)
+- [[id:41ea6574-40a5-8100-9576-e648dfb52935][Consciousness and Machines / Nonorganic Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a5815c8f40c866a770590a][Thread: Quantum & reality]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581dda063cc2cb20c24dc][Thread: Infinity]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a581f5a503d6d153e3abfa][Artificial Intelligence (Computing)]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : cette branche relie les sujets scientifiques et informatiques du graphe : réseaux de neurones, traitement des données, communication, états quantiques, temps et espace, ordre, chaos et complexité, efficacité, et lois de la nature. Elle aborde l'identité et la conscience à travers la physique, les mathématiques et l'informatique.
+
+Lectures recommandées (titres conservés tels quels) : Problems of Quantum Mechanics ; Consciousness and Machines / Nonorganic Consciousness ; Thread: Quantum & reality ; Thread: Infinity ; Artificial Intelligence (Computing).
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

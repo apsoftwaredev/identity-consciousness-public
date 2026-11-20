@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81cb-aad0-c7307ab44d70
+:NOTION_ID: 41ea657440a581cbaad0c7307ab44d70
+:NOTION_URL: https://app.notion.com/p/41ea657440a581cbaad0c7307ab44d70
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81e5-99e3-c9ea69dc5a3c
+:PRIVATE_NOTION_ID: 41da657440a581e599e3c9ea69dc5a3c
+:END:
+#+title: Chance and Luck
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Metaphysics_and_Epistemology:Reality:Logic_and_Mathematics:Subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel asks whether chance can be controlled or influenced, and notes the Improbability Drive (the fictional device from Douglas Adams). The topic covers randomness, probability and luck in human life.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8119-9eed-d7255993ecff][42]] (related page in this tree)
+- [[id:41ea6574-40a5-815c-9f52-db123baff2cf][Manifesting Realities]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581ef928ec9bf31f89cb4][Philosophy of Probability]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a581f0a3b1fba96cd870d1][Probability Theory]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : Daniel se demande si le hasard peut être maîtrisé ou influencé, et note l'Improbability Drive (le dispositif fictif de Douglas Adams). Le sujet porte sur l'aléatoire, la probabilité et la chance dans la vie humaine.
+
+Lectures recommandées (titres conservés tels quels) : 42 ; Manifesting Realities ; Philosophy of Probability ; Probability Theory.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

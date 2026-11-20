@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8144-8895-da05a294674b
+:NOTION_ID: 41ea657440a581448895da05a294674b
+:NOTION_URL: https://app.notion.com/p/41ea657440a581448895da05a294674b
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Language and Communication
+#+filetags: :Tag:Language_and_Communication:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Langage et communication

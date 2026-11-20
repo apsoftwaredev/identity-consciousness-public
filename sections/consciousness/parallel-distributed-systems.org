@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81e3-8f22-d6c4787c65d2
+:NOTION_ID: 41ea657440a581e38f22d6c4787c65d2
+:NOTION_URL: https://app.notion.com/p/41ea657440a581e38f22d6c4787c65d2
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-818c-a566-fbcb5c69e9a4
+:PRIVATE_NOTION_ID: 41da657440a5818ca566fbcb5c69e9a4
+:END:
+#+title: Parallel Distributed Systems
+#+filetags: :public:Consciousness:Science_Mathematics_and_Computing:Computing_and_AI:Brain_and_Nervous_System:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Parallel distributed processing models explain mental activity as many simple units working at once across a network. The topic links connectionist psychology, neural networks and distributed computing.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]] (related page in this tree)
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a58147bb06efd066f7a7c8][Philosophy of Cognitive Science]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5813fa5bfd4e40f2d801d][Computer Systems & Networks]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les modèles de traitement parallèle distribué expliquent l'activité mentale comme le travail simultané de nombreuses unités simples dans un réseau. Le sujet relie la psychologie connexionniste, les réseaux de neurones et l'informatique distribuée.
+
+Lectures recommandées (titres conservés tels quels) : Neural Networks ; Community of Consciousness ; Philosophy of Cognitive Science ; Computer Systems & Networks.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

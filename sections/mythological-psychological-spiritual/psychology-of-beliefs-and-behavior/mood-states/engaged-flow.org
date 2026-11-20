@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-816c-af06-d2e8dca6a1bb
+:NOTION_ID: 41ea657440a5816caf06d2e8dca6a1bb
+:NOTION_URL: https://app.notion.com/p/41ea657440a5816caf06d2e8dca6a1bb
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8112-98bd-c9511d05dc81
+:PRIVATE_NOTION_ID: 41da657440a5811298bdc9511d05dc81
+:END:
+#+title: Engaged Flow
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Emotion:Goals_and_Habits:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Flow is the state of full absorption in a challenging activity, described by Mihaly Csikszentmihalyi, in which time seems to disappear.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-815f-849c-d5a71a65184e][Peak Awareness]] (related page in this tree)
+- [[id:41ea6574-40a5-8137-8b40-dd7ab46c4c09][Creativity]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le flow est l'état d'absorption totale dans une activité stimulante, décrit par Mihaly Csikszentmihalyi, où le temps semble disparaître.
+
+Lectures recommandées (titres conservés tels quels) : Peak Awareness ; Creativity ; Positive Psychology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

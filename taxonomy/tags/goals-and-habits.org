@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81e5-9b0e-e72472bd2925
+:NOTION_ID: 41ea657440a581e59b0ee72472bd2925
+:NOTION_URL: https://app.notion.com/p/41ea657440a581e59b0ee72472bd2925
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Goals and Habits
+#+filetags: :Tag:Goals_and_Habits:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Objectifs et habitudes

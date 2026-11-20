@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81b6-a1e2-d72d1825e94d
+:NOTION_ID: 41ea657440a581b6a1e2d72d1825e94d
+:NOTION_URL: https://app.notion.com/p/41ea657440a581b6a1e2d72d1825e94d
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Logic and Mathematics
+#+filetags: :Tag:Logic_and_Mathematics:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Logique et mathématiques

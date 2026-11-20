@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8121-b140-c8f7dec64467
+:NOTION_ID: 41ea657440a58121b140c8f7dec64467
+:NOTION_URL: https://app.notion.com/p/41ea657440a58121b140c8f7dec64467
+:VISIBILITY: public
+:TAXONOMY: Category
+:END:
+#+title: Biology and Neuroscience
+#+filetags: :Category:Biology_and_Neuroscience:
+
+Brains, bodies, evolution, and the life course.
+
+* Français / French :FRENCH:
+Cerveaux, corps, évolution et parcours de vie.

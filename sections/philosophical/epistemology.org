@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8127-9145-dfb0359fe83d
+:NOTION_ID: 41ea657440a581279145dfb0359fe83d
+:NOTION_URL: https://app.notion.com/p/41ea657440a581279145dfb0359fe83d
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8193-8425-ce1af771030f
+:PRIVATE_NOTION_ID: 41da657440a581938425ce1af771030f
+:END:
+#+title: Epistemology
+#+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Knowledge:Subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Epistemology is the theory of knowledge: what knowledge is, how beliefs are justified, and where the limits of knowing lie.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-819c-abbb-cc1b6007f8f6][Knowledge and Wisdom]] (related page in this tree)
+- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a581069325c9d8bff9a50c][Epistemology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a58115b3c5db1cd3961e8f][Metaphysics and Epistemology]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'épistémologie est la théorie de la connaissance : ce qu'est le savoir, comment les croyances sont justifiées, et où se situent les limites de la connaissance.
+
+Lectures recommandées (titres conservés tels quels) : Knowledge and Wisdom ; Truth and Conjecture ; Epistemology ; Metaphysics and Epistemology.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

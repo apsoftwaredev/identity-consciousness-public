@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8169-be3c-e863d6477b7e
+:NOTION_ID: 41ea657440a58169be3ce863d6477b7e
+:NOTION_URL: https://app.notion.com/p/41ea657440a58169be3ce863d6477b7e
+:VISIBILITY: public
+:TAXONOMY: Tag
+:END:
+#+title: Eastern Thought
+#+filetags: :Tag:Eastern_Thought:
+
+Tag
+
+* Français / French :FRENCH:
+Étiquette : Pensée orientale

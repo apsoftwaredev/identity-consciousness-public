@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8106-a39b-c7e20e5a1226
+:NOTION_ID: 41ea657440a58106a39bc7e20e5a1226
+:NOTION_URL: https://app.notion.com/p/41ea657440a58106a39bc7e20e5a1226
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81aa-baa7-d86fe2713e2a
+:PRIVATE_NOTION_ID: 41da657440a581aabaa7d86fe2713e2a
+:END:
+#+title: Time and Space
+#+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Time_and_Space:Reality:Subtopic:
+
+** Summary
+
+From Daniel's Roam notes: Daniel links this topic to relativity and consciousness. It covers how physics describes time and space and how those descriptions bear on experience and awareness.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8102-b024-e16a944a499d][Relativity and Consciousness]] (related page in this tree)
+- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]] (related page in this tree)
+- [[https://app.notion.com/p/410a657440a5811ca706f403f19c9a15][Time and Consciousness (topic seed, private)]] (private research notes)
+- [[https://app.notion.com/p/411a657440a5815c8f40c866a770590a][Thread: Quantum & reality]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a58135ab37f028521ac0c9][Philosophy of Physical Science]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : Daniel relie ce sujet à la relativité et la conscience. Il porte sur la façon dont la physique décrit le temps et l'espace et sur le lien entre ces descriptions et l'expérience consciente.
+
+Lectures recommandées (titres conservés tels quels) : Relativity and Consciousness ; Flow of Consciousness in Person, Place, Time ; Time and Consciousness (topic seed, private) ; Thread: Quantum & reality ; Philosophy of Physical Science.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

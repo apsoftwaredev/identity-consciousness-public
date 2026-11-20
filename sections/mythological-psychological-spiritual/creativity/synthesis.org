@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-81a9-9cef-fa5fcca92c7c
+:NOTION_ID: 41ea657440a581a99ceffa5fcca92c7c
+:NOTION_URL: https://app.notion.com/p/41ea657440a581a99ceffa5fcca92c7c
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-8141-90e4-c72d3cc18392
+:PRIVATE_NOTION_ID: 41da657440a5814190e4c72d3cc18392
+:END:
+#+title: Synthesis
+#+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:Creativity:Knowledge:Sub_subtopic:
+
+** Summary
+
+Topic overview (Daniel's notes not yet written): Synthesis is combining separate ideas or elements into a new whole, as in Hegel's dialectic and in creative thinking.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-8188-8f3e-d29dd2c25414][Integration]] (related page in this tree)
+- [[id:41ea6574-40a5-814b-a5ac-c4847db4ba3f][Lateral Thinking]] (related page in this tree)
+- [[https://app.notion.com/p/3eaa657440a5815da10ff8a483f62953][History of Western Philosophy]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La synthèse consiste à combiner des idées ou des éléments séparés en un tout nouveau, comme dans la dialectique de Hegel et dans la pensée créative.
+
+Lectures recommandées (titres conservés tels quels) : Integration ; Lateral Thinking ; History of Western Philosophy.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----

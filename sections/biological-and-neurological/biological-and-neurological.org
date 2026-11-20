@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID: 41ea6574-40a5-8101-882e-d0d08c1ca109
+:NOTION_ID: 41ea657440a58101882ed0d08c1ca109
+:NOTION_URL: https://app.notion.com/p/41ea657440a58101882ed0d08c1ca109
+:VISIBILITY: public
+:VERSION: 1.0
+:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:PRIVATE_TWIN: 41da6574-40a5-81c0-b13b-c82905f84a9f
+:PRIVATE_NOTION_ID: 41da657440a581c0b13bc82905f84a9f
+:END:
+#+title: Biological and Neurological
+#+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Evolution_and_Adaptation:Section:
+
+** Summary
+
+From Daniel's Roam notes: this branch links the biological side of identity and consciousness: brain and body systems, evolution, psychopharmacology and psychedelics, collective consciousness, adaptation, collective behavior in species and ecosystems, brain development and plasticity, brain and body health, lifecycle stages and aging.
+
+** Recommended readings
+
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (related page in this tree)
+- [[https://app.notion.com/p/411a657440a5811d9101d9aa7676793b][Thread: Animals, consciousness, welfare & rights]] (public research thread)
+- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
+- [[https://app.notion.com/p/3eaa657440a5812cb15afc0e9ede863d][Philosophy of Neuroscience]] (Research Library topic)
+
+
+* Français / French :FRENCH:
+Résumé : D'après les notes Roam de Daniel : cette branche relie le versant biologique de l'identité et de la conscience : systèmes du cerveau et du corps, évolution, psychopharmacologie et psychédéliques, conscience collective, adaptation, comportement collectif des espèces et des écosystèmes, développement et plasticité du cerveau, santé du cerveau et du corps, étapes de la vie et vieillissement.
+
+Lectures recommandées (titres conservés tels quels) : Consciousness ; Thread: Animals, consciousness, welfare & rights ; Behavioral Neuroscience & Physiological Psychology ; Philosophy of Neuroscience.
+
+Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+
+
+
+*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+
+-----
