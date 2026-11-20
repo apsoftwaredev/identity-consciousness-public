@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58116ac5fd96dc37d045f
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: emotion
+:URL_PATH: taxonomy/tags/emotion
+:ROAM_TITLE: IC/taxonomy/Research Tags/Emotion
+:SITE_URL: https://research.dan.credit/taxonomy/tags/emotion
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~emotion
+:SYNC_HASH: 8f2dc656232085ae
+:SYNC_SOURCE: notion
 :END:
 #+title: Emotion
 #+filetags: :Tag:Emotion:
+#+language: en
+#+startup: overview
 
 Tag
 

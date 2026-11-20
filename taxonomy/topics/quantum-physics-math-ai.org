@@ -4,11 +4,97 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581fcb81fe7982018b43b
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: quantum-physics-math-ai
+:URL_PATH: taxonomy/topics/quantum-physics-math-ai
+:ROAM_TITLE: IC/taxonomy/Research Topics/Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
+:SITE_URL: https://research.dan.credit/taxonomy/topics/quantum-physics-math-ai
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~quantum-physics-math-ai
+:SYNC_HASH: 50f35a24eccab344
+:SYNC_SOURCE: notion
 :END:
 #+title: Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
 #+filetags: :Topic:Quantum_Physics_Mathematics_and_Statistics_Data_:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 6 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 6 sur 8 : Physique quantique, mathématiques et statistiques, science des données, IA et ordinateurs
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This topic brings together the formal and physical sciences that shape how we think about mind and reality. Quantum physics describes nature at its smallest scales and raises deep questions about measurement, probability, and what is real; interpretations such as many-worlds and others offer different pictures. Mathematics and statistics give the language for reasoning under uncertainty, and data science applies them to real evidence.
+
+Computing and artificial intelligence add questions that began with Alan Turing: can machines think, and how would we know? Current debates cover what large AI systems understand, how to make them safe and fair, and whether anything like consciousness could arise in a machine. Newcomers can begin with one accessible book on quantum ideas and one on AI, then compare how each field handles uncertainty.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]]
+
+- Related categories: [[id:41ea6574-40a5-8192-a10b-c205115982a0][Science, Mathematics, and Computing]]
+
+- Tags: [[id:41ea6574-40a5-81b5-adec-e04d4abcfa21][Computing and AI]], [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-8193-9985-c232cc851068][Quantum Physics]], [[id:41ea6574-40a5-8146-aecf-c84bfa3ffee9][Reality]], [[id:41ea6574-40a5-81af-9f24-cdbd823fa05f][Time and Space]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (10):
+
+- [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]] (section)
+- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8182-9ad8-ce455c7ca6ed][Data Processing]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8141-afae-f2de679fdfe9][Efficiency]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-81da-b0d0-e9fb4feb5762][Laws of Nature]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-813f-9e05-ef525d176ff9][Order, Chaos, and Complexity]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8130-8a46-d40b0ccae903][Quantum States]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8106-a39b-c7e20e5a1226][Time and Space]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8102-b024-e16a944a499d][Relativity and Consciousness]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers / Time and Space)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Alan M. Turing, /Computing Machinery and Intelligence/ (1950). Mind 59(236). [[https://plato.stanford.edu/entries/turing-test/][SEP guide: The Turing Test]]
+- Wayne Myrvold, /Philosophical Issues in Quantum Theory/ (2016, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/qt-issues/][SEP entry]]
+- Douglas R. Hofstadter, /Gödel, Escher, Bach: An Eternal Golden Braid/ (1979). Basic Books.
+- Stuart Russell and Peter Norvig, /Artificial Intelligence: A Modern Approach (4th edition)/ (2020). Pearson. [[https://aima.cs.berkeley.edu/][Book website]]
+- Sean Carroll, /Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime/ (2019). Dutton.
+- Melanie Mitchell, /Artificial Intelligence: A Guide for Thinking Humans/ (2019). Farrar, Straus and Giroux.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=dCrbOmBsTRk][The quantum revolution explained | with Sean Carroll]]: Sean Carroll. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=N1TEjTeQeg0][Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?" Romanes Lecture]]: Geoffrey Hinton. Channel: University of Oxford.
+- [[https://www.youtube.com/watch?v=yKbeCvOKvMc][Melanie Mitchell, Evaluating Cognitive Capacities in AI Systems | Natural Philosophy Symposium 2025]]: Melanie Mitchell. Channel: Hopkins Natural Philosophy Forum.
+- [[https://www.youtube.com/watch?v=EBK-a94IFHY][3 principles for creating safer AI | Stuart Russell]]: Stuart Russell. Channel: TED.
+- [[https://www.youtube.com/watch?v=43w7rcYPUnI][Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014]]: Hannah Fry. Channel: The Royal Institution.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Ce sujet réunit les sciences formelles et physiques qui façonnent notre manière de penser l'esprit et la réalité. La physique quantique décrit la nature à ses plus petites échelles et soulève des questions profondes sur la mesure, la probabilité et ce qui est réel ; des interprétations comme celle des mondes multiples, entre autres, proposent des images différentes. Les mathématiques et les statistiques fournissent le langage pour raisonner dans l'incertitude, et la science des données les applique à des données réelles.
+
+L'informatique et l'intelligence artificielle ajoutent des questions qui remontent à Alan Turing : les machines peuvent-elles penser, et comment le saurions-nous ? Les débats actuels portent sur ce que comprennent les grands systèmes d'IA, sur la manière de les rendre sûrs et équitables, et sur la possibilité qu'une forme de conscience apparaisse dans une machine. Pour commencer, on peut lire un livre accessible sur les idées quantiques et un autre sur l'IA, puis comparer la façon dont chaque domaine traite l'incertitude.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (10), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

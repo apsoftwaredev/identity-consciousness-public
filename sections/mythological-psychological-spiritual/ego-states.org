@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5812cb067f86006acf0bd
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81a9-9929-e31762fb0c5a
 :PRIVATE_NOTION_ID: 41da657440a581a99929e31762fb0c5a
+:SLUG: ego-states
+:URL_PATH: mythological-psychological-spiritual/ego-states
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Ego States
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/ego-states
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~ego-states
+:SYNC_HASH: f3e44e4501f65b98
+:SYNC_SOURCE: notion
 :END:
 #+title: Ego States
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Self_and_Identity:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Ego states are organized patterns of thought, feeling and behavior within one personality, a concept from ego state therapy and transactional analysis. Daniel's private theory notes link ego states to patterns in neural networks.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Ego states are organized patterns of thought, feeling, and behavior within one person, studied in transactional analysis and ego state therapy.
 
-- [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]] (related page in this tree)
-- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]] (related page in this tree)
-- [[https://app.notion.com/p/411a657440a58100a9b9cdcd954c81fb][Theory notes: ego states, networks and the bubble of possibilities (Nov 7, 2026)]] (private research notes)
+* Need-to-know philosophers and key thinkers
+
+- *Eric Berne*: Psychiatrist (key thinker in the field); transactional analysis and the Parent, Adult, and Child ego states.
+- *John and Helen Watkins*: Psychologists (key thinkers in the field); ego state therapy.
+- *Ernest Hilgard*: Psychologist (key thinker in the field); neodissociation theory and the "hidden observer."
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a581779e78f25fba67dadb][Thread: Identity, ego & self]] (public research thread)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les états du moi sont des schémas organisés de pensée, d'émotion et de comportement au sein d'une même personnalité, un concept issu de la thérapie des états du moi et de l'analyse transactionnelle. Les notes théoriques privées de Daniel relient les états du moi à des schémas dans les réseaux de neurones.
-
-Lectures recommandées (titres conservés tels quels) : Identity ; Neural Networks ; Theory notes: ego states, networks and the bubble of possibilities (Nov 7, 2026) ; Thread: Identity, ego & self.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les états du moi sont des schémas organisés de pensée, d'émotion et de comportement chez une même personne, étudiés en analyse transactionnelle et en thérapie des états du moi.
+
+Penseurs et philosophes essentiels :
+
+- *Eric Berne* : Psychiatre (penseur clé du domaine) ; l'analyse transactionnelle et les états du moi Parent, Adulte et Enfant.
+- *John and Helen Watkins* : Psychologues (penseurs clés du domaine) ; la thérapie des états du moi.
+- *Ernest Hilgard* : Psychologue (penseur clé du domaine) ; théorie de la néodissociation et « observateur caché ».
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Identity, ego & self ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

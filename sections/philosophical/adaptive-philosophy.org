@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581d5974ad5add371f8e2
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8187-b56f-deee5708f224
 :PRIVATE_NOTION_ID: 41da657440a58187b56fdeee5708f224
+:SLUG: adaptive-philosophy
+:URL_PATH: philosophical/adaptive-philosophy
+:ROAM_TITLE: IC/Philosophical/Adaptive Philosophy
+:SITE_URL: https://research.dan.credit/philosophical/adaptive-philosophy
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~adaptive-philosophy
+:SYNC_HASH: 38aa770dc138cafd
+:SYNC_SOURCE: notion
 :END:
 #+title: Adaptive Philosophy
 #+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Meaning_and_Purpose:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Adaptive Philosophy is the name of the foundation Daniel directs and of the project this graph belongs to. As a topic, it points to a philosophy that adapts to changing conditions and to people's needs.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Adaptive Philosophy is the Foundation's own name for a philosophy that adapts to new evidence, contexts, and needs. This page holds the topic within the map.
 
-- [[id:41ea6574-40a5-8102-a30b-f1838993b6d6][Adaptation]] (related page in this tree)
-- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (related page in this tree)
-- [[https://app.notion.com/p/405a657440a581a09dfacea1f128d42a][Research Orientation: The Map of Our Threads]] (public research page)
-- [[https://app.notion.com/p/405a657440a58188951bdd8d68d7cb3b][The Bigger Picture: Why We Care]] (public research page)
+* Need-to-know philosophers and key thinkers
 
+- *John Dewey*: Philosopher; pragmatism, Democracy and Education (1916), Art as Experience (1934).
+- *Charles Sanders Peirce*: Philosopher; founder of pragmatism and of abductive reasoning.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Adaptive Philosophy est le nom de la fondation que dirige Daniel et du projet auquel appartient ce graphe. Comme sujet, il désigne une philosophie qui s'adapte aux conditions changeantes et aux besoins des personnes.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Adaptation ; Practical Philosophy ; Research Orientation: The Map of Our Threads ; The Bigger Picture: Why We Care.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La philosophie adaptative est le nom propre de la Fondation pour une philosophie qui s'adapte aux nouvelles données, aux contextes et aux besoins. Cette page situe le sujet dans la carte.
+
+Penseurs et philosophes essentiels :
+
+- *John Dewey* : Philosophe ; pragmatisme, Démocratie et éducation (1916), L'art comme expérience (1934).
+- *Charles Sanders Peirce* : Philosophe ; fondateur du pragmatisme et du raisonnement abductif.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581ad9061fd84b1f3042b
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81f9-af9a-d2002513b27b
 :PRIVATE_NOTION_ID: 41da657440a581f9af9ad2002513b27b
+:SLUG: types-of-consciousness
+:URL_PATH: consciousness/types-of-consciousness
+:ROAM_TITLE: IC/Consciousness/Types of Consciousness
+:SITE_URL: https://research.dan.credit/consciousness/types-of-consciousness
+:FIRESTORE_PATH: ic_public/root/byPath/consciousness~types-of-consciousness
+:SYNC_HASH: 0e7cbd7704dbb7d8
+:SYNC_SOURCE: notion
 :END:
 #+title: Types of Consciousness
 #+filetags: :public:Consciousness:Philosophy_of_Mind:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic distinguishes kinds and states of consciousness, such as waking, dreaming, altered, self-reflective and phenomenal consciousness.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Researchers distinguish kinds and states of consciousness, such as phenomenal and access consciousness, waking, dreaming, and altered states.
 
-- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (related page in this tree)
-- [[id:41ea6574-40a5-8174-89e2-f066cf93bee8][Higher Consciousness]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581b38ffbf7035ba605a2][Consciousness States (Psychology)]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a58161a4a5f57754ddcd93][Self-Consciousness]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Ned Block*: Philosopher; distinction between phenomenal and access consciousness (1995).
+- *Charles Tart*: Psychologist (key thinker in the field); Altered States of Consciousness (1969).
+- *William James*: Psychologist and philosopher; "stream of consciousness," The Principles of Psychology (1890), The Varieties of Religious Experience (1902).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet distingue des types et des états de conscience, comme l'éveil, le rêve, la conscience modifiée, la conscience réflexive et la conscience phénoménale.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Altered Consciousness ; Higher Consciousness ; Consciousness States (Psychology) ; Self-Consciousness.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les chercheurs distinguent des types et des états de conscience, comme la conscience phénoménale et d'accès, la veille, le rêve et les états modifiés.
+
+Penseurs et philosophes essentiels :
+
+- *Ned Block* : Philosophe ; distinction entre conscience phénoménale et conscience d'accès (1995).
+- *Charles Tart* : Psychologue (penseur clé du domaine) ; Altered States of Consciousness (1969).
+- *William James* : Psychologue et philosophe ; « courant de conscience », Principes de psychologie (1890), Les formes multiples de l'expérience religieuse (1902).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Consciousness ; Thread: Consciousness & philosophy of mind ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

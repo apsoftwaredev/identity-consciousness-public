@@ -4,11 +4,97 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58121b140c8f7dec64467
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: biology-and-neuroscience
+:URL_PATH: taxonomy/categories/biology-and-neuroscience
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Biology and Neuroscience
+:SITE_URL: https://research.dan.credit/taxonomy/categories/biology-and-neuroscience
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~biology-and-neuroscience
+:SYNC_HASH: 839cb3544954ac27
+:SYNC_SOURCE: notion
 :END:
 #+title: Biology and Neuroscience
 #+filetags: :Category:Biology_and_Neuroscience:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Brains, bodies, evolution, and the life course.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Cerveaux, corps, évolution et parcours de vie.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Biology and neuroscience study living systems, from genes and cells to brains, bodies, and whole populations. Evolutionary biology explains how species, including humans, came to have their traits; neuroscience studies how the nervous system supports perception, memory, emotion, and action. Together they ask how biology shapes who we are across the life course, from development to aging.
+
+Current researchers map specialized regions of the human brain, study how emotions are constructed, compare human brains with those of other species, and debate what biology implies for free will and responsibility. Newcomers can begin with Darwin's ideas through a good guide, one accessible neuroscience book, and one introductory lecture.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]]
+
+- Related topics: [[id:41ea6574-40a5-8104-a37e-d492f8cebcc0][Biological and Neurological]]
+
+- Tags: [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]], [[id:41ea6574-40a5-81f7-bf48-d7b40140b62d][Evolution and Adaptation]], [[id:41ea6574-40a5-81a0-97c5-fa907a85094f][Health and Aging]], [[id:41ea6574-40a5-81b7-99f1-c077ab04366c][Development and Learning]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (11):
+
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (section)
+- [[id:41ea6574-40a5-8102-a30b-f1838993b6d6][Adaptation]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c2-821e-df21d992a0af][Aging]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8134-b6de-c5aedb2c7ca7][Brain Development and Plasticity]] (Biological and Neurological)
+- [[id:41ea6574-40a5-815b-846c-c90a93155fcf][Brain and Body Health]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8195-bd3d-d01432cf658b][Collective Behavior/Biological Species and Ecosystems]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81b4-9413-ea2c565bd25c][Collective Consciousness]] (Biological and Neurological)
+- [[id:41ea6574-40a5-811c-bfeb-df15c20e0cd5][Evolution]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c3-a29d-f07102ebd6be][Lifecycle Stages]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8111-a9f7-ea75e8bec85a][Psychopharmacology and Psychedelics]] (Biological and Neurological)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Charles Darwin, /On the Origin of Species/ (1859). John Murray. [[https://plato.stanford.edu/entries/origin-descent/][SEP guide: Darwin, from Origin to Descent]]
+- Antonio R. Damasio, /Descartes' Error: Emotion, Reason, and the Human Brain/ (1994). Putnam.
+- Suzana Herculano-Houzel, /The Human Advantage: A New Understanding of How Our Brain Became Remarkable/ (2016). MIT Press.
+- Robert M. Sapolsky, /Determined: A Science of Life without Free Will/ (2023). Penguin Press.
+- Eric R. Kandel, /In Search of Memory: The Emergence of a New Science of Mind/ (2006). W. W. Norton.
+- John Bickle, Peter Mandik and Anthony Landreth, /The Philosophy of Neuroscience/ (1999, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/neuroscience/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=rv38taDUpwQ][Determined: Life without Free Will with Robert Sapolsky]]: Robert Sapolsky. Channel: Stanford Alumni.
+- [[https://www.youtube.com/watch?v=mJLROKV2SzU][How emotions work | Neuroscientist Lisa Feldman Barrett]]: Lisa Feldman Barrett. Channel: Big Think.
+- [[https://www.youtube.com/watch?v=4A4WfmjW7XQ][Nancy Kanwisher - Functional Imaging of the Human Brain: A Window into the Architecture of the Mind]]: Nancy Kanwisher. Channel: Max Planck Institute for Biological Cybernetics.
+- [[https://www.youtube.com/watch?v=wt4_ooEgE8g][Prof Agustín Fuentes - What makes us human?]]: Agustín Fuentes. Channel: The University of Edinburgh.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La biologie et les neurosciences étudient les systèmes vivants, des gènes et des cellules aux cerveaux, aux corps et aux populations entières. La biologie de l'évolution explique comment les espèces, dont l'espèce humaine, ont acquis leurs traits ; les neurosciences étudient comment le système nerveux soutient la perception, la mémoire, l'émotion et l'action. Ensemble, elles se demandent comment la biologie façonne qui nous sommes tout au long de la vie, du développement au vieillissement.
+
+Les chercheurs actuels cartographient les régions spécialisées du cerveau humain, étudient la construction des émotions, comparent le cerveau humain à celui d'autres espèces, et débattent de ce que la biologie implique pour le libre arbitre et la responsabilité. Pour commencer, on peut aborder les idées de Darwin par un bon guide, lire un livre accessible de neurosciences et suivre un cours d'introduction.
+
+Place dans l'arborescence : section parente, sujets liés, étiquettes et pages de cette catégorie (11), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

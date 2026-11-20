@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5814197ccf2d93458af86
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: jungian-psychology
+:URL_PATH: taxonomy/tags/jungian-psychology
+:ROAM_TITLE: IC/taxonomy/Research Tags/Jungian Psychology
+:SITE_URL: https://research.dan.credit/taxonomy/tags/jungian-psychology
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~jungian-psychology
+:SYNC_HASH: 90f5e53d73651451
+:SYNC_SOURCE: notion
 :END:
 #+title: Jungian Psychology
 #+filetags: :Tag:Jungian_Psychology:
+#+language: en
+#+startup: overview
 
 Tag
 

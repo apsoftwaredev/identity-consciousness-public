@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581448895da05a294674b
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: language-and-communication
+:URL_PATH: taxonomy/tags/language-and-communication
+:ROAM_TITLE: IC/taxonomy/Research Tags/Language and Communication
+:SITE_URL: https://research.dan.credit/taxonomy/tags/language-and-communication
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~language-and-communication
+:SYNC_HASH: 7a4a2b8a9b4275ce
+:SYNC_SOURCE: notion
 :END:
 #+title: Language and Communication
 #+filetags: :Tag:Language_and_Communication:
+#+language: en
+#+startup: overview
 
 Tag
 

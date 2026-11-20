@@ -4,11 +4,109 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5818190ddf33652628835
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: religion-spirituality-and-myth
+:URL_PATH: taxonomy/categories/religion-spirituality-and-myth
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Religion, Spirituality, and Myth
+:SITE_URL: https://research.dan.credit/taxonomy/categories/religion-spirituality-and-myth
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~religion-spirituality-and-myth
+:SYNC_HASH: 99288404ab41a38b
+:SYNC_SOURCE: notion
 :END:
 #+title: Religion, Spirituality, and Myth
 #+filetags: :Category:Religion_Spirituality_and_Myth:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Myth, belief, ritual, and spiritual experience.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Mythe, croyance, rituel et expérience spirituelle.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This category covers the study of religion, spirituality, and myth across cultures. It includes the history and comparison of religious traditions, the philosophy of religion (arguments about God, faith, and reason), the psychology of religious experience, and the study of myths and symbols. Classic works by William James, Mircea Eliade, and Huston Smith remain common starting points.
+
+Current scholars, including anthropologists and historians, study how prayer and practice shape experience, how early texts were written and read, and how compassion and community appear across traditions. The aim here is understanding, not persuasion. Newcomers can begin with James on religious experience and one modern study, such as an anthropologist's account of how belief becomes real for people.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-812f-876e-fb12c522b501][Spirituality]], [[id:41ea6574-40a5-81d3-9702-fe6eb72648ab][Religion]], [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-8191-a3d6-c92614bdd23c][Myth and Story]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+*All 23 pages in this category (open to browse)*
+
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section)
+- [[id:41ea6574-40a5-81c7-9c35-ebffcc54ba64][Magic]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81f6-8d49-c4a924a1293b][Mythic Journeys]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81e8-96dd-fca50fa78b2f][Religion and Spirituality]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8191-bcd0-cbd98e2673cb][Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-815d-bfd5-fe4d4cb1737d][Christianity]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81ed-80eb-e362fb98c3af][Thomas Aquinas]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Christianity)
+- [[id:41ea6574-40a5-8184-8d4e-cad6eb8c839d][Old and New Testament]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Christianity / Thomas Aquinas)
+- [[id:41ea6574-40a5-8147-9cb5-c3615eda7ae5][Contexts of Life and Death Cycles]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8166-87c0-ead8d9a5a08e][Negatives]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81fc-964d-ceca7ddda5d2][Cult Leaders]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-8149-8674-d986dfa37b36][Dogmatism]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-8156-b6a9-e7e1c1710626][Other Realms of Being]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-815f-849c-d5a71a65184e][Peak Awareness]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81d8-be23-fe8f8c375bc4][Rituals]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8114-9b5a-e832a8e76889][Theism, Atheism, Pantheism, Dao, Theology]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81e7-8b9a-d07b31bf8bf9][The Upper Consciousness]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-819a-b10f-c9918a713ed0][Attainment / Moving Between Levels]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-81d4-9666-f18ce8ad000c][Communities in The Clouds]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-819b-b506-d4396daaf4fe][Guidance from Above]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-8174-89e2-f066cf93bee8][Higher Consciousness]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-811c-842e-dd46d0826948][Higher Selves]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- William James, /The Varieties of Religious Experience/ (1902). Gifford Lectures. [[https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience][Free edition (Standard Ebooks)]]
+- Mircea Eliade, /The Sacred and the Profane: The Nature of Religion/ (1957; English 1959). Harcourt.
+- Huston Smith, /The World's Religions/ (1958 as The Religions of Man; revised 1991). HarperOne.
+- Elaine Pagels, /The Gnostic Gospels/ (1979). Random House.
+- T. M. Luhrmann, /When God Talks Back/ (2012). Alfred A. Knopf.
+- Charles Taliaferro, /Philosophy of Religion/ (2007, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/philosophy-religion/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=4rfPjKAW6Vg][Karen Armstrong: Modern Mythology & A History of Violence and Religion, 2015 | Intelligence Squared]]: Karen Armstrong. Channel: Intelligence Squared.
+- [[https://www.youtube.com/watch?v=TavH955eg8k][Price Lecture: Elaine Pagels]]: Elaine Pagels. Channel: Trinity Church Boston.
+- [[https://www.youtube.com/watch?v=HBB-pwMEbno][How Belief Becomes Real | Tanya Luhrmann]]: Tanya Luhrmann. Channel: John Templeton Foundation.
+- [[https://www.youtube.com/watch?v=u9-d98PaRG0][Neuroscience, Synchronicity, and the Awakened Brain - Dr Lisa Miller, PhD]]: Lisa Miller. Channel: The Weekend University.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Cette catégorie couvre l'étude de la religion, de la spiritualité et du mythe à travers les cultures. Elle comprend l'histoire et la comparaison des traditions religieuses, la philosophie de la religion (les arguments sur Dieu, la foi et la raison), la psychologie de l'expérience religieuse et l'étude des mythes et des symboles. Les œuvres classiques de William James, Mircea Eliade et Huston Smith restent des points de départ courants.
+
+Les chercheurs actuels, dont des anthropologues et des historiens, étudient comment la prière et la pratique façonnent l'expérience, comment les textes anciens ont été écrits et lus, et comment la compassion et la communauté apparaissent dans les différentes traditions. Le but est ici la compréhension, non la persuasion. Pour commencer, on peut lire James sur l'expérience religieuse et une étude moderne, comme le récit d'une anthropologue sur la manière dont la croyance devient réelle pour les personnes.
+
+Place dans l'arborescence : section parente, sujets liés, étiquettes et pages de cette catégorie (23), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

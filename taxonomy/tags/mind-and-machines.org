@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5815ea9e3d40e6e3888b9
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: mind-and-machines
+:URL_PATH: taxonomy/tags/mind-and-machines
+:ROAM_TITLE: IC/taxonomy/Research Tags/Mind and Machines
+:SITE_URL: https://research.dan.credit/taxonomy/tags/mind-and-machines
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~mind-and-machines
+:SYNC_HASH: 01dcf489765d0a06
+:SYNC_SOURCE: notion
 :END:
 #+title: Mind and Machines
 #+filetags: :Tag:Mind_and_Machines:
+#+language: en
+#+startup: overview
 
 Tag
 

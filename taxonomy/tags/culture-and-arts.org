@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5814db64bedec5c869222
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: culture-and-arts
+:URL_PATH: taxonomy/tags/culture-and-arts
+:ROAM_TITLE: IC/taxonomy/Research Tags/Culture and Arts
+:SITE_URL: https://research.dan.credit/taxonomy/tags/culture-and-arts
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~culture-and-arts
+:SYNC_HASH: de14c249df7cadd4
+:SYNC_SOURCE: notion
 :END:
 #+title: Culture and Arts
 #+filetags: :Tag:Culture_and_Arts:
+#+language: en
+#+startup: overview
 
 Tag
 

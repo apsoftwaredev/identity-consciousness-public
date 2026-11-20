@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5819d8ffcfb497b86149c
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81bd-a3aa-e464a1352ff6
 :PRIVATE_NOTION_ID: 41da657440a581bda3aae464a1352ff6
+:SLUG: consciousness-and-location
+:URL_PATH: consciousness/consciousness-and-location
+:ROAM_TITLE: IC/Consciousness/Consciousness and Location
+:SITE_URL: https://research.dan.credit/consciousness/consciousness-and-location
+:FIRESTORE_PATH: ic_public/root/byPath/consciousness~consciousness-and-location
+:SYNC_HASH: 1f31b302a752edd9
+:SYNC_SOURCE: notion
 :END:
 #+title: Consciousness and Location
 #+filetags: :public:Consciousness:Philosophy_of_Mind:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic asks where consciousness is located: in the brain, in the whole body, extended into the environment, or not in space at all.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Where is consciousness? Debates range from the brain to the body and the wider environment, including the extended mind thesis.
 
-- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]] (related page in this tree)
-- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5810b97e3ebbefed46be3][Extended Cognition]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a58104a0eaf9a60853e057][Philosophy of Mind]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *René Descartes*: Philosopher; Meditations (1641), mind and body as distinct substances.
+- *Daniel Dennett*: Philosopher; Consciousness Explained (1991) and the "Where Am I?" thought experiment (1978).
+- *Andy Clark*: Philosopher; co-author with David Chalmers of "The Extended Mind" (1998).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet demande où se situe la conscience : dans le cerveau, dans tout le corps, étendue à l'environnement, ou nulle part dans l'espace.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Flow of Consciousness in Person, Place, Time ; Brain and Body Systems ; Extended Cognition ; Philosophy of Mind.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Où se trouve la conscience ? Les débats vont du cerveau au corps et à l'environnement, y compris la thèse de l'esprit étendu.
+
+Penseurs et philosophes essentiels :
+
+- *René Descartes* : Philosophe ; Méditations (1641), l'esprit et le corps comme substances distinctes.
+- *Daniel Dennett* : Philosophe ; La conscience expliquée (1991) et l'expérience de pensée « Où suis-je ? » (1978).
+- *Andy Clark* : Philosophe ; coauteur avec David Chalmers de « The Extended Mind » (1998).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Consciousness ; Thread: Consciousness & philosophy of mind ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

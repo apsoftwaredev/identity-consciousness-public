@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581288666f942cdcaf4a1
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81a3-84e3-e6f8d65dd6e4
 :PRIVATE_NOTION_ID: 41da657440a581a384e3e6f8d65dd6e4
+:SLUG: psychology-of-beliefs-and-behavior
+:URL_PATH: mythological-psychological-spiritual/psychology-of-beliefs-and-behavior
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Psychology of Beliefs and Behavior
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychology-of-beliefs-and-behavior
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychology-of-beliefs-and-behavior
+:SYNC_HASH: 3eda152bb8b84597
+:SYNC_SOURCE: notion
 :END:
 #+title: Psychology of Beliefs and Behavior
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Knowledge:Emotion:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-From Daniel's Roam notes: this page links habituation, extremes, self-imposed limitations, irrational beliefs, mood states and a systematic behavioral learning process. It gathers how beliefs form, persist and shape behavior.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+The psychology of beliefs and behavior studies how beliefs form and how they shape action.
 
-- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
-- [[id:41ea6574-40a5-8149-8674-d986dfa37b36][Dogmatism]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Leon Festinger*: Psychologist (key thinker in the field); cognitive dissonance and When Prophecy Fails (1956).
+- *Albert Bandura*: Psychologist (key thinker in the field); social learning theory and self-efficacy.
+- *Daniel Kahneman*: Psychologist (key thinker in the field); heuristics and biases with Amos Tversky, Thinking, Fast and Slow (2011).
 
-* Français / French :FRENCH:
-Résumé : D'après les notes Roam de Daniel : cette page relie l'habituation, les extrêmes, les limites que l'on s'impose, les croyances irrationnelles, les états d'humeur et un processus systématique d'apprentissage comportemental. Elle rassemble la façon dont les croyances se forment, persistent et orientent le comportement.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Theories of Learning ; Dogmatism ; Cognitive Psychology ; Social Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La psychologie des croyances et des comportements étudie comment les croyances se forment et comment elles orientent l'action.
+
+Penseurs et philosophes essentiels :
+
+- *Leon Festinger* : Psychologue (penseur clé du domaine) ; dissonance cognitive et L'Échec d'une prophétie (1956).
+- *Albert Bandura* : Psychologue (penseur clé du domaine) ; théorie de l'apprentissage social et sentiment d'efficacité personnelle.
+- *Daniel Kahneman* : Psychologue (penseur clé du domaine) ; heuristiques et biais avec Amos Tversky, Système 1 / Système 2 (2011).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

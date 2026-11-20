@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581cf911cfff8fe8acad8
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8178-bb7c-dba0ef1a40ad
 :PRIVATE_NOTION_ID: 41da657440a58178bb7cdba0ef1a40ad
+:SLUG: language
+:URL_PATH: philosophical/language
+:ROAM_TITLE: IC/Philosophical/Language
+:SITE_URL: https://research.dan.credit/philosophical/language
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~language
+:SYNC_HASH: cfaa316f91530167
+:SYNC_SOURCE: notion
 :END:
 #+title: Language
 #+filetags: :public:Philosophical:Logic_Language_and_Meaning:Language_and_Communication:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Language is the system of signs through which people think, communicate and share meaning. Its study spans grammar, meaning, use and the link between language and thought.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Philosophy of language studies how words and sentences carry meaning, refer to things, and shape thought.
 
-- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]] (related page in this tree)
-- [[id:41ea6574-40a5-8170-8343-f99ae94a549d][Meaning]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5812ab0e6f3c440b3960b][Philosophy of Language]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
+
+- *Ludwig Wittgenstein*: Philosopher; Tractatus (1921) and Philosophical Investigations (1953), meaning as use.
+- *Gottlob Frege*: Philosopher and logician; sense and reference, foundations of modern logic.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le langage est le système de signes par lequel les personnes pensent, communiquent et partagent du sens. Son étude couvre la grammaire, le sens, l'usage et le lien entre langage et pensée.
-
-Lectures recommandées (titres conservés tels quels) : Communication ; Meaning ; Philosophy of Language ; Thread: Lifelong learning & languages.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La philosophie du langage étudie comment les mots et les phrases portent du sens, renvoient aux choses et façonnent la pensée.
+
+Penseurs et philosophes essentiels :
+
+- *Ludwig Wittgenstein* : Philosophe ; Tractatus (1921) et Recherches philosophiques (1953), le sens comme usage.
+- *Gottlob Frege* : Philosophe et logicien ; sens et dénotation, fondements de la logique moderne.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

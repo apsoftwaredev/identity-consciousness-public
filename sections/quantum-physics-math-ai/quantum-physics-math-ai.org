@@ -4,35 +4,60 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581be8f8dc45f539d4d62
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81b5-ab2c-d0f5941d1f8c
 :PRIVATE_NOTION_ID: 41da657440a581b5ab2cd0f5941d1f8c
+:SLUG: quantum-physics-math-ai
+:URL_PATH: quantum-physics-math-ai/quantum-physics-math-ai
+:ROAM_TITLE: IC/Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers/Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
+:SITE_URL: https://research.dan.credit/quantum-physics-math-ai/quantum-physics-math-ai
+:FIRESTORE_PATH: ic_public/root/byPath/quantum-physics-math-ai~quantum-physics-math-ai
+:SYNC_HASH: 21e1d12790108b60
+:SYNC_SOURCE: notion
 :END:
 #+title: Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers
 #+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Quantum_Physics:Computing_and_AI:Logic_and_Mathematics:Section:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-From Daniel's Roam notes: this branch links the scientific and computational topics of the graph: neural networks, data processing, communication, quantum states, time and space, order, chaos and complexity, efficiency, and the laws of nature. It frames identity and consciousness through physics, mathematics and computing.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This section gathers the scientific and technical topics of the map: quantum physics, mathematics and statistics, data science, AI, and computing.
 
-- [[id:41ea6574-40a5-8140-b5ec-c484975d011d][Problems of Quantum Mechanics]] (related page in this tree)
-- [[id:41ea6574-40a5-8100-9576-e648dfb52935][Consciousness and Machines / Nonorganic Consciousness]] (related page in this tree)
+* Need-to-know philosophers and key thinkers
+
+- *Niels Bohr*: Physicist (key thinker in the field); complementarity and the Copenhagen interpretation.
+- *Albert Einstein*: Physicist (key thinker in the field); special and general relativity.
+- *Claude Shannon*: Mathematician and engineer (key thinker in the field); founder of information theory (1948).
+- *Alan Turing*: Mathematician (key thinker in computing); "Computing Machinery and Intelligence" (1950) and the imitation game.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8183-bd6b-e4d148ab2374][Identity and Consciousness: Public Research Map]] (landing page of this map)
 - [[https://app.notion.com/p/411a657440a5815c8f40c866a770590a][Thread: Quantum & reality]] (public research thread)
 - [[https://app.notion.com/p/411a657440a581dda063cc2cb20c24dc][Thread: Infinity]] (public research thread)
-- [[https://app.notion.com/p/3eaa657440a581f5a503d6d153e3abfa][Artificial Intelligence (Computing)]] (Research Library topic)
-
-
-* Français / French :FRENCH:
-Résumé : D'après les notes Roam de Daniel : cette branche relie les sujets scientifiques et informatiques du graphe : réseaux de neurones, traitement des données, communication, états quantiques, temps et espace, ordre, chaos et complexité, efficacité, et lois de la nature. Elle aborde l'identité et la conscience à travers la physique, les mathématiques et l'informatique.
-
-Lectures recommandées (titres conservés tels quels) : Problems of Quantum Mechanics ; Consciousness and Machines / Nonorganic Consciousness ; Thread: Quantum & reality ; Thread: Infinity ; Artificial Intelligence (Computing).
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Cette section réunit les sujets scientifiques et techniques de la carte : physique quantique, mathématiques et statistiques, science des données, IA et informatique.
+
+Penseurs et philosophes essentiels :
+
+- *Niels Bohr* : Physicien (penseur clé du domaine) ; la complémentarité et l'interprétation de Copenhague.
+- *Albert Einstein* : Physicien (penseur clé du domaine) ; relativité restreinte et générale.
+- *Claude Shannon* : Mathématicien et ingénieur (penseur clé du domaine) ; fondateur de la théorie de l'information (1948).
+- *Alan Turing* : Mathématicien (penseur clé de l'informatique) ; « Computing Machinery and Intelligence » (1950) et le jeu de l'imitation.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Identity and Consciousness: Public Research Map ; Thread: Quantum & reality ; Thread: Infinity ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

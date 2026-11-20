@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b5adece04d4abcfa21
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: computing-and-ai
+:URL_PATH: taxonomy/tags/computing-and-ai
+:ROAM_TITLE: IC/taxonomy/Research Tags/Computing and AI
+:SITE_URL: https://research.dan.credit/taxonomy/tags/computing-and-ai
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~computing-and-ai
+:SYNC_HASH: 706548a10da192f2
+:SYNC_SOURCE: notion
 :END:
 #+title: Computing and AI
 #+filetags: :Tag:Computing_and_AI:
+#+language: en
+#+startup: overview
 
 Tag
 

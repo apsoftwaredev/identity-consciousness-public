@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581cc9c09f06023bfe944
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8165-8581-cf60774221f4
 :PRIVATE_NOTION_ID: 41da657440a581658581cf60774221f4
+:SLUG: theories-of-personality-and-personality-assessment
+:URL_PATH: mythological-psychological-spiritual/theories-of-personality-and-personality-assessment
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Theories of Personality and Personality Assessment
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/theories-of-personality-and-personality-assessment
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~theories-of-personality-and-personality-assessment
+:SYNC_HASH: 5feb0762a4fdde9d
+:SYNC_SOURCE: notion
 :END:
 #+title: Theories of Personality and Personality Assessment
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Self_and_Identity:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic covers the major theories of personality, from psychodynamic to trait and humanistic models, and the tests used to assess personality.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Theories of personality and personality assessment explain individual differences and how they are measured.
 
-- [[id:41ea6574-40a5-812c-b067-f86006acf0bd][Ego States]] (related page in this tree)
-- [[id:41ea6574-40a5-81d8-947e-c733c1749fa5][Jung]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581d2945dfff878d4b017][Personality Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581a29cdbef43c0bc1d0d][Psychoanalysis & Psychodynamic Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Gordon Allport*: Psychologist (key thinker in the field); The Nature of Prejudice (1954) and trait theory.
+- *Paul Costa and Robert McCrae*: Psychologists (key thinkers in the field); the Five-Factor Model of personality.
+- *Carl Rogers*: Psychologist (key thinker in the field); person-centered therapy and the self-concept.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet couvre les grandes théories de la personnalité, des modèles psychodynamiques aux modèles des traits et humanistes, ainsi que les tests qui servent à l'évaluer.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Ego States ; Jung ; Personality Psychology ; Psychoanalysis & Psychodynamic Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581779e78f25fba67dadb][Thread: Identity, ego & self]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les théories de la personnalité et l'évaluation de la personnalité expliquent les différences individuelles et la manière de les mesurer.
+
+Penseurs et philosophes essentiels :
+
+- *Gordon Allport* : Psychologue (penseur clé du domaine) ; The Nature of Prejudice (1954) et la théorie des traits.
+- *Paul Costa and Robert McCrae* : Psychologues (penseurs clés du domaine) ; le modèle de personnalité à cinq facteurs.
+- *Carl Rogers* : Psychologue (penseur clé du domaine) ; l'approche centrée sur la personne et le concept de soi.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Identity, ego & self ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

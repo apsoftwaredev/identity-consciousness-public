@@ -4,35 +4,54 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b19196e1309957dcb1
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8186-9043-c425ec357124
 :PRIVATE_NOTION_ID: 41da657440a581869043c425ec357124
+:SLUG: virtues-and-ethics
+:URL_PATH: philosophical/virtues-and-ethics
+:ROAM_TITLE: IC/Philosophical/Virtues and Ethics
+:SITE_URL: https://research.dan.credit/philosophical/virtues-and-ethics
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~virtues-and-ethics
+:SYNC_HASH: 072ef6549e8282c2
+:SYNC_SOURCE: notion
 :END:
 #+title: Virtues and Ethics
 #+filetags: :public:Philosophical:Ethics_and_Virtue:Virtue:Ethics:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-From Daniel's Roam notes: Daniel's original Roam page listing virtues and ethical themes: giving back, gratitude and happiness, forgiveness, character development, perseverance, humility, pride and shame, helping others, collaborative development, what is good, quality, patience and community awareness, with a link to religion and spirituality. The reorganization splits it into the Virtues and Ethics sections.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This page preserves the original Roam page that listed virtues and ethics together. In this map its topics now appear in the separate Virtues and Ethics sections.
 
-- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (related page in this tree)
-- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
-- [[id:41ea6574-40a5-81e8-96dd-fca50fa78b2f][Religion and Spirituality]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5810c980dcc3ebea08457][Value Theory]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Aristotle*: Philosopher; Nicomachean Ethics (virtue as a mean), founder of formal logic, Metaphysics.
+- *Confucius*: Philosopher; the Analects, humaneness (ren) and ritual propriety (li).
 
-* Français / French :FRENCH:
-Résumé : D'après les notes Roam de Daniel : la page Roam d'origine de Daniel qui liste des vertus et des thèmes éthiques : rendre à la communauté, gratitude et bonheur, pardon, développement du caractère, persévérance, humilité, fierté et honte, aider les autres, développement collaboratif, qu'est-ce que le bien, qualité, patience et conscience communautaire, avec un lien vers la religion et la spiritualité. La réorganisation la divise en deux sections, Virtues et Ethics.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Virtues ; Ethics ; Religion and Spirituality ; Normative Ethics ; Value Theory.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Cette page conserve la page Roam d'origine qui réunissait vertus et éthique. Dans cette carte, ses sujets figurent désormais dans les sections distinctes Vertus et Éthique.
+
+Penseurs et philosophes essentiels :
+
+- *Aristotle* : Philosophe ; Éthique à Nicomaque (la vertu comme juste milieu), fondateur de la logique formelle, Métaphysique.
+- *Confucius* : Philosophe ; les Entretiens, l'humanité (ren) et la bienséance rituelle (li).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

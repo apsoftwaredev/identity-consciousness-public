@@ -4,11 +4,96 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58104a37ed492f8cebcc0
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: biological-and-neurological
+:URL_PATH: taxonomy/topics/biological-and-neurological
+:ROAM_TITLE: IC/taxonomy/Research Topics/Biological and Neurological
+:SITE_URL: https://research.dan.credit/taxonomy/topics/biological-and-neurological
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~biological-and-neurological
+:SYNC_HASH: fa9ea97bf8146040
+:SYNC_SOURCE: notion
 :END:
 #+title: Biological and Neurological
 #+filetags: :Topic:Biological_and_Neurological:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 8 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 8 sur 8 : Biologique et neurologique
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This topic covers the biological side of mind: how the brain and nervous system work, how evolution shaped human bodies and behavior, and how health, development, and aging unfold over a lifetime. Charles Darwin's theory of evolution by natural selection and the modern neuroscience of memory, emotion, and perception are central reference points.
+
+Current researchers ask how much behavior is shaped by genes, hormones, and environment together; how emotions are built by the brain; and what makes the human brain distinctive. Many also ask what these findings mean for responsibility and free will. Newcomers can begin with one accessible book on the brain and one on evolution, and then watch an introductory lecture to see how scientists reason from evidence.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]]
+
+- Related categories: [[id:41ea6574-40a5-8121-b140-c8f7dec64467][Biology and Neuroscience]]
+
+- Tags: [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]], [[id:41ea6574-40a5-81f7-bf48-d7b40140b62d][Evolution and Adaptation]], [[id:41ea6574-40a5-81a0-97c5-fa907a85094f][Health and Aging]], [[id:41ea6574-40a5-81b7-99f1-c077ab04366c][Development and Learning]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (11):
+
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (section)
+- [[id:41ea6574-40a5-8102-a30b-f1838993b6d6][Adaptation]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c2-821e-df21d992a0af][Aging]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8134-b6de-c5aedb2c7ca7][Brain Development and Plasticity]] (Biological and Neurological)
+- [[id:41ea6574-40a5-815b-846c-c90a93155fcf][Brain and Body Health]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8195-bd3d-d01432cf658b][Collective Behavior/Biological Species and Ecosystems]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81b4-9413-ea2c565bd25c][Collective Consciousness]] (Biological and Neurological)
+- [[id:41ea6574-40a5-811c-bfeb-df15c20e0cd5][Evolution]] (Biological and Neurological)
+- [[id:41ea6574-40a5-81c3-a29d-f07102ebd6be][Lifecycle Stages]] (Biological and Neurological)
+- [[id:41ea6574-40a5-8111-a9f7-ea75e8bec85a][Psychopharmacology and Psychedelics]] (Biological and Neurological)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Charles Darwin, /On the Origin of Species/ (1859). John Murray. [[https://plato.stanford.edu/entries/origin-descent/][SEP guide: Darwin, from Origin to Descent]]
+- Eric R. Kandel, /In Search of Memory: The Emergence of a New Science of Mind/ (2006). W. W. Norton.
+- Robert M. Sapolsky, /Behave: The Biology of Humans at Our Best and Worst/ (2017). Penguin Press.
+- Lisa Feldman Barrett, /How Emotions Are Made: The Secret Life of the Brain/ (2017). Houghton Mifflin Harcourt.
+- John Bickle, Peter Mandik and Anthony Landreth, /The Philosophy of Neuroscience/ (1999, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/neuroscience/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=mZI2GQlNdJA][1. Human Behavioral Biology: Introduction by Robert Sapolsky]]: Robert Sapolsky. Channel: Stanford School of Humanities and Sciences.
+- [[https://www.youtube.com/watch?v=5Yj3nGv0kn8][Nancy Kanwisher: A neural portrait of the human mind]]: Nancy Kanwisher. Channel: TED.
+- [[https://www.youtube.com/watch?v=_7_XH1CBzGw][What is so special about the human brain? | Suzana Herculano-Houzel]]: Suzana Herculano-Houzel. Channel: TED.
+- [[https://www.youtube.com/watch?v=0gks6ceq4eQ][You aren't at the mercy of your emotions -- your brain creates them | Lisa Feldman Barrett]]: Lisa Feldman Barrett. Channel: TED.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Ce sujet couvre le versant biologique de l'esprit : le fonctionnement du cerveau et du système nerveux, la manière dont l'évolution a façonné le corps et le comportement humains, et le déroulement de la santé, du développement et du vieillissement au cours de la vie. La théorie de l'évolution par sélection naturelle de Charles Darwin et les neurosciences modernes de la mémoire, de l'émotion et de la perception sont des repères centraux.
+
+Les chercheurs actuels se demandent dans quelle mesure le comportement est façonné ensemble par les gènes, les hormones et l'environnement, comment le cerveau construit les émotions, et ce qui rend le cerveau humain particulier. Beaucoup se demandent aussi ce que ces résultats signifient pour la responsabilité et le libre arbitre. Pour commencer, on peut lire un livre accessible sur le cerveau et un autre sur l'évolution, puis regarder un cours d'introduction pour voir comment les scientifiques raisonnent à partir des données.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (11), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

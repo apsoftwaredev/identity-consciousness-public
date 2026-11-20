@@ -4,33 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581c68b5deb1a321fdeea
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-814b-89fb-e7bda70c376f
 :PRIVATE_NOTION_ID: 41da657440a5814b89fbe7bda70c376f
+:SLUG: following
+:URL_PATH: mythological-psychological-spiritual/religion-and-spirituality/negatives/following
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/religion and spirituality/negatives/Following
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/religion-and-spirituality/negatives/following
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~religion-and-spirituality~negatives~following
+:SYNC_HASH: 2a7c8de8ba6850b1
+:SYNC_SOURCE: notion
 :END:
 #+title: Following
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Society_and_Politics:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Following concerns why and how people follow leaders and groups, including conformity, obedience and loyalty.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Following looks at conformity and obedience: why people follow leaders and groups.
 
-- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (related page in this tree)
-- [[id:41ea6574-40a5-81fc-964d-ceca7ddda5d2][Cult Leaders]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Stanley Milgram*: Psychologist (key thinker in the field); experiments on obedience to authority.
+- *Solomon Asch*: Psychologist (key thinker in the field); experiments on conformity.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le suivisme porte sur les raisons et la manière dont les personnes suivent des dirigeants et des groupes : conformisme, obéissance et loyauté.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Role Modeling and Leadership ; Cult Leaders ; Social Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8166-87c0-ead8d9a5a08e][Negatives]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Suivre examine le conformisme et l'obéissance : pourquoi les personnes suivent des dirigeants et des groupes.
+
+Penseurs et philosophes essentiels :
+
+- *Stanley Milgram* : Psychologue (penseur clé du domaine) ; expériences sur la soumission à l'autorité.
+- *Solomon Asch* : Psychologue (penseur clé du domaine) ; expériences sur le conformisme.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Negatives ; Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

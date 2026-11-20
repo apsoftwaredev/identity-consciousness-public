@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5818196f9d2f21af3dd33
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: brain-and-nervous-system
+:URL_PATH: taxonomy/tags/brain-and-nervous-system
+:ROAM_TITLE: IC/taxonomy/Research Tags/Brain and Nervous System
+:SITE_URL: https://research.dan.credit/taxonomy/tags/brain-and-nervous-system
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~brain-and-nervous-system
+:SYNC_HASH: 65881cadd717cbae
+:SYNC_SOURCE: notion
 :END:
 #+title: Brain and Nervous System
 #+filetags: :Tag:Brain_and_Nervous_System:
+#+language: en
+#+startup: overview
 
 Tag
 

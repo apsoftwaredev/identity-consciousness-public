@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581299320edbb22dbd70a
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: creativity
+:URL_PATH: taxonomy/tags/creativity
+:ROAM_TITLE: IC/taxonomy/Research Tags/Creativity
+:SITE_URL: https://research.dan.credit/taxonomy/tags/creativity
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~creativity
+:SYNC_HASH: 6ef9e9d8bc020b9c
+:SYNC_SOURCE: notion
 :END:
 #+title: Creativity
 #+filetags: :Tag:Creativity:
+#+language: en
+#+startup: overview
 
 Tag
 

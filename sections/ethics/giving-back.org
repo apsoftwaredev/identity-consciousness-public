@@ -4,33 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58117991bf6756a6ca4e6
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81a5-b5b7-ee92961787c0
 :PRIVATE_NOTION_ID: 41da657440a581a5b5b7ee92961787c0
+:SLUG: giving-back
+:URL_PATH: ethics/giving-back
+:ROAM_TITLE: IC/Ethics/Giving Back
+:SITE_URL: https://research.dan.credit/ethics/giving-back
+:FIRESTORE_PATH: ic_public/root/byPath/ethics~giving-back
+:SYNC_HASH: 045476a796715767
+:SYNC_SOURCE: notion
 :END:
 #+title: Giving Back
 #+filetags: :public:Ethics:Ethics_and_Virtue:Community:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Giving back is contributing time, skills or resources to the community that has supported you.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Giving back covers generosity, gift exchange, charity, and service to community.
 
-- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (related page in this tree)
-- [[id:41ea6574-40a5-8170-867d-e297eea1d0f1][Gratitude and Happiness]] (related page in this tree)
-- [[https://app.notion.com/p/405a657440a58188951bdd8d68d7cb3b][The Bigger Picture: Why We Care]] (public research page)
+* Need-to-know philosophers and key thinkers
 
+- *Marcel Mauss*: Anthropologist (key thinker in the field); The Gift (1925).
+- *Moses Maimonides*: Philosopher; the eight levels of charity (tzedakah).
+- *Peter Singer*: Philosopher; "Famine, Affluence, and Morality" (1972) and The Life You Can Save (2009).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Rendre à la communauté consiste à offrir du temps, des compétences ou des ressources à la communauté qui vous a soutenu.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Helping Others ; Gratitude and Happiness ; The Bigger Picture: Why We Care.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Rendre à la communauté recouvre la générosité, l'échange de dons, la charité et le service.
+
+Penseurs et philosophes essentiels :
+
+- *Marcel Mauss* : Anthropologue (penseur clé du domaine) ; Essai sur le don (1925).
+- *Moses Maimonides* : Philosophe ; les huit degrés de la charité (tsedaka).
+- *Peter Singer* : Philosophe ; « Famine, Affluence, and Morality » (1972) et Sauver une vie (2009).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Ethics ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

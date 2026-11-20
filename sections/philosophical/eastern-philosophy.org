@@ -4,34 +4,59 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58172ac76e11a1cbc7609
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81b1-b829-d313b991ef92
 :PRIVATE_NOTION_ID: 41da657440a581b1b829d313b991ef92
+:SLUG: eastern-philosophy
+:URL_PATH: philosophical/eastern-philosophy
+:ROAM_TITLE: IC/Philosophical/Eastern Philosophy
+:SITE_URL: https://research.dan.credit/philosophical/eastern-philosophy
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~eastern-philosophy
+:SYNC_HASH: 81819a77db40b568
+:SYNC_SOURCE: notion
 :END:
 #+title: Eastern Philosophy
 #+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Eastern_Thought:Spirituality:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Eastern philosophy covers the traditions of India, China and Japan, including Hindu, Buddhist, Daoist and Confucian thought. Central themes include the self, harmony, impermanence and liberation.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Eastern philosophy includes Indian, Chinese, Japanese, and other Asian traditions such as Vedanta, Buddhism, Confucianism, and Daoism.
 
-- [[id:41ea6574-40a5-8154-8b31-c4f8f2788c77][Meditation, Hypnosis, Prayer]] (related page in this tree)
+* Need-to-know philosophers and key thinkers
+
+- *Confucius*: Philosopher; the Analects, humaneness (ren) and ritual propriety (li).
+- *Laozi*: Traditional author of the Tao Te Ching, founding text of Daoism.
+- *Nagarjuna*: Buddhist philosopher; founder of Madhyamaka, the philosophy of emptiness.
+- *Adi Shankara*: Philosopher; the classic teacher of Advaita Vedanta (non-dualism).
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
-- [[https://app.notion.com/p/3eaa657440a5810dab5ad8bd2814dc20][Buddhism]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5810c87f6dbf4c4c6231f][Taoism & Confucianism]] (Research Library topic)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La philosophie orientale couvre les traditions de l'Inde, de la Chine et du Japon, dont les pensées hindoue, bouddhiste, taoïste et confucéenne. Ses thèmes centraux sont le soi, l'harmonie, l'impermanence et la libération.
-
-Lectures recommandées (titres conservés tels quels) : Meditation, Hypnosis, Prayer ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Buddhism ; Taoism & Confucianism.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La philosophie orientale comprend les traditions indiennes, chinoises, japonaises et d'autres traditions asiatiques comme le Vedanta, le bouddhisme, le confucianisme et le taoïsme.
+
+Penseurs et philosophes essentiels :
+
+- *Confucius* : Philosophe ; les Entretiens, l'humanité (ren) et la bienséance rituelle (li).
+- *Laozi* : Auteur traditionnel du Tao Te King, texte fondateur du taoïsme.
+- *Nagarjuna* : Philosophe bouddhiste ; fondateur du Madhyamaka, la philosophie de la vacuité.
+- *Adi Shankara* : Philosophe ; le maître classique de l'Advaita Vedanta (non-dualisme).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

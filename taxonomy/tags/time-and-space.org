@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581af9f24cdbd823fa05f
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: time-and-space
+:URL_PATH: taxonomy/tags/time-and-space
+:ROAM_TITLE: IC/taxonomy/Research Tags/Time and Space
+:SITE_URL: https://research.dan.credit/taxonomy/tags/time-and-space
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~time-and-space
+:SYNC_HASH: 18ff9c4d5c780f1d
+:SYNC_SOURCE: notion
 :END:
 #+title: Time and Space
 #+filetags: :Tag:Time_and_Space:
+#+language: en
+#+startup: overview
 
 Tag
 

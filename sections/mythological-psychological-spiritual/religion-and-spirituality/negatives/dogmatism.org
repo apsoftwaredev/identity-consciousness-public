@@ -4,33 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581498674d986dfa37b36
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-812a-8e85-c94eed373dde
 :PRIVATE_NOTION_ID: 41da657440a5812a8e85c94eed373dde
+:SLUG: dogmatism
+:URL_PATH: mythological-psychological-spiritual/religion-and-spirituality/negatives/dogmatism
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/religion and spirituality/negatives/Dogmatism
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/religion-and-spirituality/negatives/dogmatism
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~religion-and-spirituality~negatives~dogmatism
+:SYNC_HASH: 27ed76a258250fd6
+:SYNC_SOURCE: notion
 :END:
 #+title: Dogmatism
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Religion:Knowledge:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Dogmatism is holding beliefs as certain and beyond question, and refusing to consider evidence or other views.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Dogmatism is holding beliefs as beyond question, resistant to evidence or revision.
 
-- [[id:41ea6574-40a5-815c-9779-d4091dad6a85][Rigidity and Conflict]] (related page in this tree)
-- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581069325c9d8bff9a50c][Epistemology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Karl Popper*: Philosopher of science; falsifiability, Conjectures and Refutations (1963).
+- *Gordon Allport*: Psychologist (key thinker in the field); The Nature of Prejudice (1954) and trait theory.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le dogmatisme consiste à tenir des croyances pour certaines et indiscutables, et à refuser d'examiner les preuves ou d'autres points de vue.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Rigidity and Conflict ; Truth and Conjecture ; Epistemology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8166-87c0-ead8d9a5a08e][Negatives]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Le dogmatisme consiste à tenir des croyances pour incontestables, réfractaires aux preuves ou à la révision.
+
+Penseurs et philosophes essentiels :
+
+- *Karl Popper* : Philosophe des sciences ; la réfutabilité, Conjectures et réfutations (1963).
+- *Gordon Allport* : Psychologue (penseur clé du domaine) ; The Nature of Prejudice (1954) et la théorie des traits.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Negatives ; Mythological, Psychological, and Spiritual ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -4,11 +4,100 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58192a10bc205115982a0
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: science-mathematics-and-computing
+:URL_PATH: taxonomy/categories/science-mathematics-and-computing
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Science, Mathematics, and Computing
+:SITE_URL: https://research.dan.credit/taxonomy/categories/science-mathematics-and-computing
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~science-mathematics-and-computing
+:SYNC_HASH: d9857dca200b80f0
+:SYNC_SOURCE: notion
 :END:
 #+title: Science, Mathematics, and Computing
 #+filetags: :Category:Science_Mathematics_and_Computing:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Physics, mathematics, information, and artificial intelligence.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Physique, mathématiques, information et intelligence artificielle.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This category covers the physical and formal sciences and their philosophy: physics (including quantum theory and the nature of space and time), mathematics and statistics, information and computation, and artificial intelligence. It also asks how science itself works, how theories are tested, and how scientific revolutions happen, a question made famous by Thomas Kuhn.
+
+Current conversations include the interpretation of quantum mechanics, the role of algorithms in everyday life, the capacities and limits of AI systems, and how mathematics advances with new tools. Newcomers can begin with one classic (such as Turing's 1950 paper on machine intelligence) and one public lecture by a working scientist or mathematician.
+
+* Where it sits in the tree
+
+- Parent sections: [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]], [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]], [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]], [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-811c-aa3e-f1d496fa2f24][Consciousness]], [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]], [[id:41ea6574-40a5-81fc-b81f-e7982018b43b][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]], [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-81b5-adec-e04d4abcfa21][Computing and AI]], [[id:41ea6574-40a5-8156-b7d2-c220c1aa708f][Philosophy of Science]], [[id:41ea6574-40a5-8193-9985-c232cc851068][Quantum Physics]], [[id:41ea6574-40a5-8146-aecf-c84bfa3ffee9][Reality]], [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]], [[id:41ea6574-40a5-81af-9f24-cdbd823fa05f][Time and Space]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (14):
+
+- [[id:41ea6574-40a5-81e3-8f22-d6c4787c65d2][Parallel Distributed Systems]] (Consciousness)
+- [[id:41ea6574-40a5-81a4-b8b1-c85245c8a1b3][Science and Non Science]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8100-bd09-cb46b0d60df8][History and Philosophy of Science, Technology, Mathematics]] (Philosophical)
+- [[id:41ea6574-40a5-8140-b5ec-c484975d011d][Problems of Quantum Mechanics]] (Philosophical)
+- [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]] (section)
+- [[id:41ea6574-40a5-8132-9a49-de03cb668295][Communication]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8182-9ad8-ce455c7ca6ed][Data Processing]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8141-afae-f2de679fdfe9][Efficiency]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-81da-b0d0-e9fb4feb5762][Laws of Nature]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8191-99d8-c819e82f734f][Neural Networks]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-813f-9e05-ef525d176ff9][Order, Chaos, and Complexity]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8130-8a46-d40b0ccae903][Quantum States]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8106-a39b-c7e20e5a1226][Time and Space]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers)
+- [[id:41ea6574-40a5-8102-b024-e16a944a499d][Relativity and Consciousness]] (Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers / Time and Space)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Thomas S. Kuhn, /The Structure of Scientific Revolutions/ (1962). University of Chicago Press. [[https://plato.stanford.edu/entries/thomas-kuhn/][SEP guide: Thomas Kuhn]]
+- Alan M. Turing, /Computing Machinery and Intelligence/ (1950). Mind 59(236). [[https://plato.stanford.edu/entries/turing-test/][SEP guide: The Turing Test]]
+- Richard P. Feynman, /QED: The Strange Theory of Light and Matter/ (1985). Princeton University Press.
+- Douglas R. Hofstadter, /Gödel, Escher, Bach: An Eternal Golden Braid/ (1979). Basic Books.
+- Hannah Fry, /Hello World: Being Human in the Age of Algorithms/ (2018). W. W. Norton / Doubleday.
+- Brian Hepburn and Hanne Andersen, /Scientific Method/ (2015, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/scientific-method/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=u5mNa6KE0lA][Christmas Lectures 2019: How Can We All Win? - Hannah Fry]]: Hannah Fry. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=M0--ZH1lOzg][ICM 2026 Public Lectures - Terence Tao]]: Terence Tao. Channel: Simons Foundation.
+- [[https://www.youtube.com/watch?v=5hVmeOCJjOU][A Brief History of Quantum Mechanics - with Sean Carroll]]: Sean Carroll. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=EBK-a94IFHY][3 principles for creating safer AI | Stuart Russell]]: Stuart Russell. Channel: TED.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Cette catégorie couvre les sciences physiques et formelles et leur philosophie : la physique (dont la théorie quantique et la nature de l'espace et du temps), les mathématiques et les statistiques, l'information et le calcul, et l'intelligence artificielle. Elle demande aussi comment fonctionne la science elle-même, comment les théories sont mises à l'épreuve et comment se produisent les révolutions scientifiques, une question rendue célèbre par Thomas Kuhn.
+
+Les conversations actuelles portent sur l'interprétation de la mécanique quantique, le rôle des algorithmes dans la vie quotidienne, les capacités et les limites des systèmes d'IA, et les progrès des mathématiques grâce à de nouveaux outils. Pour commencer, on peut lire un classique (comme l'article de Turing de 1950 sur l'intelligence des machines) et regarder une conférence publique d'une scientifique ou d'un mathématicien en activité.
+
+Place dans l'arborescence : sections parentes, sujets liés, étiquettes et pages de cette catégorie (14), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

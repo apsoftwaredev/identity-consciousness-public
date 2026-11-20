@@ -4,33 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581a99ceffa5fcca92c7c
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8141-90e4-c72d3cc18392
 :PRIVATE_NOTION_ID: 41da657440a5814190e4c72d3cc18392
+:SLUG: synthesis
+:URL_PATH: mythological-psychological-spiritual/creativity/synthesis
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/creativity/Synthesis
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/creativity/synthesis
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~creativity~synthesis
+:SYNC_HASH: 0310da11d80ec285
+:SYNC_SOURCE: notion
 :END:
 #+title: Synthesis
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:Creativity:Knowledge:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Synthesis is combining separate ideas or elements into a new whole, as in Hegel's dialectic and in creative thinking.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Synthesis is combining ideas or elements into a new whole.
 
-- [[id:41ea6574-40a5-8188-8f3e-d29dd2c25414][Integration]] (related page in this tree)
-- [[id:41ea6574-40a5-814b-a5ac-c4847db4ba3f][Lateral Thinking]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5815da10ff8a483f62953][History of Western Philosophy]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *G. W. F. Hegel*: Philosopher; Phenomenology of Spirit (1807) and dialectical synthesis.
+- *Arthur Koestler*: Writer; The Act of Creation (1964).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La synthèse consiste à combiner des idées ou des éléments séparés en un tout nouveau, comme dans la dialectique de Hegel et dans la pensée créative.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Integration ; Lateral Thinking ; History of Western Philosophy.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8137-8b40-dd7ab46c4c09][Creativity]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La synthèse consiste à combiner des idées ou des éléments en un nouveau tout.
+
+Penseurs et philosophes essentiels :
+
+- *G. W. F. Hegel* : Philosophe ; Phénoménologie de l'esprit (1807) et synthèse dialectique.
+- *Arthur Koestler* : Écrivain ; Le Cri d'Archimède (The Act of Creation, 1964).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Creativity ; Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

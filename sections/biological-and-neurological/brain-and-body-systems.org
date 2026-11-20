@@ -4,33 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581c1a2dddb6e397c6c15
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-812a-87ba-c03eebe9f950
 :PRIVATE_NOTION_ID: 41da657440a5812a87bac03eebe9f950
+:SLUG: brain-and-body-systems
+:URL_PATH: biological-and-neurological/brain-and-body-systems
+:ROAM_TITLE: IC/Biological and Neurological/Brain and Body Systems
+:SITE_URL: https://research.dan.credit/biological-and-neurological/brain-and-body-systems
+:FIRESTORE_PATH: ic_public/root/byPath/biological-and-neurological~brain-and-body-systems
+:SYNC_HASH: 588d0fabb800b3e9
+:SYNC_SOURCE: notion
 :END:
 #+title: Brain and Body Systems
 #+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic covers the nervous, endocrine, immune and other body systems and how they interact with the brain to produce behavior and experience.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Brain and body systems covers how the nervous system and the rest of the body work together.
 
-- [[id:41ea6574-40a5-815b-846c-c90a93155fcf][Brain and Body Health]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5813194afd787fa555202][Psychoneuroimmunology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Charles Sherrington*: Physiologist (key thinker in the field); The Integrative Action of the Nervous System (1906).
+- *Walter Cannon*: Physiologist (key thinker in the field); homeostasis and the fight-or-flight response.
+- *Antonio Damasio*: Neuroscientist (key thinker in the field); Descartes' Error (1994), emotion and the body in reasoning.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur les systèmes nerveux, endocrinien, immunitaire et autres, et sur leur interaction avec le cerveau pour produire le comportement et l'expérience.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Brain and Body Health ; Behavioral Neuroscience & Physiological Psychology ; Psychoneuroimmunology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les systèmes du cerveau et du corps couvrent la manière dont le système nerveux et le reste du corps fonctionnent ensemble.
+
+Penseurs et philosophes essentiels :
+
+- *Charles Sherrington* : Physiologiste (penseur clé du domaine) ; L'Action intégrative du système nerveux (1906).
+- *Walter Cannon* : Physiologiste (penseur clé du domaine) ; l'homéostasie et la réaction de lutte ou de fuite.
+- *Antonio Damasio* : Neuroscientifique (penseur clé du domaine) ; L'Erreur de Descartes (1994), l'émotion et le corps dans le raisonnement.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Biological and Neurological ; Thread: Consciousness & philosophy of mind ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

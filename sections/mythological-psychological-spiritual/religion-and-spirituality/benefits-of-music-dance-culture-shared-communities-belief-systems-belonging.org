@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58191bcd0cbd98e2673cb
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81fe-bf82-f8d319fc5bc5
 :PRIVATE_NOTION_ID: 41da657440a581febf82f8d319fc5bc5
+:SLUG: benefits-of-music-dance-culture-shared-communities-belief-systems-belonging
+:URL_PATH: mythological-psychological-spiritual/religion-and-spirituality/benefits-of-music-dance-culture-shared-communities-belief-systems-belonging
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/religion and spirituality/Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/religion-and-spirituality/benefits-of-music-dance-culture-shared-communities-belief-systems-belonging
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~religion-and-spirituality~benefits-of-music-dance-culture-shared-communities-belief-systems-belonging
+:SYNC_HASH: dceb7257dcd5668f
+:SYNC_SOURCE: notion
 :END:
 #+title: Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Community:Culture_and_Arts:Spirituality:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic concerns how music, dance, culture, shared communities and belief systems give people belonging, meaning and well-being.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This topic gathers research on the social and personal benefits of music, dance, culture, shared communities, belief systems, and belonging.
 
-- [[id:41ea6574-40a5-8146-9797-fbad1e7a7a20][Music and The Arts]] (related page in this tree)
-- [[id:41ea6574-40a5-81d8-be23-fe8f8c375bc4][Rituals]] (related page in this tree)
-- [[id:41ea6574-40a5-81d6-bb3a-cb8d3361427d][Culture]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5816abacbde17d5b9227d][Psychology of Religion and Spirituality]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Émile Durkheim*: Sociologist (key thinker in the field); collective consciousness and The Elementary Forms of Religious Life (1912).
+- *Victor Turner*: Anthropologist (key thinker in the field); ritual and liminality.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur la façon dont la musique, la danse, la culture, les communautés partagées et les systèmes de croyances donnent aux personnes appartenance, sens et bien-être.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Music and The Arts ; Rituals ; Culture ; Psychology of Religion and Spirituality.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-81e8-96dd-fca50fa78b2f][Religion and Spirituality]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Ce sujet réunit des recherches sur les bienfaits sociaux et personnels de la musique, de la danse, de la culture, des communautés partagées, des systèmes de croyances et de l'appartenance.
+
+Penseurs et philosophes essentiels :
+
+- *Émile Durkheim* : Sociologue (penseur clé du domaine) ; la conscience collective et Les Formes élémentaires de la vie religieuse (1912).
+- *Victor Turner* : Anthropologue (penseur clé du domaine) ; le rituel et la liminalité.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Religion and Spirituality ; Mythological, Psychological, and Spiritual ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

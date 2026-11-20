@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58121a775f684a047fddc
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41ea6574-40a5-8191-91cb-db34a7c0cb87
 :PRIVATE_NOTION_ID: 41ea657440a5819191cbdb34a7c0cb87
+:SLUG: virtues
+:URL_PATH: virtues/virtues
+:ROAM_TITLE: IC/Virtues/Virtues
+:SITE_URL: https://research.dan.credit/virtues/virtues
+:FIRESTORE_PATH: ic_public/root/byPath/virtues~virtues
+:SYNC_HASH: 223442741e3041d1
+:SYNC_SOURCE: notion
 :END:
 #+title: Virtues
 #+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Section:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Section page added during the reorganization (not Daniel's own text): it holds the personal character topics that Roam listed on the page Virtues and Ethics: character development, perseverance, patience, humility, pride and shame, gratitude and happiness, and forgiveness of self and others. Its companion section is Ethics.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Virtues are stable traits of good character. This section gathers personal virtues such as perseverance, patience, humility, gratitude, and forgiveness.
 
-- [[id:41ea6574-40a5-81b1-9196-e1309957dcb1][Virtues and Ethics]] (related page in this tree)
-- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Aristotle*: Philosopher; Nicomachean Ethics (virtue as a mean), founder of formal logic, Metaphysics.
+- *Confucius*: Philosopher; the Analects, humaneness (ren) and ritual propriety (li).
+- *Alasdair MacIntyre*: Philosopher; After Virtue (1981) on the virtue tradition.
 
-* Français / French :FRENCH:
-Résumé : Page de section ajoutée lors de la réorganisation (pas un texte de Daniel) : elle regroupe les sujets de caractère personnel que Roam listait sur la page Virtues and Ethics : développement du caractère, persévérance, patience, humilité, fierté et honte, gratitude et bonheur, et pardon de soi et des autres. Sa section sœur est Ethics.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Virtues and Ethics ; Ethics ; Normative Ethics ; Positive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8183-bd6b-e4d148ab2374][Identity and Consciousness: Public Research Map]] (landing page of this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les vertus sont des traits stables d'un bon caractère. Cette section réunit des vertus personnelles comme la persévérance, la patience, l'humilité, la gratitude et le pardon.
+
+Penseurs et philosophes essentiels :
+
+- *Aristotle* : Philosophe ; Éthique à Nicomaque (la vertu comme juste milieu), fondateur de la logique formelle, Métaphysique.
+- *Confucius* : Philosophe ; les Entretiens, l'humanité (ren) et la bienséance rituelle (li).
+- *Alasdair MacIntyre* : Philosophe ; Après la vertu (1981), sur la tradition des vertus.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Identity and Consciousness: Public Research Map ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

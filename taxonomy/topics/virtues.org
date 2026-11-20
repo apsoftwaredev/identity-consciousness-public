@@ -4,11 +4,92 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581619f6ed7533503fa53
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: virtues
+:URL_PATH: taxonomy/topics/virtues
+:ROAM_TITLE: IC/taxonomy/Research Topics/Virtues
+:SITE_URL: https://research.dan.credit/taxonomy/topics/virtues
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~virtues
+:SYNC_HASH: efeb66ff997e31e2
+:SYNC_SOURCE: notion
 :END:
 #+title: Virtues
 #+filetags: :Topic:Virtues:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 3 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 3 sur 8 : Vertus
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+A virtue is a stable trait of character that helps a person act and feel well, such as courage, honesty, justice, temperance, or compassion. In the tradition that runs from Aristotle, Confucius, and the Stoics to modern virtue ethics, the central question is not only "what should I do?" but "what kind of person should I become?" Practical wisdom, the skill of seeing what a situation calls for, ties the virtues together.
+
+Modern psychology has joined the conversation. Positive psychology studies character strengths across cultures, and researchers examine how habits, practice, and community shape character over a lifetime. A useful starting point is to read one classic account (Aristotle or the Stoics) alongside one modern study of character, and to notice where they agree.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]]
+
+- Related categories: [[id:41ea6574-40a5-81d6-b96c-c0f51f97f1bf][Ethics and Virtue]]
+
+- Tags: [[id:41ea6574-40a5-812e-9cb7-e44528986ee0][Virtue]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-81b7-99f1-c077ab04366c][Development and Learning]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-81e5-9b0e-e72472bd2925][Goals and Habits]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (7):
+
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (section)
+- [[id:41ea6574-40a5-81ad-8531-c04bcc56799e][Character Development]] (Virtues)
+- [[id:41ea6574-40a5-8117-b925-f478272130c6][Forgiveness of Self and Others]] (Virtues)
+- [[id:41ea6574-40a5-8170-867d-e297eea1d0f1][Gratitude and Happiness]] (Virtues)
+- [[id:41ea6574-40a5-8112-9a72-ff8c1ad088ff][Humility, Pride, and Shame]] (Virtues)
+- [[id:41ea6574-40a5-8144-8b8a-ced6f5aeec76][Patience]] (Virtues)
+- [[id:41ea6574-40a5-819b-a0f2-e907e642a06c][Perseverance]] (Virtues)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Aristotle, /Nicomachean Ethics/ (4th century BCE). Foundational text of virtue ethics. [[https://plato.stanford.edu/entries/aristotle-ethics/][SEP guide: Aristotle's Ethics]]
+- Rosalind Hursthouse and Glen Pettigrove, /Virtue Ethics/ (2003, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/ethics-virtue/][SEP entry]]
+- Alasdair MacIntyre, /After Virtue/ (1981). University of Notre Dame Press.
+- Christopher Peterson and Martin E. P. Seligman, /Character Strengths and Virtues: A Handbook and Classification/ (2004). Oxford University Press / American Psychological Association.
+- Julia Annas, /Intelligent Virtue/ (2011). Oxford University Press.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=R9OCA6UFE-0][The philosophy of Stoicism - Massimo Pigliucci]]: Massimo Pigliucci. Channel: TED-Ed.
+- [[https://www.youtube.com/watch?v=9FBxfd7DL3E][The new era of positive psychology | Martin Seligman]]: Martin Seligman. Channel: TED.
+- [[https://www.youtube.com/watch?v=H14bBuluwB8][Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED]]: Angela Lee Duckworth. Channel: TED.
+- [[https://www.youtube.com/watch?v=AYhLchfIEAY][Professor Kristján Kristjánsson: Four Accounts of Flourishing as the Aim of Education]]: Kristján Kristjánsson. Channel: Templeton World Charity Foundation.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Une vertu est un trait de caractère stable qui aide une personne à bien agir et à bien ressentir, comme le courage, l'honnêteté, la justice, la tempérance ou la compassion. Dans la tradition qui va d'Aristote, de Confucius et des stoïciens jusqu'à l'éthique des vertus moderne, la question centrale n'est pas seulement « que dois-je faire ? » mais « quel genre de personne dois-je devenir ? ». La sagesse pratique, l'art de voir ce qu'exige une situation, relie les vertus entre elles.
+
+La psychologie moderne a rejoint la conversation. La psychologie positive étudie les forces de caractère à travers les cultures, et les chercheurs examinent comment les habitudes, la pratique et la communauté façonnent le caractère tout au long de la vie. Pour commencer, il est utile de lire un exposé classique (Aristote ou les stoïciens) à côté d'une étude moderne du caractère, et de remarquer leurs points d'accord.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (7), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

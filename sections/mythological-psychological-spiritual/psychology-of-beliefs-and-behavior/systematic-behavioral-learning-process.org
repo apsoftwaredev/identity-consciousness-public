@@ -4,33 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b4aff7de42fde6e693
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81f0-83db-ebe0eba56dc0
 :PRIVATE_NOTION_ID: 41da657440a581f083dbebe0eba56dc0
+:SLUG: systematic-behavioral-learning-process
+:URL_PATH: mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/systematic-behavioral-learning-process
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/psychology of beliefs and behavior/Systematic Behavioral Learning Process
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/systematic-behavioral-learning-process
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychology-of-beliefs-and-behavior~systematic-behavioral-learning-process
+:SYNC_HASH: ffdbef3e4cbf54ee
+:SYNC_SOURCE: notion
 :END:
 #+title: Systematic Behavioral Learning Process
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Development_and_Learning:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic concerns structured, step-by-step learning based on behavioral principles such as reinforcement and shaping.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This topic covers systematic behavioral learning: how behavior is learned through conditioning and modeling.
 
-- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
-- [[id:41ea6574-40a5-8189-9508-ced9d27c303e][Habituation]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *B. F. Skinner*: Psychologist (key thinker in the field); operant conditioning.
+- *Albert Bandura*: Psychologist (key thinker in the field); social learning theory and self-efficacy.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur l'apprentissage structuré, étape par étape, fondé sur des principes comportementaux comme le renforcement et le façonnement.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Theories of Learning ; Habituation ; Cognitive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8128-8666-f942cdcaf4a1][Psychology of Beliefs and Behavior]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Ce sujet couvre l'apprentissage comportemental systématique : comment le comportement s'apprend par conditionnement et par modélisation.
+
+Penseurs et philosophes essentiels :
+
+- *B. F. Skinner* : Psychologue (penseur clé du domaine) ; le conditionnement opérant.
+- *Albert Bandura* : Psychologue (penseur clé du domaine) ; théorie de l'apprentissage social et sentiment d'efficacité personnelle.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Psychology of Beliefs and Behavior ; Mythological, Psychological, and Spiritual ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

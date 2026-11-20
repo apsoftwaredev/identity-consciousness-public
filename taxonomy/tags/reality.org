@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58146aecfc84bfa3ffee9
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: reality
+:URL_PATH: taxonomy/tags/reality
+:ROAM_TITLE: IC/taxonomy/Research Tags/Reality
+:SITE_URL: https://research.dan.credit/taxonomy/tags/reality
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~reality
+:SYNC_HASH: 2ab8a4777bb47fc3
+:SYNC_SOURCE: notion
 :END:
 #+title: Reality
 #+filetags: :Tag:Reality:
+#+language: en
+#+startup: overview
 
 Tag
 

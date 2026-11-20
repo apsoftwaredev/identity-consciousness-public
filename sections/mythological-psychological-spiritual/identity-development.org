@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581ef9732da4cd7ca7e59
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81f3-b5f5-ca577564ab9b
 :PRIVATE_NOTION_ID: 41da657440a581f3b5f5ca577564ab9b
+:SLUG: identity-development
+:URL_PATH: mythological-psychological-spiritual/identity-development
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Identity Development
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/identity-development
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~identity-development
+:SYNC_HASH: b07bb28370ea5eb3
+:SYNC_SOURCE: notion
 :END:
 #+title: Identity Development
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Self_and_Identity:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Identity development is the process through which a person forms a sense of who they are, as described by Erik Erikson and later researchers.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Identity development is how a sense of self forms across the lifespan.
 
-- [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]] (related page in this tree)
-- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
+* Need-to-know philosophers and key thinkers
+
+- *Erik Erikson*: Psychologist (key thinker in the field); psychosocial stages across the lifespan.
+- *Dan McAdams*: Psychologist (key thinker in the field); the theory of narrative identity.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a581779e78f25fba67dadb][Thread: Identity, ego & self]] (public research thread)
-- [[https://app.notion.com/p/3eaa657440a581d3876af9ddcc2c2004][Developmental Psychology]] (Research Library topic)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le développement de l'identité est le processus par lequel une personne se forge un sentiment de qui elle est, tel que décrit par Erik Erikson et des chercheurs ultérieurs.
-
-Lectures recommandées (titres conservés tels quels) : Identity ; Growth and Psychological Development ; Thread: Identity, ego & self ; Developmental Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Le développement de l'identité est la manière dont le sentiment de soi se forme tout au long de la vie.
+
+Penseurs et philosophes essentiels :
+
+- *Erik Erikson* : Psychologue (penseur clé du domaine) ; stades psychosociaux tout au long de la vie.
+- *Dan McAdams* : Psychologue (penseur clé du domaine) ; la théorie de l'identité narrative.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Identity, ego & self ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

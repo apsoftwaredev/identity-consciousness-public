@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58192ab01ca713c65bf45
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81ba-9837-c15bd0763f4b
 :PRIVATE_NOTION_ID: 41da657440a581ba9837c15bd0763f4b
+:SLUG: family-systems
+:URL_PATH: mythological-psychological-spiritual/family-systems
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Family Systems
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/family-systems
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~family-systems
+:SYNC_HASH: b05718dd908ef12a
+:SYNC_SOURCE: notion
 :END:
 #+title: Family Systems
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Community:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Family systems theory views the family as an emotional unit in which each member's behavior affects the others, a framework developed by Murray Bowen.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Family systems views the family as an emotional unit in which members affect one another.
 
-- [[id:41ea6574-40a5-817e-b18a-f7b38f04bc3b][The Self and Relationships with Others]] (related page in this tree)
-- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5813782b5dd4268c38c1f][Psychotherapy]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Murray Bowen*: Psychiatrist (key thinker in the field); family systems theory.
+- *Salvador Minuchin*: Psychiatrist (key thinker in the field); structural family therapy.
+- *John Bowlby*: Psychiatrist (key thinker in the field); attachment theory.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La théorie des systèmes familiaux considère la famille comme une unité émotionnelle où le comportement de chacun influe sur les autres, un cadre développé par Murray Bowen.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : The Self and Relationships with Others ; Organizational Dynamics and Psychology ; Psychotherapy ; Clinical Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'approche des systèmes familiaux considère la famille comme une unité émotionnelle dont les membres s'influencent mutuellement.
+
+Penseurs et philosophes essentiels :
+
+- *Murray Bowen* : Psychiatre (penseur clé du domaine) ; la théorie des systèmes familiaux.
+- *Salvador Minuchin* : Psychiatre (penseur clé du domaine) ; la thérapie familiale structurale.
+- *John Bowlby* : Psychiatre (penseur clé du domaine) ; la théorie de l'attachement.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

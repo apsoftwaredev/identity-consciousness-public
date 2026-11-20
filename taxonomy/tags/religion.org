@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581d39702fe6eb72648ab
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: religion
+:URL_PATH: taxonomy/tags/religion
+:ROAM_TITLE: IC/taxonomy/Research Tags/Religion
+:SITE_URL: https://research.dan.credit/taxonomy/tags/religion
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~religion
+:SYNC_HASH: 169bc99c3bf977af
+:SYNC_SOURCE: notion
 :END:
 #+title: Religion
 #+filetags: :Tag:Religion:
+#+language: en
+#+startup: overview
 
 Tag
 

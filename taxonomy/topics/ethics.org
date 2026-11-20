@@ -4,11 +4,93 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581478c63d4abee32a03f
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: ethics
+:URL_PATH: taxonomy/topics/ethics
+:ROAM_TITLE: IC/taxonomy/Research Topics/Ethics
+:SITE_URL: https://research.dan.credit/taxonomy/topics/ethics
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~ethics
+:SYNC_HASH: 2fcb893cb729b3d9
+:SYNC_SOURCE: notion
 :END:
 #+title: Ethics
 #+filetags: :Topic:Ethics:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 4 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 4 sur 8 : Éthique
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Ethics, or moral philosophy, asks how we ought to live and how we should treat one another. Three broad families of theory guide much of the discussion: consequentialism, which judges actions by their outcomes (for example, utilitarianism from Jeremy Bentham and John Stuart Mill); deontology, which stresses duties, rights, and respect for persons (associated with Immanuel Kant); and virtue ethics, which centers on character.
+
+Ethics also includes applied questions, such as care for animals, global poverty, medicine, technology, and the duties communities owe their members. Contemporary thinkers often combine theories rather than choosing just one. A good way to begin is to take a concrete case, such as a hard choice at work or in public life, and see how each theory would reason about it.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]]
+
+- Related categories: [[id:41ea6574-40a5-81d6-b96c-c0f51f97f1bf][Ethics and Virtue]], [[id:41ea6574-40a5-81a7-889f-f9bf40c4f957][Social and Political Philosophy]]
+
+- Tags: [[id:41ea6574-40a5-819b-b732-e9a3d08305c7][Ethics]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (7):
+
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (section)
+- [[id:41ea6574-40a5-8133-b291-cc59d1d9fd9c][Collaborative Development]] (Ethics)
+- [[id:41ea6574-40a5-81c8-9ba6-fe31a30ed936][Community Awareness]] (Ethics)
+- [[id:41ea6574-40a5-8117-991b-f6756a6ca4e6][Giving Back]] (Ethics)
+- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (Ethics)
+- [[id:41ea6574-40a5-812f-ab6f-ed2d62436048][Quality]] (Ethics)
+- [[id:41ea6574-40a5-8115-983f-f22076b33fa0][What is Good?]] (Ethics)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Immanuel Kant, /Groundwork of the Metaphysics of Morals/ (1785). Classic of duty-based ethics. [[https://plato.stanford.edu/entries/kant-moral/][SEP guide: Kant's Moral Philosophy]]
+- John Stuart Mill, /Utilitarianism/ (1863). Classic of consequence-based ethics. [[https://standardebooks.org/ebooks/john-stuart-mill/utilitarianism][Free edition (Standard Ebooks)]]
+- Walter Sinnott-Armstrong, /Consequentialism/ (2003, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/consequentialism/][SEP entry]]
+- Bernard Williams, /Ethics and the Limits of Philosophy/ (1985). Harvard University Press.
+- Peter Singer, /Practical Ethics/ (1979; 3rd edition 2011). Cambridge University Press.
+- Michael J. Sandel, /Justice: What's the Right Thing to Do?/ (2009). Farrar, Straus and Giroux.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=kBdfcR-8hEY][Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"]]: Michael Sandel. Channel: Harvard University.
+- [[https://www.youtube.com/watch?v=Diuv3XZQXyc][Peter Singer: The why and how of effective altruism]]: Peter Singer. Channel: TED.
+- [[https://www.youtube.com/watch?v=qb68caEIe-g][Christine Korsgaard - Ethics & Morality]]: Christine Korsgaard. Channel: University of Groningen.
+- [[https://www.youtube.com/watch?v=MKERkRzhxK4][The Past and Future of Ethics and Identity | Kwame Anthony Appiah | Institute for Advanced Study]]: Kwame Anthony Appiah. Channel: Institute for Advanced Study.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+L'éthique, ou philosophie morale, demande comment nous devrions vivre et comment nous devrions traiter autrui. Trois grandes familles de théories guident une grande partie de la discussion : le conséquentialisme, qui juge les actions d'après leurs résultats (par exemple l'utilitarisme de Jeremy Bentham et de John Stuart Mill) ; la déontologie, qui met l'accent sur les devoirs, les droits et le respect des personnes (associée à Emmanuel Kant) ; et l'éthique des vertus, centrée sur le caractère.
+
+L'éthique comprend aussi des questions appliquées, comme le traitement des animaux, la pauvreté mondiale, la médecine, la technologie et les devoirs des communautés envers leurs membres. Les penseurs contemporains combinent souvent les théories plutôt que d'en choisir une seule. Pour commencer, on peut prendre un cas concret, comme un choix difficile au travail ou dans la vie publique, et voir comment chaque théorie le raisonnerait.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (7), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

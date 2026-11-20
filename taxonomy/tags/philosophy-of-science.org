@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58156b7d2c220c1aa708f
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: philosophy-of-science
+:URL_PATH: taxonomy/tags/philosophy-of-science
+:ROAM_TITLE: IC/taxonomy/Research Tags/Philosophy of Science
+:SITE_URL: https://research.dan.credit/taxonomy/tags/philosophy-of-science
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~philosophy-of-science
+:SYNC_HASH: 313389f81ddb2584
+:SYNC_SOURCE: notion
 :END:
 #+title: Philosophy of Science
 #+filetags: :Tag:Philosophy_of_Science:
+#+language: en
+#+startup: overview
 
 Tag
 

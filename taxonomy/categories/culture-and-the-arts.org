@@ -4,11 +4,95 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581309767f7252df4755c
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: culture-and-the-arts
+:URL_PATH: taxonomy/categories/culture-and-the-arts
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Culture and the Arts
+:SITE_URL: https://research.dan.credit/taxonomy/categories/culture-and-the-arts
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~culture-and-the-arts
+:SYNC_HASH: bb040bcd65868a16
+:SYNC_SOURCE: notion
 :END:
 #+title: Culture and the Arts
 #+filetags: :Category:Culture_and_the_Arts:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Creativity, culture, play, and the arts.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Créativité, culture, jeu et arts.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This category explores creativity, culture, play, and the arts. Aesthetics, the philosophy of art and beauty, asks what art is, why we value it, and how aesthetic experience differs from other experience. Anthropology and history ask how cultures form shared meanings, and thinkers such as John Dewey and Johan Huizinga argued that art and play are central to human life, not extras.
+
+Current research adds evolutionary and neuroscientific views: some scholars argue that imagination and creativity helped shape human evolution, and neuroaesthetics studies how the brain responds to beauty and art. Newcomers can begin with a broad history of art, one classic work on art or play, and a short talk on the science of beauty.
+
+* Where it sits in the tree
+
+- Parent sections: [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]], [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]], [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-814d-b64b-edec5c869222][Culture and Arts]], [[id:41ea6574-40a5-8129-9320-edbb22dbd70a][Creativity]], [[id:41ea6574-40a5-8110-82f0-c26e334b753a][Knowledge]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-81a9-8f88-cfa2a324baf6][History of Ideas]], [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (10):
+
+- [[id:41ea6574-40a5-8137-8b40-dd7ab46c4c09][Creativity]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8172-993e-f27db2b000bc][Imagination]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-814b-a5ac-c4847db4ba3f][Lateral Thinking]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-81a9-9cef-fa5fcca92c7c][Synthesis]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-81d6-bb3a-cb8d3361427d][Culture]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8146-9797-fbad1e7a7a20][Music and The Arts]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-81dd-bb3f-c35b16a458ee][Philosophy]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-811d-868c-def4bd4c2017][Games]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81ed-a2b1-e7889f9c3978][Humor]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8119-9eed-d7255993ecff][42]] (Philosophical)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- John Dewey, /Art as Experience/ (1934). Minton, Balch. [[https://plato.stanford.edu/entries/dewey-aesthetics/][SEP guide: Dewey's Aesthetics]]
+- E. H. Gombrich, /The Story of Art/ (1950). Phaidon.
+- Johan Huizinga, /Homo Ludens: A Study of the Play-Element in Culture/ (1938; English 1949). Routledge and Kegan Paul.
+- Clifford Geertz, /The Interpretation of Cultures/ (1973). Basic Books.
+- Anjan Chatterjee, /The Aesthetic Brain: How We Evolved to Desire Beauty and Enjoy Art/ (2014). Oxford University Press.
+- James Shelley, /The Concept of the Aesthetic/ (2009, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/aesthetic-concept/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=Wgt8QUHQjw8][How your brain decides what is beautiful | Anjan Chatterjee]]: Anjan Chatterjee. Channel: TED.
+- [[https://www.youtube.com/watch?v=p7eFmL9AAnY][CARTA: Imagination: Agustín Fuentes - How Imagination and Creativity Reshaped Human Evolution]]: Agustín Fuentes. Channel: University of California Television (UCTV).
+- [[https://www.youtube.com/watch?v=KT-5wxveWVs][Plato vs the Arts: Does Fiction Have a Practical Purpose? - Rebecca Goldstein]]: Rebecca Goldstein. Channel: FORA.tv.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Cette catégorie explore la créativité, la culture, le jeu et les arts. L'esthétique, la philosophie de l'art et du beau, demande ce qu'est l'art, pourquoi nous l'apprécions, et en quoi l'expérience esthétique diffère des autres expériences. L'anthropologie et l'histoire demandent comment les cultures forment des significations partagées, et des penseurs comme John Dewey et Johan Huizinga ont soutenu que l'art et le jeu sont au cœur de la vie humaine, et non des suppléments.
+
+La recherche actuelle ajoute des perspectives évolutionnistes et neuroscientifiques : certains chercheurs soutiennent que l'imagination et la créativité ont contribué à façonner l'évolution humaine, et la neuroesthétique étudie comment le cerveau réagit à la beauté et à l'art. Pour commencer, on peut lire une grande histoire de l'art, une œuvre classique sur l'art ou le jeu, et écouter une courte conférence sur la science du beau.
+
+Place dans l'arborescence : sections parentes, sujets liés, étiquettes et pages de cette catégorie (10), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

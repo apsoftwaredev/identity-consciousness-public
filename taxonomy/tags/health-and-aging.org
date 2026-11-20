@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581a097c5fa907a85094f
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: health-and-aging
+:URL_PATH: taxonomy/tags/health-and-aging
+:ROAM_TITLE: IC/taxonomy/Research Tags/Health and Aging
+:SITE_URL: https://research.dan.credit/taxonomy/tags/health-and-aging
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~health-and-aging
+:SYNC_HASH: a6d26a57f7ef6ad8
+:SYNC_SOURCE: notion
 :END:
 #+title: Health and Aging
 #+filetags: :Tag:Health_and_Aging:
+#+language: en
+#+startup: overview
 
 Tag
 

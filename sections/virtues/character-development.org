@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581ad8531c04bcc56799e
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-819b-9ac5-e7ac23aafa2b
 :PRIVATE_NOTION_ID: 41da657440a5819b9ac5e7ac23aafa2b
+:SLUG: character-development
+:URL_PATH: virtues/character-development
+:ROAM_TITLE: IC/Virtues/Character Development
+:SITE_URL: https://research.dan.credit/virtues/character-development
+:FIRESTORE_PATH: ic_public/root/byPath/virtues~character-development
+:SYNC_HASH: 761a923c091ea532
+:SYNC_SOURCE: notion
 :END:
 #+title: Character Development
 #+filetags: :public:Virtues:Ethics_and_Virtue:Virtue:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Character development is the growth of moral and personal qualities such as honesty, courage and kindness over time.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Character development is the cultivation of virtues through habit, reflection, example, and community.
 
-- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (related page in this tree)
-- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Aristotle*: Philosopher; Nicomachean Ethics (virtue as a mean), founder of formal logic, Metaphysics.
+- *Confucius*: Philosopher; the Analects, humaneness (ren) and ritual propriety (li).
+- *Alasdair MacIntyre*: Philosopher; After Virtue (1981) on the virtue tradition.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le développement du caractère est la croissance, au fil du temps, de qualités morales et personnelles comme l'honnêteté, le courage et la bonté.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Role Modeling and Leadership ; Growth and Psychological Development ; Normative Ethics ; Positive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Le développement du caractère est la culture des vertus par l'habitude, la réflexion, l'exemple et la communauté.
+
+Penseurs et philosophes essentiels :
+
+- *Aristotle* : Philosophe ; Éthique à Nicomaque (la vertu comme juste milieu), fondateur de la logique formelle, Métaphysique.
+- *Confucius* : Philosophe ; les Entretiens, l'humanité (ren) et la bienséance rituelle (li).
+- *Alasdair MacIntyre* : Philosophe ; Après la vertu (1981), sur la tradition des vertus.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Virtues ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

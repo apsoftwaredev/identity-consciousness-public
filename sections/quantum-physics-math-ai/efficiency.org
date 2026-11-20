@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58141afaef2de679fdfe9
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8106-8c89-d0bbc463a649
 :PRIVATE_NOTION_ID: 41da657440a581068c89d0bbc463a649
+:SLUG: efficiency
+:URL_PATH: quantum-physics-math-ai/efficiency
+:ROAM_TITLE: IC/Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers/Efficiency
+:SITE_URL: https://research.dan.credit/quantum-physics-math-ai/efficiency
+:FIRESTORE_PATH: ic_public/root/byPath/quantum-physics-math-ai~efficiency
+:SYNC_HASH: c81dc5da8a120f05
+:SYNC_SOURCE: notion
 :END:
 #+title: Efficiency
 #+filetags: :public:Quantum_Physics_Mathematics_and_Statistics_Data_:Science_Mathematics_and_Computing:Logic_and_Mathematics:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Efficiency is achieving results with the least waste of time, energy or resources. It applies to computing, biology, organizations and personal habits.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Efficiency concerns achieving the most with the least, in engineering, computation, economics, and nature.
 
-- [[id:41ea6574-40a5-8182-9ad8-ce455c7ca6ed][Data Processing]] (related page in this tree)
-- [[id:41ea6574-40a5-81fe-97f8-dd1750eca784][Daily Habits]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5816e9be8dc7cda52e30e][Theory of Computation]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581cf92edd7f9b2e9d086][Software & Its Engineering]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Vilfredo Pareto*: Economist (key thinker in the field); the concept of Pareto efficiency.
+- *Herbert Simon*: Social scientist (key thinker in the field); bounded rationality, Nobel Prize 1978.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'efficacité consiste à obtenir des résultats avec le moins de perte de temps, d'énergie ou de ressources. Elle s'applique à l'informatique, à la biologie, aux organisations et aux habitudes personnelles.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Data Processing ; Daily Habits ; Theory of Computation ; Software & Its Engineering.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-81be-8f8d-c45f539d4d62][Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581dda063cc2cb20c24dc][Thread: Infinity]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'efficacité consiste à obtenir le plus avec le moins, en ingénierie, en informatique, en économie et dans la nature.
+
+Penseurs et philosophes essentiels :
+
+- *Vilfredo Pareto* : Économiste (penseur clé du domaine) ; le concept d'efficacité de Pareto.
+- *Herbert Simon* : Chercheur en sciences sociales (penseur clé du domaine) ; rationalité limitée, prix Nobel 1978.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers ; Thread: Infinity ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

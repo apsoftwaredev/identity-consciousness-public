@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581448cc6c6e20b274a16
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8175-b994-ebf023ed88da
 :PRIVATE_NOTION_ID: 41da657440a58175b994ebf023ed88da
+:SLUG: depression-sadness-loneliness-isolation-guilt-shame-frustration
+:URL_PATH: mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/mood-states/depression-sadness-loneliness-isolation-guilt-shame-frustration
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/psychology of beliefs and behavior/mood states/Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/mood-states/depression-sadness-loneliness-isolation-guilt-shame-frustration
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychology-of-beliefs-and-behavior~mood-states~depression-sadness-loneliness-isolation-guilt-shame-frustration
+:SYNC_HASH: 9194a11ccdbc68b5
+:SYNC_SOURCE: notion
 :END:
 #+title: Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Clinical_Psychology_and_Mental_Health:Emotion:Mental_Health:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This page groups difficult emotional states: depression, sadness, loneliness, isolation, guilt, shame and frustration. The topic covers how they differ, how they connect and how people cope with them.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This topic gathers research on depression, sadness, loneliness, isolation, guilt, shame, and frustration. This page is a neutral academic overview.
 
-- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (related page in this tree)
-- [[id:41ea6574-40a5-8112-9a72-ff8c1ad088ff][Humility, Pride, and Shame]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Aaron Beck*: Psychiatrist (key thinker in the field); founder of cognitive therapy.
+- *Martin Seligman*: Psychologist (key thinker in the field); learned helplessness and positive psychology.
+- *John Cacioppo*: Social neuroscientist (key thinker in the field); research on loneliness.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Cette page regroupe des états émotionnels difficiles : dépression, tristesse, solitude, isolement, culpabilité, honte et frustration. Le sujet porte sur leurs différences, leurs liens et la manière d'y faire face.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Mood States ; Humility, Pride, and Shame ; Clinical Psychology ; Positive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Ce sujet réunit des recherches sur la dépression, la tristesse, la solitude, l'isolement, la culpabilité, la honte et la frustration. Cette page est un aperçu académique neutre.
+
+Penseurs et philosophes essentiels :
+
+- *Aaron Beck* : Psychiatre (penseur clé du domaine) ; fondateur de la thérapie cognitive.
+- *Martin Seligman* : Psychologue (penseur clé du domaine) ; impuissance apprise et psychologie positive.
+- *John Cacioppo* : Neuroscientifique social (penseur clé du domaine) ; recherches sur la solitude.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mood States ; Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

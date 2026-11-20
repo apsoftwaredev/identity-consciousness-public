@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b6a1e2d72d1825e94d
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: logic-and-mathematics
+:URL_PATH: taxonomy/tags/logic-and-mathematics
+:ROAM_TITLE: IC/taxonomy/Research Tags/Logic and Mathematics
+:SITE_URL: https://research.dan.credit/taxonomy/tags/logic-and-mathematics
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~logic-and-mathematics
+:SYNC_HASH: 1d66e543fa4ecb02
+:SYNC_SOURCE: notion
 :END:
 #+title: Logic and Mathematics
 #+filetags: :Tag:Logic_and_Mathematics:
+#+language: en
+#+startup: overview
 
 Tag
 

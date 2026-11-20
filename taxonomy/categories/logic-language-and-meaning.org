@@ -4,11 +4,90 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58112826de789659d8e1d
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: logic-language-and-meaning
+:URL_PATH: taxonomy/categories/logic-language-and-meaning
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Logic, Language, and Meaning
+:SITE_URL: https://research.dan.credit/taxonomy/categories/logic-language-and-meaning
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~logic-language-and-meaning
+:SYNC_HASH: fc25e3abeee5f60c
+:SYNC_SOURCE: notion
 :END:
 #+title: Logic, Language, and Meaning
 #+filetags: :Category:Logic_Language_and_Meaning:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Reasoning, language, and how meaning works.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Le raisonnement, le langage et le fonctionnement du sens.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This category studies good reasoning and how language carries meaning. Logic asks which arguments are valid, what follows from what, and how paradoxes arise. Philosophy of language asks how words refer to things, how sentences can be true or false, and how meaning depends on use and context. Gottlob Frege, Ludwig Wittgenstein, and Saul Kripke shaped much of the modern field.
+
+Linguistics and cognitive science add questions about how children learn language, how language and thought relate, and how communication works in practice. Current debates also include whether some contradictions can be true and what large language models reveal, or fail to reveal, about meaning. Newcomers can begin with a very short introduction to logic and one classic paper, such as Frege on sense and reference.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]]
+
+- Related topics: [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]]
+
+- Tags: [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-8144-8895-da05a294674b][Language and Communication]], [[id:41ea6574-40a5-8110-82f0-c26e334b753a][Knowledge]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (4):
+
+- [[id:41ea6574-40a5-8106-8399-dece0d0ae8e9][Incompleteness]] (Philosophical)
+- [[id:41ea6574-40a5-81cf-911c-fff8fe8acad8][Language]] (Philosophical)
+- [[id:41ea6574-40a5-816e-b01e-fa25747ab69d][Logic]] (Philosophical)
+- [[id:41ea6574-40a5-8170-8343-f99ae94a549d][Meaning]] (Philosophical)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Gottlob Frege, /On Sense and Reference (Über Sinn und Bedeutung)/ (1892). Zeitschrift für Philosophie und philosophische Kritik. [[https://plato.stanford.edu/entries/frege/][SEP guide: Gottlob Frege]]
+- Ludwig Wittgenstein, /Philosophical Investigations/ (1953). Blackwell. [[https://plato.stanford.edu/entries/wittgenstein/][SEP guide: Ludwig Wittgenstein]]
+- Saul A. Kripke, /Naming and Necessity/ (1980). Harvard University Press.
+- Steven Pinker, /The Language Instinct/ (1994). William Morrow.
+- Graham Priest, /Logic: A Very Short Introduction/ (2000). Oxford University Press.
+- JC Beall, Greg Restall and Gil Sagi, /Logical Consequence/ (2005, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/logical-consequence/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=OV5J6BfToSw][Linguistics, Style and Writing in the 21st Century - with Steven Pinker]]: Steven Pinker. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=5S1d3cNge24][Steven Pinker - The Stuff of Thought: Language as a window into human nature]]: Steven Pinker. Channel: Royal Society of Arts.
+- [[https://www.youtube.com/watch?v=lIJgVjjuKhY][Graham Priest: Paradox and Contradiction]]: Graham Priest. Channel: Amazing Academics.
+- [[https://www.youtube.com/watch?v=P7ZaJjjyOqA][Logic, Epistemology | Timothy Williamson]]: Timothy Williamson. Channel: Friction.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Cette catégorie étudie le bon raisonnement et la manière dont le langage porte le sens. La logique demande quels arguments sont valides, ce qui découle de quoi, et comment naissent les paradoxes. La philosophie du langage demande comment les mots désignent les choses, comment les phrases peuvent être vraies ou fausses, et comment le sens dépend de l'usage et du contexte. Gottlob Frege, Ludwig Wittgenstein et Saul Kripke ont largement façonné le domaine moderne.
+
+La linguistique et les sciences cognitives ajoutent des questions sur la manière dont les enfants apprennent le langage, sur le lien entre langage et pensée, et sur le fonctionnement concret de la communication. Les débats actuels portent aussi sur la possibilité que certaines contradictions soient vraies, et sur ce que les grands modèles de langage révèlent, ou ne révèlent pas, du sens. Pour commencer, on peut lire une très courte introduction à la logique et un article classique, comme celui de Frege sur le sens et la dénotation.
+
+Place dans l'arborescence : section parente, sujets liés, étiquettes et pages de cette catégorie (4), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

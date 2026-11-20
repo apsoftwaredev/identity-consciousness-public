@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5819bb732e9a3d08305c7
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: ethics
+:URL_PATH: taxonomy/tags/ethics
+:ROAM_TITLE: IC/taxonomy/Research Tags/Ethics
+:SITE_URL: https://research.dan.credit/taxonomy/tags/ethics
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~ethics
+:SYNC_HASH: b52d5e2bc2535180
+:SYNC_SOURCE: notion
 :END:
 #+title: Ethics
 #+filetags: :Tag:Ethics:
+#+language: en
+#+startup: overview
 
 Tag
 

@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5812e9cb7e44528986ee0
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: virtue
+:URL_PATH: taxonomy/tags/virtue
+:ROAM_TITLE: IC/taxonomy/Research Tags/Virtue
+:SITE_URL: https://research.dan.credit/taxonomy/tags/virtue
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~virtue
+:SYNC_HASH: 542d8f76a77de47c
+:SYNC_SOURCE: notion
 :END:
 #+title: Virtue
 #+filetags: :Tag:Virtue:
+#+language: en
+#+startup: overview
 
 Tag
 

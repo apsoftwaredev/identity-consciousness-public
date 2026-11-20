@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58169be3ce863d6477b7e
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: eastern-thought
+:URL_PATH: taxonomy/tags/eastern-thought
+:ROAM_TITLE: IC/taxonomy/Research Tags/Eastern Thought
+:SITE_URL: https://research.dan.credit/taxonomy/tags/eastern-thought
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~eastern-thought
+:SYNC_HASH: 73f73d18264625c2
+:SYNC_SOURCE: notion
 :END:
 #+title: Eastern Thought
 #+filetags: :Tag:Eastern_Thought:
+#+language: en
+#+startup: overview
 
 Tag
 

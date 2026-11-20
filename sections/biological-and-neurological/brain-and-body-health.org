@@ -4,33 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5815b846cc90a93155fcf
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-819e-a801-c29d9ae3d7db
 :PRIVATE_NOTION_ID: 41da657440a5819ea801c29d9ae3d7db
+:SLUG: brain-and-body-health
+:URL_PATH: biological-and-neurological/brain-and-body-health
+:ROAM_TITLE: IC/Biological and Neurological/Brain and Body Health
+:SITE_URL: https://research.dan.credit/biological-and-neurological/brain-and-body-health
+:FIRESTORE_PATH: ic_public/root/byPath/biological-and-neurological~brain-and-body-health
+:SYNC_HASH: 2abcb4777adf0a09
+:SYNC_SOURCE: notion
 :END:
 #+title: Brain and Body Health
 #+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Health_and_Aging:Brain_and_Nervous_System:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic concerns keeping the brain and body healthy through sleep, nutrition, exercise, stress management and medical care, and how physical and mental health connect.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Brain and body health covers well-being of the nervous system and body, including the biopsychosocial view of health.
 
-- [[id:41ea6574-40a5-81c1-a2dd-db6e397c6c15][Brain and Body Systems]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a58167812ce6a6737fda1e][Health Psychology & Mind–Body Medicine]] (Research Library topic)
-- [[https://app.notion.com/p/411a657440a58109b01fd5bfd05ed229][Thread: Medical hypnosis & mind-body healing]] (public research thread)
+* Need-to-know philosophers and key thinkers
 
+- *George Engel*: Psychiatrist (key thinker in the field); the biopsychosocial model (1977).
+- *Walter Cannon*: Physiologist (key thinker in the field); homeostasis and the fight-or-flight response.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur le maintien de la santé du cerveau et du corps par le sommeil, l'alimentation, l'exercice, la gestion du stress et les soins médicaux, et sur les liens entre santé physique et mentale.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Brain and Body Systems ; Health Psychology & Mind–Body Medicine ; Thread: Medical hypnosis & mind-body healing.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La santé du cerveau et du corps couvre le bien-être du système nerveux et du corps, y compris la conception biopsychosociale de la santé.
+
+Penseurs et philosophes essentiels :
+
+- *George Engel* : Psychiatre (penseur clé du domaine) ; le modèle biopsychosocial (1977).
+- *Walter Cannon* : Physiologiste (penseur clé du domaine) ; l'homéostasie et la réaction de lutte ou de fuite.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Biological and Neurological ; Thread: Consciousness & philosophy of mind ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

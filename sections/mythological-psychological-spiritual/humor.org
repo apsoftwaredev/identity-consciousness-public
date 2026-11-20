@@ -4,33 +4,54 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581eda2b1e7889f9c3978
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8156-8517-f326c96c5022
 :PRIVATE_NOTION_ID: 41da657440a581568517f326c96c5022
+:SLUG: humor
+:URL_PATH: mythological-psychological-spiritual/humor
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Humor
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/humor
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~humor
+:SYNC_HASH: ec5a8325593cd5b2
+:SYNC_SOURCE: notion
 :END:
 #+title: Humor
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:Culture_and_Arts:Emotion:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Humor is the capacity to find and express what is funny. It is studied for its role in coping, social bonding, creativity and health.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Humor is the capacity to find and express what is funny, studied in philosophy and psychology.
 
-- [[id:41ea6574-40a5-811d-868c-def4bd4c2017][Games]] (related page in this tree)
-- [[id:41ea6574-40a5-8119-9eed-d7255993ecff][42]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Henri Bergson*: Philosopher; lived time as duration (durée), and Laughter (1900).
+- *John Morreall*: Philosopher; leading scholar of the philosophy of humor.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'humour est la capacité de percevoir et d'exprimer ce qui est drôle. Il est étudié pour son rôle dans la capacité à faire face, le lien social, la créativité et la santé.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Games ; 42 ; Positive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'humour est la capacité de trouver et d'exprimer ce qui est drôle, étudiée en philosophie et en psychologie.
+
+Penseurs et philosophes essentiels :
+
+- *Henri Bergson* : Philosophe ; le temps vécu comme durée, et Le Rire (1900).
+- *John Morreall* : Philosophe ; spécialiste majeur de la philosophie de l'humour.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

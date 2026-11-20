@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5812f876efb12c522b501
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: spirituality
+:URL_PATH: taxonomy/tags/spirituality
+:ROAM_TITLE: IC/taxonomy/Research Tags/Spirituality
+:SITE_URL: https://research.dan.credit/taxonomy/tags/spirituality
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~spirituality
+:SYNC_HASH: 5ed2191ce25d24fb
+:SYNC_SOURCE: notion
 :END:
 #+title: Spirituality
 #+filetags: :Tag:Spirituality:
+#+language: en
+#+startup: overview
 
 Tag
 

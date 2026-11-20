@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5816aa51bfe28850fbcd1
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: community
+:URL_PATH: taxonomy/tags/community
+:ROAM_TITLE: IC/taxonomy/Research Tags/Community
+:SITE_URL: https://research.dan.credit/taxonomy/tags/community
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~community
+:SYNC_HASH: c7da10369c799927
+:SYNC_SOURCE: notion
 :END:
 #+title: Community
 #+filetags: :Tag:Community:
+#+language: en
+#+startup: overview
 
 Tag
 

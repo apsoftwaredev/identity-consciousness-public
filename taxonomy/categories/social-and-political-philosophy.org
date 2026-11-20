@@ -4,11 +4,96 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581a7889ff9bf40c4f957
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: social-and-political-philosophy
+:URL_PATH: taxonomy/categories/social-and-political-philosophy
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Social and Political Philosophy
+:SITE_URL: https://research.dan.credit/taxonomy/categories/social-and-political-philosophy
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~social-and-political-philosophy
+:SYNC_HASH: d56c14f274c95101
+:SYNC_SOURCE: notion
 :END:
 #+title: Social and Political Philosophy
 #+filetags: :Category:Social_and_Political_Philosophy:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Rights, justice, community, and institutions.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Droits, justice, communauté et institutions.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Social and political philosophy asks how people can live together fairly. It examines the authority of governments, the basis of rights, the meaning of liberty and equality, and what justice requires of institutions. Classic works include Thomas Hobbes on the social contract, John Stuart Mill on liberty, and John Rawls on justice as fairness.
+
+Contemporary thinkers extend these questions to democracy and citizenship, global justice, the capabilities people need to flourish, and how communities with different values can share public life. A helpful start is to read one classic (such as Mill's On Liberty) together with one modern approach (such as the capability approach), and to compare how each would judge a current public issue.
+
+* Where it sits in the tree
+
+- Parent sections: [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]], [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]], [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-8147-8c63-d4abee32a03f][Ethics]], [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]], [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-819b-b732-e9a3d08305c7][Ethics]], [[id:41ea6574-40a5-81d3-9702-fe6eb72648ab][Religion]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (10):
+
+- [[id:41ea6574-40a5-8133-b291-cc59d1d9fd9c][Collaborative Development]] (Ethics)
+- [[id:41ea6574-40a5-81c8-9ba6-fe31a30ed936][Community Awareness]] (Ethics)
+- [[id:41ea6574-40a5-81b5-8be0-d00ed09bd0ce][Multiculturalism]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-811a-98d9-e24e080cec0a][Pluralism]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-8146-9390-c45da4ba4fc7][Exclusion, Persecution of Minorities]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81ea-9c94-e187923bb51e][Exploitation]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-815c-9779-d4091dad6a85][Rigidity and Conflict]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81ba-a524-f48493c6c919][Individual Rights and the State]] (Philosophical)
+- [[id:41ea6574-40a5-81c3-95a1-ca3235938bac][Justice and Fairness]] (Philosophical)
+- [[id:41ea6574-40a5-81f0-b19f-d9622f337092][Optimal Community Arrangements and Systems]] (Philosophical)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Thomas Hobbes, /Leviathan/ (1651). Classic of social contract theory. [[https://standardebooks.org/ebooks/thomas-hobbes/leviathan][Free edition (Standard Ebooks)]]
+- John Stuart Mill, /On Liberty/ (1859). Classic defense of individual freedom. [[https://standardebooks.org/ebooks/john-stuart-mill/on-liberty][Free edition (Standard Ebooks)]]
+- John Rawls, /A Theory of Justice/ (1971). Harvard University Press. [[https://plato.stanford.edu/entries/rawls/][SEP guide: John Rawls]]
+- Martha C. Nussbaum, /Creating Capabilities: The Human Development Approach/ (2011). Harvard University Press. [[https://plato.stanford.edu/entries/capability-approach/][SEP guide: The Capability Approach]]
+- Danielle Allen, /Our Declaration: A Reading of the Declaration of Independence in Defense of Equality/ (2014). Liveright.
+- David Miller, /Justice/ (2017, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/justice/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=Qw4l1w0rkjs][Justice: What's The Right Thing To Do? Episode 03: "FREE TO CHOOSE"]]: Michael Sandel. Channel: Harvard University.
+- [[https://www.youtube.com/watch?v=sYfFGDhbHUk][Martha Nussbaum, "Creating Capabilities: The Human Development Approach"]]: Martha Nussbaum. Channel: University of Chicago Law School.
+- [[https://www.youtube.com/watch?v=nxFDbwsE7FY][Danielle Allen: Democracy in the Time of Coronavirus]]: Danielle Allen. Channel: Williams College.
+- [[https://www.youtube.com/watch?v=esZQ2cf2Gkw][Ethics in a World of Strangers with Kwame Anthony Appiah]]: Kwame Anthony Appiah. Channel: University of California Television (UCTV).
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La philosophie sociale et politique demande comment des personnes peuvent vivre ensemble de façon équitable. Elle examine l'autorité des gouvernements, le fondement des droits, le sens de la liberté et de l'égalité, et ce que la justice exige des institutions. Parmi les œuvres classiques figurent Thomas Hobbes sur le contrat social, John Stuart Mill sur la liberté et John Rawls sur la justice comme équité.
+
+Les penseurs contemporains étendent ces questions à la démocratie et à la citoyenneté, à la justice mondiale, aux capabilités dont les personnes ont besoin pour s'épanouir, et à la manière dont des communautés aux valeurs différentes peuvent partager la vie publique. Pour commencer, il est utile de lire un classique (comme De la liberté de Mill) avec une approche moderne (comme l'approche par les capabilités), et de comparer la façon dont chacun jugerait une question publique actuelle.
+
+Place dans l'arborescence : sections parentes, sujets liés, étiquettes et pages de cette catégorie (10), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

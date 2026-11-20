@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581f68877dd831d04b7ac
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8166-a808-fa78d5de7a5a
 :PRIVATE_NOTION_ID: 41da657440a58166a808fa78d5de7a5a
+:SLUG: irrational-beliefs
+:URL_PATH: mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/irrational-beliefs
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/psychology of beliefs and behavior/Irrational Beliefs
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychology-of-beliefs-and-behavior/irrational-beliefs
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychology-of-beliefs-and-behavior~irrational-beliefs
+:SYNC_HASH: fb25c896738cf755
+:SYNC_SOURCE: notion
 :END:
 #+title: Irrational Beliefs
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Knowledge:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Irrational beliefs are rigid, unrealistic beliefs that lead to distress, a central idea in Albert Ellis's rational emotive behavior therapy.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Irrational beliefs are rigid or unrealistic beliefs, a central idea in cognitive and rational emotive therapies.
 
-- [[id:41ea6574-40a5-8184-a43c-fd58c91589ae][Self Imposed Limitations]] (related page in this tree)
-- [[id:41ea6574-40a5-812c-b14d-f64f47379771][Magical Thinking]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5813782b5dd4268c38c1f][Psychotherapy]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581af9a2fff141408d6bf][Cognitive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Albert Ellis*: Psychologist (key thinker in the field); rational emotive behavior therapy and irrational beliefs.
+- *Aaron Beck*: Psychiatrist (key thinker in the field); founder of cognitive therapy.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Les croyances irrationnelles sont des croyances rigides et irréalistes qui engendrent de la détresse, une idée centrale de la thérapie rationnelle émotive et comportementale d'Albert Ellis.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Self Imposed Limitations ; Magical Thinking ; Psychotherapy ; Cognitive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8128-8666-f942cdcaf4a1][Psychology of Beliefs and Behavior]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Les croyances irrationnelles sont des croyances rigides ou irréalistes, une idée centrale des thérapies cognitives et rationnelles émotives.
+
+Penseurs et philosophes essentiels :
+
+- *Albert Ellis* : Psychologue (penseur clé du domaine) ; thérapie rationnelle émotive et croyances irrationnelles.
+- *Aaron Beck* : Psychiatre (penseur clé du domaine) ; fondateur de la thérapie cognitive.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Psychology of Beliefs and Behavior ; Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -4,11 +4,91 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581bab4b2e93fb7f57e0f
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: clinical-psychology-and-mental-health
+:URL_PATH: taxonomy/categories/clinical-psychology-and-mental-health
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Clinical Psychology and Mental Health
+:SITE_URL: https://research.dan.credit/taxonomy/categories/clinical-psychology-and-mental-health
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~clinical-psychology-and-mental-health
+:SYNC_HASH: 7a3211e4f6af6ae6
+:SYNC_SOURCE: notion
 :END:
 #+title: Clinical Psychology and Mental Health
 #+filetags: :Category:Clinical_Psychology_and_Mental_Health:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Neutral academic overviews of clinical topics and care systems.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Aperçus académiques neutres des sujets cliniques et des systèmes de soins.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Clinical psychology and psychiatry study mental health conditions, such as depression, anxiety, bipolar disorder, and trauma-related conditions, and how they can be assessed and treated. Treatments include psychotherapies such as cognitive behavioral therapy, medication, peer support, and community care. Philosophers of psychiatry also ask how mental disorder should be defined and how culture shapes diagnosis.
+
+Current work focuses on access to care, the role of community and peer support, and closing the gap between research and everyday outcomes. These pages are educational overviews, not medical advice. If you or someone you know is in crisis in the United States, call or text 988 (Suicide and Crisis Lifeline; veterans press 1), or call 911 in an emergency.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-814c-ba7a-e1e71d09fbee][Mental Health]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (5):
+
+- [[id:41ea6574-40a5-81fe-bf3d-eb60de76a348][Community Mental Health Systems and Optimal Helping Strategies and Philosophy]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8144-8cc6-c6e20b274a16][Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-8115-9fe2-d6a48d320e52][Mania]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-81c0-80ac-e3184976aa09][Psychopathology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8175-bf3e-da2f474f3af5][Psychosis]] (Mythological, Psychological, and Spiritual)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Rose M. Spielman and others, /Psychology 2e, chapters "Psychological Disorders" and "Therapy and Treatment"/ (2020). OpenStax (free textbook). [[https://openstax.org/details/books/psychology-2e][Free textbook (OpenStax)]]
+- Aaron T. Beck, /Cognitive Therapy and the Emotional Disorders/ (1976). International Universities Press.
+- Kay Redfield Jamison, /An Unquiet Mind/ (1995). Alfred A. Knopf.
+- Andrew Solomon, /The Noonday Demon: An Atlas of Depression/ (2001). Scribner.
+- Thomas Insel, /Healing: Our Path from Mental Illness to Mental Health/ (2022). Penguin Press.
+- Dominic Murphy, /Philosophy of Psychiatry/ (2010, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/psychiatry/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=PeZ-U0pj9LI][Thomas Insel: Toward a new understanding of mental illness]]: Thomas Insel. Channel: TED.
+- [[https://www.youtube.com/watch?v=yzm4gpAKrBk][Mental Health for All by Involving All | Vikram Patel | TED Talks]]: Vikram Patel. Channel: TED.
+- [[https://www.youtube.com/watch?v=-eBUcBfkVCo][Depression, the secret we share | Andrew Solomon]]: Andrew Solomon. Channel: TED.
+- [[https://www.youtube.com/watch?v=8MOHA-_O4EI]["Mood Disorders and Creativity" Johns Hopkins Provost's Lecture Series]]: Kay Redfield Jamison. Channel: Johns Hopkins University.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La psychologie clinique et la psychiatrie étudient les troubles de santé mentale, comme la dépression, l'anxiété, le trouble bipolaire et les troubles liés aux traumatismes, ainsi que la manière de les évaluer et de les traiter. Les traitements comprennent des psychothérapies comme la thérapie cognitivo-comportementale, des médicaments, le soutien par les pairs et les soins communautaires. Les philosophes de la psychiatrie se demandent aussi comment définir le trouble mental et comment la culture façonne le diagnostic.
+
+Les travaux actuels portent sur l'accès aux soins, le rôle de la communauté et du soutien par les pairs, et la réduction de l'écart entre la recherche et les résultats concrets. Ces pages sont des aperçus éducatifs, et non des conseils médicaux. Si vous ou un proche êtes en situation de crise aux États-Unis, appelez ou envoyez un SMS au 988 (Suicide and Crisis Lifeline ; anciens combattants, appuyez sur 1), ou appelez le 911 en cas d'urgence.
+
+Place dans l'arborescence : section parente, sujets liés, étiquettes et pages de cette catégorie (5), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

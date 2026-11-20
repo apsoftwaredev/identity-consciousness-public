@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581939985c232cc851068
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: quantum-physics
+:URL_PATH: taxonomy/tags/quantum-physics
+:ROAM_TITLE: IC/taxonomy/Research Tags/Quantum Physics
+:SITE_URL: https://research.dan.credit/taxonomy/tags/quantum-physics
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~quantum-physics
+:SYNC_HASH: 00faf8c7010c1801
+:SYNC_SOURCE: notion
 :END:
 #+title: Quantum Physics
 #+filetags: :Tag:Quantum_Physics:
+#+language: en
+#+startup: overview
 
 Tag
 

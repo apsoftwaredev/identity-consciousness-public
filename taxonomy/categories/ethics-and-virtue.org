@@ -4,11 +4,102 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581d6b96cc0f51f97f1bf
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: ethics-and-virtue
+:URL_PATH: taxonomy/categories/ethics-and-virtue
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Ethics and Virtue
+:SITE_URL: https://research.dan.credit/taxonomy/categories/ethics-and-virtue
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~ethics-and-virtue
+:SYNC_HASH: 4b60527270ba529d
+:SYNC_SOURCE: notion
 :END:
 #+title: Ethics and Virtue
 #+filetags: :Category:Ethics_and_Virtue:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Character, the good, and how we treat one another.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Caractère, le bien et notre manière de traiter autrui.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This category brings together moral philosophy and the study of character. It asks what makes actions right or wrong, what a good life looks like, and which traits help people live well with others. It draws on many traditions, including Aristotle and the Greek schools, Confucian ethics, Kant's ethics of duty, utilitarianism, and the twentieth-century revival of virtue ethics led by thinkers such as Elizabeth Anscombe, Philippa Foot, and Iris Murdoch.
+
+Contemporary work connects ethics with psychology (how moral judgment and emotion work), with public life (how diverse communities can share moral ground), and with daily practice (how habits form character). Newcomers can begin with the encyclopedia entry on virtue ethics and one classic text, then test the ideas against everyday choices.
+
+* Where it sits in the tree
+
+- Parent sections: [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]], [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]], [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]], [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-8161-9f6e-d7533503fa53][Virtues]], [[id:41ea6574-40a5-8147-8c63-d4abee32a03f][Ethics]], [[id:41ea6574-40a5-81eb-90de-f05a0f89df8f][Philosophical]], [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-819b-b732-e9a3d08305c7][Ethics]], [[id:41ea6574-40a5-812e-9cb7-e44528986ee0][Virtue]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+*All 16 pages in this category (open to browse)*
+
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (section)
+- [[id:41ea6574-40a5-8117-991b-f6756a6ca4e6][Giving Back]] (Ethics)
+- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (Ethics)
+- [[id:41ea6574-40a5-812f-ab6f-ed2d62436048][Quality]] (Ethics)
+- [[id:41ea6574-40a5-8115-983f-f22076b33fa0][What is Good?]] (Ethics)
+- [[id:41ea6574-40a5-81a8-963d-f92baf8b7872][Good and Evil]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (Philosophical)
+- [[id:41ea6574-40a5-81e4-a281-fe168e02b427][Responsibility]] (Philosophical)
+- [[id:41ea6574-40a5-81b1-9196-e1309957dcb1][Virtues and Ethics]] (Philosophical)
+- [[id:41ea6574-40a5-8121-a775-f684a047fddc][Virtues]] (section)
+- [[id:41ea6574-40a5-81ad-8531-c04bcc56799e][Character Development]] (Virtues)
+- [[id:41ea6574-40a5-8117-b925-f478272130c6][Forgiveness of Self and Others]] (Virtues)
+- [[id:41ea6574-40a5-8170-867d-e297eea1d0f1][Gratitude and Happiness]] (Virtues)
+- [[id:41ea6574-40a5-8112-9a72-ff8c1ad088ff][Humility, Pride, and Shame]] (Virtues)
+- [[id:41ea6574-40a5-8144-8b8a-ced6f5aeec76][Patience]] (Virtues)
+- [[id:41ea6574-40a5-819b-a0f2-e907e642a06c][Perseverance]] (Virtues)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Aristotle, /Nicomachean Ethics/ (4th century BCE). Foundational text of virtue ethics. [[https://plato.stanford.edu/entries/aristotle-ethics/][SEP guide: Aristotle's Ethics]]
+- Confucius (attributed), /The Analects/ (compiled 5th to 3rd century BCE). Classic of Chinese virtue ethics. [[https://plato.stanford.edu/entries/confucius/][SEP guide: Confucius]]
+- Iris Murdoch, /The Sovereignty of Good/ (1970). Routledge and Kegan Paul. [[https://plato.stanford.edu/entries/murdoch/][SEP guide: Iris Murdoch]]
+- Philippa Foot, /Natural Goodness/ (2001). Oxford University Press.
+- Martha C. Nussbaum, /The Fragility of Goodness/ (1986). Cambridge University Press.
+- Rosalind Hursthouse and Glen Pettigrove, /Virtue Ethics/ (2003, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/ethics-virtue/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=0UmWoqhkJdU][Martha Nussbaum, "What Is Anger, and Why Should We Care?"]]: Martha Nussbaum. Channel: University of Chicago Law School.
+- [[https://www.youtube.com/watch?v=Yhn1Fe8cT0Q][Stoicism as a philosophy for an ordinary life | Massimo Pigliucci | TEDxAthens]]: Massimo Pigliucci. Channel: TEDx Talks.
+- [[https://www.youtube.com/watch?v=iCvnvVfdwlY][Kwame Anthony Appiah on Ethics]]: Kwame Anthony Appiah. Channel: Library of Congress.
+- [[https://www.youtube.com/watch?v=vs41JrnGaxc][Jonathan Haidt: The moral roots of liberals and conservatives]]: Jonathan Haidt. Channel: TED.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Cette catégorie réunit la philosophie morale et l'étude du caractère. Elle demande ce qui rend une action juste ou injuste, à quoi ressemble une vie bonne, et quels traits aident à bien vivre avec autrui. Elle s'appuie sur de nombreuses traditions, dont Aristote et les écoles grecques, l'éthique confucéenne, l'éthique du devoir de Kant, l'utilitarisme et le renouveau de l'éthique des vertus au XXe siècle mené par des penseuses comme Elizabeth Anscombe, Philippa Foot et Iris Murdoch.
+
+Les travaux contemporains relient l'éthique à la psychologie (le fonctionnement du jugement moral et des émotions), à la vie publique (la manière dont des communautés diverses peuvent partager un terrain moral) et à la pratique quotidienne (la façon dont les habitudes forment le caractère). Pour commencer, on peut lire l'article d'encyclopédie sur l'éthique des vertus et un texte classique, puis mettre les idées à l'épreuve des choix de tous les jours.
+
+Place dans l'arborescence : sections parentes, sujets liés, étiquettes et pages de cette catégorie (16), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

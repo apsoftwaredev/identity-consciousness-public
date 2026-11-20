@@ -4,34 +4,74 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581848d4ecad6eb8c839d
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81fd-80b4-da4fdae41200
 :PRIVATE_NOTION_ID: 41da657440a581fd80b4da4fdae41200
+:SLUG: old-and-new-testament
+:URL_PATH: mythological-psychological-spiritual/religion-and-spirituality/christianity/thomas-aquinas/old-and-new-testament
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/religion and spirituality/christianity/thomas aquinas/Old and New Testament
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/religion-and-spirituality/christianity/thomas-aquinas/old-and-new-testament
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~religion-and-spirituality~christianity~thomas-aquinas~old-and-new-testament
+:SYNC_HASH: e244aded7a348b4b
+:SYNC_SOURCE: notion
 :END:
 #+title: Old and New Testament
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Religion_Spirituality_and_Myth:Religion:Ethics:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-From Daniel's Roam notes: Daniel saved a passage from Aquinas's commentary on Galatians 6 (sections 347 and 348, from aquinas.cc) on bearing one another's burdens: by patiently enduring others' defects, by aiding one another in need, and by making satisfaction through prayer and good works. Aquinas explains that this fulfills the law of Christ, which is charity, and contrasts the old law of fear with the new law of love.
+*From Daniel's notes, with a general topic overview*
 
-** Recommended readings
+This page holds a passage from Aquinas's commentary on Galatians 6, on bearing one another's burdens.
 
-- [[id:41ea6574-40a5-8111-9708-ea45ff11f8e9][Helping Others]] (related page in this tree)
-- [[id:41ea6574-40a5-8117-b925-f478272130c6][Forgiveness of Self and Others]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a58124bdd8c6d8efd241f6][Christianity]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581b1b45fe9397ea2c898][Normative Ethics]] (Research Library topic)
+From Daniel's Roam notes: Daniel saved this passage from Thomas Aquinas, Commentary on Galatians, chapter 6, lecture 1, sections 347 and 348 ([aquinas.cc](https://aquinas.cc/la/en/~Gal.C6.L1.n347)). English translation as published there:
 
+<quote>
+<p />
 
-* Français / French :FRENCH:
-Résumé : D'après les notes Roam de Daniel : Daniel a conservé un passage du commentaire de Thomas d'Aquin sur Galates 6 (sections 347 et 348, depuis aquinas.cc) sur le fait de porter les fardeaux les uns des autres : en supportant patiemment les défauts d'autrui, en s'aidant dans le besoin, et en offrant réparation par la prière et les bonnes œuvres. Thomas d'Aquin explique que cela accomplit la loi du Christ, qui est la charité, et oppose l'ancienne loi de la crainte à la nouvelle loi de l'amour.
+347. Here he admonishes them to support one another, saying, bear one another's burdens. And this is to be done in three ways. In one way by patiently enduring the bodily or spiritual defects of another (Rom 15:1). In a second way by coming to one another's aid in their needs (Rom 12:13). In a third way by making satisfaction through prayers and works for the punishment one has incurred (Prov 18:19).
+</quote>
 
-Lectures recommandées (titres conservés tels quels) : Helping Others ; Forgiveness of Self and Others ; Christianity ; Normative Ethics.
+<quote>
+<p />
 
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
+348. Now the reason for this admonition is the fulfillment of the law of Christ. But this is charity: the fulfillment of the law is love (Rom 13:10).
+</quote>
 
+Latin source text (quoted): alter alterius onera portate.
 
+* Need-to-know philosophers and key thinkers
 
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- *Thomas Aquinas*: Philosopher and theologian; Summa Theologiae, joining Aristotle with Christian theology.
+- *Augustine of Hippo*: Philosopher and theologian; Confessions, City of God, and evil as privation of good.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-81ed-80eb-e362fb98c3af][Thomas Aquinas]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*D'après les notes de Daniel, avec un aperçu général du sujet*
+
+Résumé : Cette page contient un passage du commentaire de Thomas d'Aquin sur Galates 6, sur le fait de porter les fardeaux les uns des autres.
+
+D'après les notes Roam de Daniel : Daniel a conservé ce passage de Thomas d'Aquin, Commentaire sur l'Épître aux Galates, chapitre 6, leçon 1, sections 347 et 348 ([aquinas.cc](https://aquinas.cc/la/en/~Gal.C6.L1.n347)). En résumé : porter les fardeaux les uns des autres de trois manières (supporter patiemment les défauts d'autrui, s'entraider dans le besoin, offrir réparation par la prière et les bonnes œuvres), ce qui accomplit la loi du Christ, c'est-à-dire la charité.
+
+Penseurs et philosophes essentiels :
+
+- *Thomas Aquinas* : Philosophe et théologien ; Somme théologique, unissant Aristote et la théologie chrétienne.
+- *Augustine of Hippo* : Philosophe et théologien ; Confessions, La Cité de Dieu, et le mal comme privation du bien.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Thomas Aquinas ; Mythological, Psychological, and Spiritual ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

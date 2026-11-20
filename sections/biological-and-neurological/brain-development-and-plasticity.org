@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58134b6dec5aedb2c7ca7
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-810c-974a-ecc279794278
 :PRIVATE_NOTION_ID: 41da657440a5810c974aecc279794278
+:SLUG: brain-development-and-plasticity
+:URL_PATH: biological-and-neurological/brain-development-and-plasticity
+:ROAM_TITLE: IC/Biological and Neurological/Brain Development and Plasticity
+:SITE_URL: https://research.dan.credit/biological-and-neurological/brain-development-and-plasticity
+:FIRESTORE_PATH: ic_public/root/byPath/biological-and-neurological~brain-development-and-plasticity
+:SYNC_HASH: 774315126f9f57c2
+:SYNC_SOURCE: notion
 :END:
 #+title: Brain Development and Plasticity
 #+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Brain_and_Nervous_System:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic covers how the brain develops from before birth through adulthood and how it reorganizes itself in response to learning and experience.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Brain development and plasticity cover how the brain grows and changes with experience.
 
-- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (related page in this tree)
-- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581d3876af9ddcc2c2004][Developmental Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5814bb75ee751c469bb26][Behavioral Neuroscience & Physiological Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Donald Hebb*: Psychologist (key thinker in the field); The Organization of Behavior (1949), learning through linked neurons.
+- *Eric Kandel*: Neuroscientist (key thinker in the field); molecular basis of memory, Nobel Prize 2000.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur le développement du cerveau, d'avant la naissance à l'âge adulte, et sur sa capacité à se réorganiser sous l'effet de l'apprentissage et de l'expérience.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Growth and Psychological Development ; Theories of Learning ; Developmental Psychology ; Behavioral Neuroscience & Physiological Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Le développement cérébral et la plasticité couvrent la manière dont le cerveau grandit et change avec l'expérience.
+
+Penseurs et philosophes essentiels :
+
+- *Donald Hebb* : Psychologue (penseur clé du domaine) ; The Organization of Behavior (1949), l'apprentissage par des neurones associés.
+- *Eric Kandel* : Neuroscientifique (penseur clé du domaine) ; bases moléculaires de la mémoire, prix Nobel 2000.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Biological and Neurological ; Thread: Consciousness & philosophy of mind ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581c080ace3184976aa09
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8127-b7fa-de062e9cefd5
 :PRIVATE_NOTION_ID: 41da657440a58127b7fade062e9cefd5
+:SLUG: psychopathology
+:URL_PATH: mythological-psychological-spiritual/psychopathology
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Psychopathology
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychopathology
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychopathology
+:SYNC_HASH: a8815cc68e3b3ad2
+:SYNC_SOURCE: notion
 :END:
 #+title: Psychopathology
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Clinical_Psychology_and_Mental_Health:Mental_Health:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Psychopathology is the study of mental disorders: their symptoms, causes, classification and course. It underlies clinical diagnosis and treatment.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Psychopathology is the scientific study of mental disorders: their description, causes, and classification. This page is a neutral academic overview.
 
-- [[id:41ea6574-40a5-8175-bf3e-da2f474f3af5][Psychosis]] (related page in this tree)
-- [[id:41ea6574-40a5-81fe-bf3d-eb60de76a348][Community Mental Health Systems and Optimal Helping Strategies and Philosophy]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581eaad1bff392aaf859b][Philosophy of Psychiatry and Psychopathology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Karl Jaspers*: Psychiatrist and philosopher; General Psychopathology (1913).
+- *Emil Kraepelin*: Psychiatrist (key thinker in the field); foundational classification of mental disorders.
+- *George Engel*: Psychiatrist (key thinker in the field); the biopsychosocial model (1977).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La psychopathologie est l'étude des troubles mentaux : leurs symptômes, leurs causes, leur classification et leur évolution. Elle fonde le diagnostic et le traitement cliniques.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Psychosis ; Community Mental Health Systems and Optimal Helping Strategies and Philosophy ; Philosophy of Psychiatry and Psychopathology ; Clinical Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La psychopathologie est l'étude scientifique des troubles mentaux : leur description, leurs causes et leur classification. Cette page est un aperçu académique neutre.
+
+Penseurs et philosophes essentiels :
+
+- *Karl Jaspers* : Psychiatre et philosophe ; Psychopathologie générale (1913).
+- *Emil Kraepelin* : Psychiatre (penseur clé du domaine) ; classification fondatrice des troubles mentaux.
+- *George Engel* : Psychiatre (penseur clé du domaine) ; le modèle biopsychosocial (1977).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

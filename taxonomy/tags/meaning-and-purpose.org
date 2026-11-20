@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581659a23e9e0aacc2f8e
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: meaning-and-purpose
+:URL_PATH: taxonomy/tags/meaning-and-purpose
+:ROAM_TITLE: IC/taxonomy/Research Tags/Meaning and Purpose
+:SITE_URL: https://research.dan.credit/taxonomy/tags/meaning-and-purpose
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~meaning-and-purpose
+:SYNC_HASH: 32af076cca20c488
+:SYNC_SOURCE: notion
 :END:
 #+title: Meaning and Purpose
 #+filetags: :Tag:Meaning_and_Purpose:
+#+language: en
+#+startup: overview
 
 Tag
 

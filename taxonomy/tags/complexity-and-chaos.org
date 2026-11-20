@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581d49f8cfbd6365cd2a4
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: complexity-and-chaos
+:URL_PATH: taxonomy/tags/complexity-and-chaos
+:ROAM_TITLE: IC/taxonomy/Research Tags/Complexity and Chaos
+:SITE_URL: https://research.dan.credit/taxonomy/tags/complexity-and-chaos
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~complexity-and-chaos
+:SYNC_HASH: 8b17d9a0bf1af042
+:SYNC_SOURCE: notion
 :END:
 #+title: Complexity and Chaos
 #+filetags: :Tag:Complexity_and_Chaos:
+#+language: en
+#+startup: overview
 
 Tag
 

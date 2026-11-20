@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581f7bf48d7b40140b62d
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: evolution-and-adaptation
+:URL_PATH: taxonomy/tags/evolution-and-adaptation
+:ROAM_TITLE: IC/taxonomy/Research Tags/Evolution and Adaptation
+:SITE_URL: https://research.dan.credit/taxonomy/tags/evolution-and-adaptation
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~evolution-and-adaptation
+:SYNC_HASH: b4d37a5d2b05231b
+:SYNC_SOURCE: notion
 :END:
 #+title: Evolution and Adaptation
 #+filetags: :Tag:Evolution_and_Adaptation:
+#+language: en
+#+startup: overview
 
 Tag
 

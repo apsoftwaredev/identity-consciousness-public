@@ -4,33 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581469797fbad1e7a7a20
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8142-beae-fd4d07730828
 :PRIVATE_NOTION_ID: 41da657440a58142beaefd4d07730828
+:SLUG: music-and-the-arts
+:URL_PATH: mythological-psychological-spiritual/culture/music-and-the-arts
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/culture/Music and The Arts
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/culture/music-and-the-arts
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~culture~music-and-the-arts
+:SYNC_HASH: 63cdd09201e388a9
+:SYNC_SOURCE: notion
 :END:
 #+title: Music and The Arts
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Culture_and_the_Arts:Culture_and_Arts:Sub_subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic covers music and the arts as forms of expression, meaning and community, and their effects on mind and well-being.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Music and the arts are forms of expression and experience, studied in aesthetics.
 
-- [[id:41ea6574-40a5-8191-bcd0-cbd98e2673cb][Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging]] (related page in this tree)
-- [[id:41ea6574-40a5-8137-8b40-dd7ab46c4c09][Creativity]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a58171ad47e0931a28c397][Aesthetics]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *John Dewey*: Philosopher; pragmatism, Democracy and Education (1916), Art as Experience (1934).
+- *Susanne Langer*: Philosopher; Philosophy in a New Key (1942).
+- *Friedrich Nietzsche*: Philosopher; Beyond Good and Evil (1886) and On the Genealogy of Morality (1887).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet porte sur la musique et les arts comme formes d'expression, de sens et de communauté, et sur leurs effets sur l'esprit et le bien-être.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging ; Creativity ; Aesthetics.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-81d6-bb3a-cb8d3361427d][Culture]] (parent page in this map)
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La musique et les arts sont des formes d'expression et d'expérience, étudiées par l'esthétique.
+
+Penseurs et philosophes essentiels :
+
+- *John Dewey* : Philosophe ; pragmatisme, Démocratie et éducation (1916), L'art comme expérience (1934).
+- *Susanne Langer* : Philosophe ; Philosophy in a New Key (1942).
+- *Friedrich Nietzsche* : Philosophe ; Par-delà bien et mal (1886) et La Généalogie de la morale (1887).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Culture ; Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

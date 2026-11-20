@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581279145dfb0359fe83d
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8193-8425-ce1af771030f
 :PRIVATE_NOTION_ID: 41da657440a581938425ce1af771030f
+:SLUG: epistemology
+:URL_PATH: philosophical/epistemology
+:ROAM_TITLE: IC/Philosophical/Epistemology
+:SITE_URL: https://research.dan.credit/philosophical/epistemology
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~epistemology
+:SYNC_HASH: cdd5906e1da213b2
+:SYNC_SOURCE: notion
 :END:
 #+title: Epistemology
 #+filetags: :public:Philosophical:Metaphysics_and_Epistemology:Knowledge:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Epistemology is the theory of knowledge: what knowledge is, how beliefs are justified, and where the limits of knowing lie.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Epistemology is the theory of knowledge: what knowledge is, how it is justified, and its limits.
 
-- [[id:41ea6574-40a5-819c-abbb-cc1b6007f8f6][Knowledge and Wisdom]] (related page in this tree)
-- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581069325c9d8bff9a50c][Epistemology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a58115b3c5db1cd3961e8f][Metaphysics and Epistemology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *René Descartes*: Philosopher; Meditations (1641), mind and body as distinct substances.
+- *David Hume*: Philosopher; A Treatise of Human Nature: the self as a bundle of perceptions, the passions (including pride and humility), and the problem of induction.
+- *Edmund Gettier*: Philosopher; 1963 paper challenging knowledge as justified true belief.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'épistémologie est la théorie de la connaissance : ce qu'est le savoir, comment les croyances sont justifiées, et où se situent les limites de la connaissance.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Knowledge and Wisdom ; Truth and Conjecture ; Epistemology ; Metaphysics and Epistemology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'épistémologie est la théorie de la connaissance : ce qu'elle est, comment elle se justifie et quelles sont ses limites.
+
+Penseurs et philosophes essentiels :
+
+- *René Descartes* : Philosophe ; Méditations (1641), l'esprit et le corps comme substances distinctes.
+- *David Hume* : Philosophe ; Traité de la nature humaine : le moi comme faisceau de perceptions, les passions (dont l'orgueil et l'humilité) et le problème de l'induction.
+- *Edmund Gettier* : Philosophe ; article de 1963 contestant la connaissance comme croyance vraie justifiée.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

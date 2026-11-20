@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b799f1c077ab04366c
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: development-and-learning
+:URL_PATH: taxonomy/tags/development-and-learning
+:ROAM_TITLE: IC/taxonomy/Research Tags/Development and Learning
+:SITE_URL: https://research.dan.credit/taxonomy/tags/development-and-learning
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~development-and-learning
+:SYNC_HASH: 1ad63e0fd1b99857
+:SYNC_SOURCE: notion
 :END:
 #+title: Development and Learning
 #+filetags: :Tag:Development_and_Learning:
+#+language: en
+#+startup: overview
 
 Tag
 

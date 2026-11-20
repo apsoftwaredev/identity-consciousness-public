@@ -4,11 +4,128 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5810a82a7d3a45959f6aa
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: psychology
+:URL_PATH: taxonomy/categories/psychology
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Psychology
+:SITE_URL: https://research.dan.credit/taxonomy/categories/psychology
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~psychology
+:SYNC_HASH: 2e7713189cd8eb68
+:SYNC_SOURCE: notion
 :END:
 #+title: Psychology
 #+filetags: :Category:Psychology:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Development, learning, personality, emotion, and social life.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Développement, apprentissage, personnalité, émotion et vie sociale.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Psychology is the scientific study of mind and behavior. It covers how people develop from infancy to old age, how they learn and remember, how personality and motivation work, how emotions arise, and how people think and act in groups. William James's Principles of Psychology (1890) helped found the field, which now uses experiments, surveys, brain imaging, and long-term studies.
+
+Current research includes the study of habits and self-control, mindsets and motivation, moral judgment, and wellbeing. Psychology also has an active conversation about replication, meaning how well findings hold up when studies are repeated. Newcomers can begin with a free introductory textbook and one popular book by a researcher, keeping in mind that single studies are less reliable than patterns across many.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related topics: [[id:41ea6574-40a5-8168-bb90-c1a6bb9e501a][Mythological, Psychological, and Spiritual]]
+
+- Tags: [[id:41ea6574-40a5-81b7-99f1-c077ab04366c][Development and Learning]], [[id:41ea6574-40a5-81e5-9b0e-e72472bd2925][Goals and Habits]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-8147-9b88-c907fa4e16f2][Self and Identity]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-8110-82f0-c26e334b753a][Knowledge]], [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-8141-97cc-f2d93458af86][Jungian Psychology]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-8191-a3d6-c92614bdd23c][Myth and Story]], [[id:41ea6574-40a5-812f-876e-fb12c522b501][Spirituality]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+*All 42 pages in this category (open to browse)*
+
+- [[id:41ea6574-40a5-81c8-a565-eaa82393f367][Dreams]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-812c-b067-f86006acf0bd][Ego States]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81af-acc0-eca6b9e87f47][Empathy and Emotional Intelligence]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8192-ab01-ca713c65bf45][Family Systems]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81fc-8192-fb8e420c147d][Goal Orientation and Attainment Strategies]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8100-8bee-ff1ca4a92624][Breaking Down to Smaller Steps]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-81fe-97f8-dd1750eca784][Daily Habits]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-815c-ab41-fee02b71db99][Dealing with Obstacles and Setbacks]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-81f2-8827-ef8a80f3d118][Learning From Mistakes]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-8173-80be-e84e0b931220][Visualization of Goals]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81ef-9732-da4cd7ca7e59][Identity Development]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8178-8d91-e538c5ac6c54][Inner Peace and Balance]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8188-8f3e-d29dd2c25414][Integration]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-814f-b219-d82618f7c47c][Intelligence and Cognitive Assessment]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81d8-947e-c733c1749fa5][Jung]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8160-880d-caf499264482][Archetypes]] (Mythological, Psychological, and Spiritual / Jung)
+- [[id:41ea6574-40a5-815c-9f52-db123baff2cf][Manifesting Realities]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8154-8b31-c4f8f2788c77][Meditation, Hypnosis, Prayer]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-814f-8940-f36cfef23ba3][Narratives and Life Objectives]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8128-8666-f942cdcaf4a1][Psychology of Beliefs and Behavior]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-817a-894e-df62279613ab][Extremes]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-8189-9508-ced9d27c303e][Habituation]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81f6-8877-dd831d04b7ac][Irrational Beliefs]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-816e-a970-fed075addde0][Anger]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-816c-af06-d2e8dca6a1bb][Engaged Flow]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-817b-8364-eb1930e4f940][Joy]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-8184-a43c-fd58c91589ae][Self Imposed Limitations]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81b4-aff7-de42fde6e693][Systematic Behavioral Learning Process]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81ba-97d1-f76e638e56ac][Purpose and Meaning]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81c6-8b5d-eb1a321fdeea][Following]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-812c-b14d-f64f47379771][Magical Thinking]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81fd-bc12-d27b0c234498][Resistance to Change]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8109-a088-e0876e2303cb][Social Psychology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-817e-b18a-f7b38f04bc3b][The Self and Relationships with Others]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81fa-b376-db234bb83f3d][The Under Consciousness]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8122-9ad7-fb9830a645ed][Primitive Drives]] (Mythological, Psychological, and Spiritual / The Under Consciousness)
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81cc-9c09-f06023bfe944][Theories of Personality and Personality Assessment]] (Mythological, Psychological, and Spiritual)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- William James, /The Principles of Psychology/ (1890). Henry Holt. [[https://psychclassics.yorku.ca/James/Principles/][Open text (Classics in the History of Psychology)]]
+- Rose M. Spielman and others, /Psychology 2e/ (2020). OpenStax (free textbook). [[https://openstax.org/details/books/psychology-2e][Free textbook (OpenStax)]]
+- Daniel Kahneman, /Thinking, Fast and Slow/ (2011). Farrar, Straus and Giroux.
+- Carol S. Dweck, /Mindset: The New Psychology of Success/ (2006). Random House.
+- Jonathan Haidt, /The Righteous Mind/ (2012). Pantheon.
+- Walter Mischel, /The Marshmallow Test: Mastering Self-Control/ (2014). Little, Brown.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=_X0mgOOSpLU][The power of believing that you can improve | Carol Dweck | TED]]: Carol Dweck. Channel: TED.
+- [[https://www.youtube.com/watch?v=RPicL1AWrs8][Paul Bloom: The origins of pleasure]]: Paul Bloom. Channel: TED.
+- [[https://www.youtube.com/watch?v=NM6foYVYwxw][How Emotions Are Made: The Secret Life of the Brain]]: Lisa Feldman Barrett. Channel: The Aspen Institute.
+- [[https://www.youtube.com/watch?v=LtGY85JXTUM][The science of happiness - with Bruce Hood]]: Bruce Hood. Channel: The Royal Institution.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La psychologie est l'étude scientifique de l'esprit et du comportement. Elle couvre le développement des personnes de la petite enfance à la vieillesse, la manière dont elles apprennent et se souviennent, le fonctionnement de la personnalité et de la motivation, la naissance des émotions, et la façon dont les gens pensent et agissent en groupe. Les Principes de psychologie de William James (1890) ont contribué à fonder le domaine, qui utilise aujourd'hui des expériences, des enquêtes, l'imagerie cérébrale et des études de long terme.
+
+La recherche actuelle porte notamment sur les habitudes et la maîtrise de soi, les états d'esprit et la motivation, le jugement moral et le bien-être. La psychologie mène aussi une réflexion active sur la réplication, c'est-à-dire la solidité des résultats lorsque les études sont refaites. Pour commencer, on peut lire un manuel d'introduction gratuit et un livre grand public écrit par un chercheur, en gardant à l'esprit qu'une étude isolée est moins fiable qu'une tendance observée dans de nombreuses études.
+
+Place dans l'arborescence : section parente, sujets liés, étiquettes et pages de cette catégorie (42), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

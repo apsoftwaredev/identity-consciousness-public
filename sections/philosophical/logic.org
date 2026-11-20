@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5816eb01efa25747ab69d
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-812e-b222-ce48b1cb69cd
 :PRIVATE_NOTION_ID: 41da657440a5812eb222ce48b1cb69cd
+:SLUG: logic
+:URL_PATH: philosophical/logic
+:ROAM_TITLE: IC/Philosophical/Logic
+:SITE_URL: https://research.dan.credit/philosophical/logic
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~logic
+:SYNC_HASH: d8b578057c659028
+:SYNC_SOURCE: notion
 :END:
 #+title: Logic
 #+filetags: :public:Philosophical:Logic_Language_and_Meaning:Logic_and_Mathematics:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Logic is the study of valid reasoning: what follows from what. It includes formal systems, argument analysis, and the foundations of mathematics and computing.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Logic studies valid reasoning: the forms of argument and inference that preserve truth.
 
-- [[id:41ea6574-40a5-8106-8399-dece0d0ae8e9][Incompleteness]] (related page in this tree)
-- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a58185b685d478e35f1304][Logic and Philosophy of Logic]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a58181ae32c3eaeacac5d1][Mathematical Logic & Foundations]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Aristotle*: Philosopher; Nicomachean Ethics (virtue as a mean), founder of formal logic, Metaphysics.
+- *Gottlob Frege*: Philosopher and logician; sense and reference, foundations of modern logic.
+- *Bertrand Russell*: Philosopher and logician; Principia Mathematica (with Whitehead) and logical analysis.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La logique est l'étude du raisonnement valide : ce qui découle de quoi. Elle comprend les systèmes formels, l'analyse des arguments et les fondements des mathématiques et de l'informatique.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Incompleteness ; Truth and Conjecture ; Logic and Philosophy of Logic ; Mathematical Logic & Foundations.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581dda063cc2cb20c24dc][Thread: Infinity]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La logique étudie le raisonnement valide : les formes d'argument et d'inférence qui préservent la vérité.
+
+Penseurs et philosophes essentiels :
+
+- *Aristotle* : Philosophe ; Éthique à Nicomaque (la vertu comme juste milieu), fondateur de la logique formelle, Métaphysique.
+- *Gottlob Frege* : Philosophe et logicien ; sens et dénotation, fondements de la logique moderne.
+- *Bertrand Russell* : Philosophe et logicien ; Principia Mathematica (avec Whitehead) et l'analyse logique.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Thread: Infinity ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

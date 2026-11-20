@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581e59b0ee72472bd2925
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: goals-and-habits
+:URL_PATH: taxonomy/tags/goals-and-habits
+:ROAM_TITLE: IC/taxonomy/Research Tags/Goals and Habits
+:SITE_URL: https://research.dan.credit/taxonomy/tags/goals-and-habits
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~goals-and-habits
+:SYNC_HASH: 1045e774ed8eaef0
+:SYNC_SOURCE: notion
 :END:
 #+title: Goals and Habits
 #+filetags: :Tag:Goals_and_Habits:
+#+language: en
+#+startup: overview
 
 Tag
 

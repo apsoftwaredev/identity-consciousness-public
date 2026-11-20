@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581fd8ea0dd1749dc2d05
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: society-and-politics
+:URL_PATH: taxonomy/tags/society-and-politics
+:ROAM_TITLE: IC/taxonomy/Research Tags/Society and Politics
+:SITE_URL: https://research.dan.credit/taxonomy/tags/society-and-politics
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~society-and-politics
+:SYNC_HASH: 60d2aa710c5871aa
+:SYNC_SOURCE: notion
 :END:
 #+title: Society and Politics
 #+filetags: :Tag:Society_and_Politics:
+#+language: en
+#+startup: overview
 
 Tag
 

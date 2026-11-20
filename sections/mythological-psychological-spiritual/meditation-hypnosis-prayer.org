@@ -4,34 +4,59 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581548b31c4f8f2788c77
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81e1-bee5-d5561c700b1c
 :PRIVATE_NOTION_ID: 41da657440a581e1bee5d5561c700b1c
+:SLUG: meditation-hypnosis-prayer
+:URL_PATH: mythological-psychological-spiritual/meditation-hypnosis-prayer
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Meditation, Hypnosis, Prayer
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/meditation-hypnosis-prayer
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~meditation-hypnosis-prayer
+:SYNC_HASH: 8feb9033e34a661b
+:SYNC_SOURCE: notion
 :END:
 #+title: Meditation, Hypnosis, Prayer
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Consciousness:Spirituality:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): This topic groups three practices that focus attention and alter awareness: meditation, hypnosis and prayer. Each is studied for its effects on mind, body and well-being.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+This topic covers meditation, hypnosis, and prayer as practices that change attention and awareness, and the research on them.
 
-- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (related page in this tree)
+* Need-to-know philosophers and key thinkers
+
+- *Herbert Benson*: Cardiologist (key thinker in the field); The Relaxation Response (1975).
+- *Milton Erickson*: Psychiatrist (key thinker in the field); Ericksonian hypnosis.
+- *Jon Kabat-Zinn*: Scientist (key thinker in the field); Mindfulness-Based Stress Reduction.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a58109b01fd5bfd05ed229][Thread: Medical hypnosis & mind-body healing]] (public research thread)
-- [[https://app.notion.com/p/3eaa657440a58144a4ddfbf9f85f9475][Meditation]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581bea535cdc40f44dfe6][Psychological Hypnosis (Clinical Hypnosis)]] (Research Library topic)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Ce sujet regroupe trois pratiques qui concentrent l'attention et modifient l'état de conscience : la méditation, l'hypnose et la prière. Chacune est étudiée pour ses effets sur l'esprit, le corps et le bien-être.
-
-Lectures recommandées (titres conservés tels quels) : Altered Consciousness ; Thread: Medical hypnosis & mind-body healing ; Meditation ; Psychological Hypnosis (Clinical Hypnosis).
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Ce sujet couvre la méditation, l'hypnose et la prière comme pratiques qui modifient l'attention et la conscience, ainsi que la recherche à leur sujet.
+
+Penseurs et philosophes essentiels :
+
+- *Herbert Benson* : Cardiologue (penseur clé du domaine) ; The Relaxation Response (1975).
+- *Milton Erickson* : Psychiatre (penseur clé du domaine) ; l'hypnose ericksonienne.
+- *Jon Kabat-Zinn* : Scientifique (penseur clé du domaine) ; la réduction du stress basée sur la pleine conscience.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Medical hypnosis & mind-body healing ; Thread: Consciousness & philosophy of mind ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

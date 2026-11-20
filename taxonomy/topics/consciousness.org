@@ -4,11 +4,100 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5811caa3ef1d496fa2f24
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: consciousness
+:URL_PATH: taxonomy/topics/consciousness
+:ROAM_TITLE: IC/taxonomy/Research Topics/Consciousness
+:SITE_URL: https://research.dan.credit/taxonomy/topics/consciousness
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~consciousness
+:SYNC_HASH: 9e09a823d7fe4422
+:SYNC_SOURCE: notion
 :END:
 #+title: Consciousness
 #+filetags: :Topic:Consciousness:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 2 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 2 sur 8 : Conscience
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Consciousness is the fact that there is something it is like to be you: to see colors, feel pain, or think a thought. Thomas Nagel framed this as the subjective character of experience, and David Chalmers named the "hard problem": explaining why physical processes in the brain are accompanied by experience at all, in addition to explaining what the brain does.
+
+Current approaches range widely. Neuroscientists look for the neural correlates of consciousness and test theories such as global workspace theory, integrated information theory, and predictive processing. Philosophers debate physicalism, dualism, panpsychism (the view that experience is a basic feature of matter), and illusionism (the view that our sense of a special inner glow is itself a kind of illusion). Newcomers can begin with the difference between the "easy" problems of function and the "hard" problem of experience.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]]
+
+- Related categories: [[id:41ea6574-40a5-819f-b654-ee337d3bae06][Philosophy of Mind]], [[id:41ea6574-40a5-8192-a10b-c205115982a0][Science, Mathematics, and Computing]]
+
+- Tags: [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-8144-8895-da05a294674b][Language and Communication]], [[id:41ea6574-40a5-81b5-adec-e04d4abcfa21][Computing and AI]], [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (13):
+
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (section)
+- [[id:41ea6574-40a5-813d-b088-f299478d2bbc][2026-11-19 · Consciousness discussion]] (Consciousness)
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-8134-97e3-f0ca611af725][Consciousness and Communication]] (Consciousness)
+- [[id:41ea6574-40a5-819d-8ffc-fb497b86149c][Consciousness and Location]] (Consciousness)
+- [[id:41ea6574-40a5-8100-9576-e648dfb52935][Consciousness and Machines / Nonorganic Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]] (Consciousness)
+- [[id:41ea6574-40a5-81e3-8f22-d6c4787c65d2][Parallel Distributed Systems]] (Consciousness)
+- [[id:41ea6574-40a5-8174-87f9-c84898d04149][Problems Defining]] (Consciousness)
+- [[id:41ea6574-40a5-8101-b42c-d0fbf2e53424][Theories of Consciousness, maps of current controversies]] (Consciousness)
+- [[id:41ea6574-40a5-81ad-9061-fd84b1f3042b][Types of Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-8103-9523-d47caeef0b50][What is consciousness?]] (Consciousness)
+- [[id:41ea6574-40a5-81ab-a84b-ee21804bca9b][Why is there consciousness?]] (Consciousness)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Robert Van Gulick, /Consciousness/ (2004, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/consciousness/][SEP entry]]
+- Thomas Nagel, /What Is It Like to Be a Bat?/ (1974). The Philosophical Review 83(4).
+- David J. Chalmers, /The Conscious Mind: In Search of a Fundamental Theory/ (1996). Oxford University Press.
+- Daniel C. Dennett, /Consciousness Explained/ (1991). Little, Brown.
+- Anil Seth, /Being You: A New Science of Consciousness/ (2021). Faber and Faber / Dutton.
+- Josh Weisberg, /The Hard Problem of Consciousness/ (n.d.). Internet Encyclopedia of Philosophy entry. [[https://iep.utm.edu/hard-problem-of-conciousness/][IEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=uhRhtFFhNzQ][How do you explain consciousness? | David Chalmers]]: David Chalmers. Channel: TED.
+- [[https://www.youtube.com/watch?v=xRel1JKOEbI][The Neuroscience of Consciousness – with Anil Seth]]: Anil Seth. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=eJn2yfCI6pw][One neuroscientist’s deep dive into perception and reality | Christof Koch]]: Christof Koch. Channel: Big Think.
+- [[https://www.youtube.com/watch?v=UCxhoqzEaUE][Is there consciousness beyond the brain? | Philip Goff | TEDxNewEngland]]: Philip Goff. Channel: TEDx Talks.
+- [[https://www.youtube.com/watch?v=c_69Ros8epE][Introduction to 'Illusionism as a Theory of Consciousness']]: Keith Frankish. Channel: Keith Frankish.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La conscience est le fait qu'il y a quelque chose que cela fait d'être vous : voir des couleurs, ressentir une douleur ou avoir une pensée. Thomas Nagel a décrit cela comme le caractère subjectif de l'expérience, et David Chalmers a nommé le « problème difficile » : expliquer pourquoi les processus physiques du cerveau s'accompagnent d'une expérience, en plus d'expliquer ce que fait le cerveau.
+
+Les approches actuelles sont très variées. Les neuroscientifiques cherchent les corrélats neuronaux de la conscience et mettent à l'épreuve des théories comme l'espace de travail global, la théorie de l'information intégrée et le traitement prédictif. Les philosophes débattent du physicalisme, du dualisme, du panpsychisme (l'idée que l'expérience est une propriété fondamentale de la matière) et de l'illusionnisme (l'idée que notre impression d'une lueur intérieure particulière est elle-même une sorte d'illusion). Pour commencer, on peut distinguer les problèmes « faciles » de la fonction et le problème « difficile » de l'expérience.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (13), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

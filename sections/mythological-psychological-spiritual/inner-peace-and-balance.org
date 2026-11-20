@@ -4,34 +4,57 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581788d91e538c5ac6c54
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-8152-88bd-c045e8a0d249
 :PRIVATE_NOTION_ID: 41da657440a5815288bdc045e8a0d249
+:SLUG: inner-peace-and-balance
+:URL_PATH: mythological-psychological-spiritual/inner-peace-and-balance
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Inner Peace and Balance
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/inner-peace-and-balance
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~inner-peace-and-balance
+:SYNC_HASH: 8d748092b899655c
+:SYNC_SOURCE: notion
 :END:
 #+title: Inner Peace and Balance
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Emotion:Spirituality:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Inner peace and balance describe a calm, steady state of mind and a balanced life. The topic covers contemplative practice, emotional regulation and well-being.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Inner peace and balance concern equanimity and emotional steadiness, valued in philosophy, religion, and psychology.
 
-- [[id:41ea6574-40a5-8154-8b31-c4f8f2788c77][Meditation, Hypnosis, Prayer]] (related page in this tree)
-- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a5814fa47edc1aabbb4850][Contemplative Studies]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5813d956efef64e7a9465][Positive Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Epictetus*: Stoic philosopher; the distinction between what is and is not in our control.
+- *Siddhartha Gautama, the Buddha*: Teacher of the Four Noble Truths and the doctrine of non-self (anatta).
+- *Jon Kabat-Zinn*: Scientist (key thinker in the field); Mindfulness-Based Stress Reduction.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La paix intérieure et l'équilibre désignent un état d'esprit calme et stable et une vie équilibrée. Le sujet couvre la pratique contemplative, la régulation émotionnelle et le bien-être.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Meditation, Hypnosis, Prayer ; Mood States ; Contemplative Studies ; Positive Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a58188b2c2e73a7b74b527][Thread: The Bigger Picture (spirituality & Eastern philosophy)]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La paix intérieure et l'équilibre concernent la sérénité et la stabilité émotionnelle, valorisées en philosophie, en religion et en psychologie.
+
+Penseurs et philosophes essentiels :
+
+- *Epictetus* : Philosophe stoïcien ; la distinction entre ce qui dépend de nous et ce qui n'en dépend pas.
+- *Siddhartha Gautama, the Buddha* : Enseignant des Quatre Nobles Vérités et de la doctrine du non-soi (anatta).
+- *Jon Kabat-Zinn* : Scientifique (penseur clé du domaine) ; la réduction du stress basée sur la pleine conscience.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: The Bigger Picture (spirituality & Eastern philosophy) ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

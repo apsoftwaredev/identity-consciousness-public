@@ -4,11 +4,113 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581eb90def05a0f89df8f
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: philosophical
+:URL_PATH: taxonomy/topics/philosophical
+:ROAM_TITLE: IC/taxonomy/Research Topics/Philosophical
+:SITE_URL: https://research.dan.credit/taxonomy/topics/philosophical
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~philosophical
+:SYNC_HASH: 6cbd1acde4dd545b
+:SYNC_SOURCE: notion
 :END:
 #+title: Philosophical
 #+filetags: :Topic:Philosophical:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 5 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 5 sur 8 : Philosophique
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This topic gathers the core questions of philosophy. Metaphysics asks what exists and what reality is like: time, causation, free will, and the relation between mind and world. Epistemology asks what knowledge is, how belief can be justified, and how to respond to skepticism. Philosophy of science asks how science works and how theories change, and the history of ideas follows how these questions have been answered across cultures.
+
+Philosophy is less a set of answers than a practice of careful questioning, clear argument, and openness to being wrong. Newcomers can begin with a short classic introduction, then follow one question (for example, "what is knowledge?") through both a classic text and a current encyclopedia entry.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]]
+
+- Related categories: [[id:41ea6574-40a5-81d6-b96c-c0f51f97f1bf][Ethics and Virtue]], [[id:41ea6574-40a5-8197-b192-f7938816fbf4][Metaphysics and Epistemology]], [[id:41ea6574-40a5-8112-826d-e789659d8e1d][Logic, Language, and Meaning]], [[id:41ea6574-40a5-81a7-889f-f9bf40c4f957][Social and Political Philosophy]], [[id:41ea6574-40a5-8192-a10b-c205115982a0][Science, Mathematics, and Computing]], [[id:41ea6574-40a5-8130-9767-f7252df4755c][Culture and the Arts]]
+
+- Tags: [[id:41ea6574-40a5-8110-82f0-c26e334b753a][Knowledge]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-81a9-8f88-cfa2a324baf6][History of Ideas]], [[id:41ea6574-40a5-8146-aecf-c84bfa3ffee9][Reality]], [[id:41ea6574-40a5-8156-b7d2-c220c1aa708f][Philosophy of Science]], [[id:41ea6574-40a5-819b-b732-e9a3d08305c7][Ethics]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-81d4-9f8c-fbd6365cd2a4][Complexity and Chaos]], [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-8144-8895-da05a294674b][Language and Communication]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+*All 27 pages in this topic (open to browse)*
+
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (section)
+- [[id:41ea6574-40a5-8119-9eed-d7255993ecff][42]] (Philosophical)
+- [[id:41ea6574-40a5-81d5-974a-d5add371f8e2][Adaptive Philosophy]] (Philosophical)
+- [[id:41ea6574-40a5-81f7-94a8-f4e27f0df836][Being and Nonbeing]] (Philosophical)
+- [[id:41ea6574-40a5-811e-a98a-f9abc619d12f][Chaos and Reason]] (Philosophical)
+- [[id:41ea6574-40a5-8172-ac76-e11a1cbc7609][Eastern Philosophy]] (Philosophical)
+- [[id:41ea6574-40a5-8127-9145-dfb0359fe83d][Epistemology]] (Philosophical)
+- [[id:41ea6574-40a5-8180-9378-e127be87d7f1][Historical Development of Understanding]] (Philosophical)
+- [[id:41ea6574-40a5-8100-bd09-cb46b0d60df8][History and Philosophy of Science, Technology, Mathematics]] (Philosophical)
+- [[id:41ea6574-40a5-814c-b47d-d646d3f8d5cd][Holism]] (Philosophical)
+- [[id:41ea6574-40a5-8106-8399-dece0d0ae8e9][Incompleteness]] (Philosophical)
+- [[id:41ea6574-40a5-81ba-a524-f48493c6c919][Individual Rights and the State]] (Philosophical)
+- [[id:41ea6574-40a5-81c3-95a1-ca3235938bac][Justice and Fairness]] (Philosophical)
+- [[id:41ea6574-40a5-819c-abbb-cc1b6007f8f6][Knowledge and Wisdom]] (Philosophical)
+- [[id:41ea6574-40a5-81cf-911c-fff8fe8acad8][Language]] (Philosophical)
+- [[id:41ea6574-40a5-816e-b01e-fa25747ab69d][Logic]] (Philosophical)
+- [[id:41ea6574-40a5-8170-8343-f99ae94a549d][Meaning]] (Philosophical)
+- [[id:41ea6574-40a5-81b9-a570-d712ba7b0c36][Metaphilosophy]] (Philosophical)
+- [[id:41ea6574-40a5-813c-902c-db0ba0327a57][Metaphysics]] (Philosophical)
+- [[id:41ea6574-40a5-81f0-b19f-d9622f337092][Optimal Community Arrangements and Systems]] (Philosophical)
+- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (Philosophical)
+- [[id:41ea6574-40a5-8140-b5ec-c484975d011d][Problems of Quantum Mechanics]] (Philosophical)
+- [[id:41ea6574-40a5-81e4-a281-fe168e02b427][Responsibility]] (Philosophical)
+- [[id:41ea6574-40a5-81bc-962d-f9bdc64d31e3][Theories and Concepts]] (Philosophical)
+- [[id:41ea6574-40a5-8143-9470-e28d232de699][Truth and Conjecture]] (Philosophical)
+- [[id:41ea6574-40a5-8198-a2ad-cc68db37dc3f][Understanding]] (Philosophical)
+- [[id:41ea6574-40a5-81b1-9196-e1309957dcb1][Virtues and Ethics]] (Philosophical)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Bertrand Russell, /The Problems of Philosophy/ (1912). Short classic introduction. [[https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy][Free edition (Standard Ebooks)]]
+- Thomas Nagel, /What Does It All Mean? A Very Short Introduction to Philosophy/ (1987). Oxford University Press.
+- Thomas S. Kuhn, /The Structure of Scientific Revolutions/ (1962). University of Chicago Press. [[https://plato.stanford.edu/entries/thomas-kuhn/][SEP guide: Thomas Kuhn]]
+- Matthias Steup and Ram Neta, /Epistemology/ (2005, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/epistemology/][SEP entry]]
+- Peter van Inwagen, Meghan Sullivan and Sara Bernstein, /Metaphysics/ (2007, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/metaphysics/][SEP entry]]
+- Rebecca Newberger Goldstein, /Plato at the Googleplex: Why Philosophy Won't Go Away/ (2014). Pantheon.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=aOwuBoDL3Yw][What Does Philosophy Do? | Timothy Williamson]]: Timothy Williamson. Channel: Oxford Academic (Oxford University Press).
+- [[https://www.youtube.com/watch?v=cJf7pihmgPI][Plato at the Googleplex | Rebecca Goldstein | Talks at Google]]: Rebecca Goldstein. Channel: Talks at Google.
+- [[https://www.youtube.com/watch?v=NHi777d0jAc][Agnes Callard: The fear of death and whether philosophy helps you with it]]: Agnes Callard. Channel: Brotéria.
+- [PHILOSOPHY - Epistemology: Introduction to Theory of Knowledge [HD]](https://www.youtube.com/watch?v=r_Y3utIeTPg). Channel: Wireless Philosophy.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+Ce sujet réunit les questions centrales de la philosophie. La métaphysique demande ce qui existe et à quoi ressemble la réalité : le temps, la causalité, le libre arbitre et le rapport entre l'esprit et le monde. L'épistémologie demande ce qu'est la connaissance, comment une croyance peut être justifiée et comment répondre au scepticisme. La philosophie des sciences demande comment fonctionne la science et comment les théories changent, et l'histoire des idées suit la manière dont ces questions ont reçu des réponses dans différentes cultures.
+
+La philosophie est moins un ensemble de réponses qu'une pratique de questionnement attentif, d'argumentation claire et d'ouverture à l'erreur. Pour commencer, on peut lire une courte introduction classique, puis suivre une question (par exemple « qu'est-ce que la connaissance ? ») à travers un texte classique et un article d'encyclopédie actuel.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (27), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

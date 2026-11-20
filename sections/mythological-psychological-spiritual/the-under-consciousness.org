@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581fab376db234bb83f3d
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81d5-b2b3-f79488c8365b
 :PRIVATE_NOTION_ID: 41da657440a581d5b2b3f79488c8365b
+:SLUG: the-under-consciousness
+:URL_PATH: mythological-psychological-spiritual/the-under-consciousness
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/The Under Consciousness
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/the-under-consciousness
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~the-under-consciousness
+:SYNC_HASH: b0f5abc288c2b992
+:SYNC_SOURCE: notion
 :END:
 #+title: The Under Consciousness
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Psychology:Consciousness:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-From Daniel's Roam notes: Daniel links the under consciousness to primitive drives. The page stands for the layers of mind below awareness, paired in the graph with the upper consciousness.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+The under consciousness refers to mental processes below awareness, sometimes called the unconscious or subconscious.
 
-- [[id:41ea6574-40a5-81e7-8b9a-d07b31bf8bf9][The Upper Consciousness]] (related page in this tree)
-- [[id:41ea6574-40a5-81c8-a565-eaa82393f367][Dreams]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581a29cdbef43c0bc1d0d][Psychoanalysis & Psychodynamic Psychology]] (Research Library topic)
-- [[https://app.notion.com/p/411a657440a58117b06bc97401b6d198][Thread: Myth & analytical psychology]] (public research thread)
+* Need-to-know philosophers and key thinkers
 
+- *Sigmund Freud*: Neurologist (key thinker in the field); founder of psychoanalysis, The Interpretation of Dreams (1899).
+- *Carl Jung*: Psychiatrist (key thinker in the field); analytical psychology, archetypes, the collective unconscious, and individuation.
 
-* Français / French :FRENCH:
-Résumé : D'après les notes Roam de Daniel : Daniel relie le subconscient aux pulsions primitives. La page représente les couches de l'esprit sous la conscience, associées dans le graphe à la conscience supérieure.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : The Upper Consciousness ; Dreams ; Psychoanalysis & Psychodynamic Psychology ; Thread: Myth & analytical psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La sous-conscience désigne les processus mentaux sous le seuil de la conscience, parfois appelés inconscient ou subconscient.
+
+Penseurs et philosophes essentiels :
+
+- *Sigmund Freud* : Neurologue (penseur clé du domaine) ; fondateur de la psychanalyse, L'Interprétation du rêve (1899).
+- *Carl Jung* : Psychiatre (penseur clé du domaine) ; psychologie analytique, archétypes, inconscient collectif et individuation.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Thread: Consciousness & philosophy of mind ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

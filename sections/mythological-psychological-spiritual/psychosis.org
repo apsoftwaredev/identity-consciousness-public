@@ -4,33 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58175bf3eda2f474f3af5
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81e0-8525-db2da8438eaf
 :PRIVATE_NOTION_ID: 41da657440a581e08525db2da8438eaf
+:SLUG: psychosis
+:URL_PATH: mythological-psychological-spiritual/psychosis
+:ROAM_TITLE: IC/Mythological, Psychological, and Spiritual/Psychosis
+:SITE_URL: https://research.dan.credit/mythological-psychological-spiritual/psychosis
+:FIRESTORE_PATH: ic_public/root/byPath/mythological-psychological-spiritual~psychosis
+:SYNC_HASH: 786bf0d25e05dc1c
+:SYNC_SOURCE: notion
 :END:
 #+title: Psychosis
 #+filetags: :public:Mythological_Psychological_and_Spiritual:Clinical_Psychology_and_Mental_Health:Mental_Health:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Psychosis is a mental state in which a person loses some contact with reality, often with hallucinations or delusions. It is studied in psychiatry, clinical psychology and community mental health.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+In clinical psychology and psychiatry, psychosis refers to a loss of contact with shared reality, such as hallucinations or delusions. This page is a neutral academic overview.
 
-- [[id:41ea6574-40a5-81c0-80ac-e3184976aa09][Psychopathology]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581eaad1bff392aaf859b][Philosophy of Psychiatry and Psychopathology]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a581188f88eb067ff6eb4d][Clinical Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Eugen Bleuler*: Psychiatrist (key thinker in the field); introduced the term "schizophrenia" (1908).
+- *Emil Kraepelin*: Psychiatrist (key thinker in the field); foundational classification of mental disorders.
+- *Karl Jaspers*: Psychiatrist and philosopher; General Psychopathology (1913).
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La psychose est un état mental dans lequel une personne perd en partie le contact avec la réalité, souvent avec des hallucinations ou des idées délirantes. Elle est étudiée en psychiatrie, en psychologie clinique et en santé mentale communautaire.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Psychopathology ; Philosophy of Psychiatry and Psychopathology ; Clinical Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : En psychologie clinique et en psychiatrie, la psychose désigne une perte de contact avec la réalité partagée, comme des hallucinations ou des idées délirantes. Cette page est un aperçu académique neutre.
+
+Penseurs et philosophes essentiels :
+
+- *Eugen Bleuler* : Psychiatre (penseur clé du domaine) ; a introduit le terme « schizophrénie » (1908).
+- *Emil Kraepelin* : Psychiatre (penseur clé du domaine) ; classification fondatrice des troubles mentaux.
+- *Karl Jaspers* : Psychiatre et philosophe ; Psychopathologie générale (1913).
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Mythological, Psychological, and Spiritual ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

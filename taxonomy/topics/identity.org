@@ -4,11 +4,88 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5818c8890ec21d77a0f05
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: identity
+:URL_PATH: taxonomy/topics/identity
+:ROAM_TITLE: IC/taxonomy/Research Topics/Identity
+:SITE_URL: https://research.dan.credit/taxonomy/topics/identity
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~identity
+:SYNC_HASH: 5b77c30b8abfc80d
+:SYNC_SOURCE: notion
 :END:
 #+title: Identity
 #+filetags: :Topic:Identity:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 1 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 1 sur 8 : Identité
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Personal identity asks what makes you the same person from one day, or one decade, to the next. Philosophers have pointed to the continuity of the body, to memory and psychological connection (an idea made famous by John Locke), and to the stories we tell about our own lives. Others, such as Derek Parfit, argue that identity matters less than we think, and that what matters is psychological continuity and connection.
+
+Today the question is shared by philosophy, psychology, and neuroscience. Researchers study how the brain builds a sense of self from the body, memory, and social life, and some argue that the self is a model the brain constructs rather than a fixed thing. A good way to begin is to compare the main accounts (body, memory, narrative, and "no-self" views) and to ask which one fits ordinary cases such as growing up, memory loss, or major life change.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]]
+
+- Related categories: [[id:41ea6574-40a5-819f-b654-ee337d3bae06][Philosophy of Mind]]
+
+- Tags: [[id:41ea6574-40a5-8147-9b88-c907fa4e16f2][Self and Identity]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this topic (1):
+
+- [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]] (section)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- Eric T. Olson, /Personal Identity/ (2002, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/identity-personal/][SEP entry]]
+- John Locke, /An Essay Concerning Human Understanding/ (1689; chapter "Of Identity and Diversity" added 1694). Classic source of the memory account of the self. [[https://standardebooks.org/ebooks/john-locke/an-essay-concerning-human-understanding][Free edition (Standard Ebooks)]]
+- Derek Parfit, /Reasons and Persons/ (1984). Oxford University Press.
+- Marya Schechtman, /The Constitution of Selves/ (1996). Cornell University Press.
+- Anil Seth, /Being You: A New Science of Consciousness/ (2021). Faber and Faber / Dutton.
+- Carsten Korfmacher, /Personal Identity/ (n.d.). Internet Encyclopedia of Philosophy entry. [[https://iep.utm.edu/person-i/][IEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=ezJSw0BRrTA][How does your brain create your sense of self? Part 1 with Anil Seth and Michael Pollan]]: Anil Seth and Michael Pollan. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=qh0qASdSsNY][Galen Strawson - What are Selves?]]: Galen Strawson. Channel: Closer To Truth.
+- [[https://www.youtube.com/watch?v=ZFjY1fAcESs][The Ego Tunnel: Prof. Dr. Thomas Metzinger at TEDxRheinMain]]: Thomas Metzinger. Channel: TEDx Talks.
+- [[https://www.youtube.com/watch?v=rt-1SntlTBg][Remember Who You Are: Personal Identity and Memory, Marya Schechtman]]: Marya Schechtman. Channel: The Royal Institute of Philosophy.
+- [[https://www.youtube.com/watch?v=e9IyiQFjxP4][The Self Illusion - Why There's No 'You' Inside Your Head - Prof Bruce Hood]]: Bruce Hood. Channel: The Weekend University.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+L'identité personnelle demande ce qui fait que vous êtes la même personne d'un jour, ou d'une décennie, à l'autre. Les philosophes ont invoqué la continuité du corps, la mémoire et le lien psychologique (une idée rendue célèbre par John Locke), ainsi que les récits que nous faisons de notre propre vie. D'autres, comme Derek Parfit, soutiennent que l'identité compte moins que nous le pensons, et que ce qui compte est la continuité et le lien psychologiques.
+
+Aujourd'hui, la question est partagée par la philosophie, la psychologie et les neurosciences. Les chercheurs étudient comment le cerveau construit un sentiment de soi à partir du corps, de la mémoire et de la vie sociale, et certains soutiennent que le soi est un modèle que le cerveau construit plutôt qu'une chose fixe. Pour commencer, il est utile de comparer les principales théories (le corps, la mémoire, le récit et les conceptions du « non-soi ») et de se demander laquelle convient aux cas ordinaires, comme le fait de grandir, la perte de mémoire ou un grand changement de vie.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (1), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

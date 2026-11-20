@@ -4,34 +4,54 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581b9a570d712ba7b0c36
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81c7-995b-f3bd6d933b10
 :PRIVATE_NOTION_ID: 41da657440a581c7995bf3bd6d933b10
+:SLUG: metaphilosophy
+:URL_PATH: philosophical/metaphilosophy
+:ROAM_TITLE: IC/Philosophical/Metaphilosophy
+:SITE_URL: https://research.dan.credit/philosophical/metaphilosophy
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~metaphilosophy
+:SYNC_HASH: bb0bb71d7731cc06
+:SYNC_SOURCE: notion
 :END:
 #+title: Metaphilosophy
 #+filetags: :public:Philosophical:Metaphysics_and_Epistemology:History_of_Ideas:Knowledge:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Metaphilosophy is philosophy about philosophy: its aims, methods and limits. It asks what philosophical questions are and how they can be answered.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Metaphilosophy is philosophy about philosophy: its aims, methods, and value.
 
-- [[id:41ea6574-40a5-81bc-962d-f9bdc64d31e3][Theories and Concepts]] (related page in this tree)
-- [[id:41ea6574-40a5-8146-ace5-e2caf9b8141a][Practical Philosophy]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581a78032dbc77068795e][Metaphilosophy]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5817fb313f9b6ac4bfff7][Philosophical Traditions]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Ludwig Wittgenstein*: Philosopher; Tractatus (1921) and Philosophical Investigations (1953), meaning as use.
+- *Socrates*: Philosopher; the examined life, known through Plato's dialogues.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : La métaphilosophie est la philosophie de la philosophie : ses buts, ses méthodes et ses limites. Elle demande ce que sont les questions philosophiques et comment y répondre.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Theories and Concepts ; Practical Philosophy ; Metaphilosophy ; Philosophical Traditions.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : La métaphilosophie est la philosophie de la philosophie : ses buts, ses méthodes et sa valeur.
+
+Penseurs et philosophes essentiels :
+
+- *Ludwig Wittgenstein* : Philosophe ; Tractatus (1921) et Recherches philosophiques (1953), le sens comme usage.
+- *Socrates* : Philosophe ; la vie examinée, connue par les dialogues de Platon.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

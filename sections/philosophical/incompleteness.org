@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581068399dece0d0ae8e9
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81b7-92e3-df7ac28f30a7
 :PRIVATE_NOTION_ID: 41da657440a581b792e3df7ac28f30a7
+:SLUG: incompleteness
+:URL_PATH: philosophical/incompleteness
+:ROAM_TITLE: IC/Philosophical/Incompleteness
+:SITE_URL: https://research.dan.credit/philosophical/incompleteness
+:FIRESTORE_PATH: ic_public/root/byPath/philosophical~incompleteness
+:SYNC_HASH: 493e946f700ce87c
+:SYNC_SOURCE: notion
 :END:
 #+title: Incompleteness
 #+filetags: :public:Philosophical:Logic_Language_and_Meaning:Logic_and_Mathematics:Knowledge:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Incompleteness refers chiefly to Gödel's incompleteness theorems, which show that any consistent formal system rich enough for arithmetic contains true statements it cannot prove. The topic raises questions about the limits of logic, mathematics and minds.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Incompleteness refers to Gödel's theorems, which show that consistent formal systems rich enough for arithmetic contain true statements they cannot prove.
 
-- [[id:41ea6574-40a5-816e-b01e-fa25747ab69d][Logic]] (related page in this tree)
+* Need-to-know philosophers and key thinkers
+
+- *Kurt Gödel*: Logician (key thinker in the field); the incompleteness theorems (1931).
+- *Bertrand Russell*: Philosopher and logician; Principia Mathematica (with Whitehead) and logical analysis.
+
+* Recommended readings (public pages)
+
+- [[id:41ea6574-40a5-8107-99bc-ec3e160a2ca8][Philosophical]] (parent page in this map)
 - [[https://app.notion.com/p/411a657440a581dda063cc2cb20c24dc][Thread: Infinity]] (public research thread)
-- [[https://app.notion.com/p/3eaa657440a58181ae32c3eaeacac5d1][Mathematical Logic & Foundations]] (Research Library topic)
-- [[https://app.notion.com/p/3eaa657440a5816e9be8dc7cda52e30e][Theory of Computation]] (Research Library topic)
-
-
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'incomplétude renvoie surtout aux théorèmes d'incomplétude de Gödel, qui montrent que tout système formel cohérent assez riche pour l'arithmétique contient des énoncés vrais qu'il ne peut pas démontrer. Le sujet soulève la question des limites de la logique, des mathématiques et de l'esprit.
-
-Lectures recommandées (titres conservés tels quels) : Logic ; Thread: Infinity ; Mathematical Logic & Foundations ; Theory of Computation.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'incomplétude renvoie aux théorèmes de Gödel, qui montrent que les systèmes formels cohérents assez riches pour l'arithmétique contiennent des énoncés vrais qu'ils ne peuvent pas démontrer.
+
+Penseurs et philosophes essentiels :
+
+- *Kurt Gödel* : Logicien (penseur clé du domaine) ; les théorèmes d'incomplétude (1931).
+- *Bertrand Russell* : Philosophe et logicien ; Principia Mathematica (avec Whitehead) et l'analyse logique.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Philosophical ; Thread: Infinity ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

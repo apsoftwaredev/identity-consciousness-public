@@ -4,11 +4,176 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58168bb90c1a6bb9e501a
 :VISIBILITY: public
 :TAXONOMY: Topic
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: mythological-psychological-spiritual
+:URL_PATH: taxonomy/topics/mythological-psychological-spiritual
+:ROAM_TITLE: IC/taxonomy/Research Topics/Mythological, Psychological, and Spiritual
+:SITE_URL: https://research.dan.credit/taxonomy/topics/mythological-psychological-spiritual
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~topics~mythological-psychological-spiritual
+:SYNC_HASH: a90c1e349aaa3c5b
+:SYNC_SOURCE: notion
 :END:
 #+title: Mythological, Psychological, and Spiritual
 #+filetags: :Topic:Mythological_Psychological_and_Spiritual:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Topic 7 of 8
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Sujet 7 sur 8 : Mythologique, psychologique et spirituel
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+This is the largest topic in the map. It brings together myth (the shared stories cultures tell about origins, heroes, and meaning), psychology (how people develop, learn, feel, and relate to one another), and spirituality (practices and experiences that people describe as sacred or transcendent). Thinkers such as William James, Carl Jung, Joseph Campbell, and Mircea Eliade studied how these areas meet.
+
+Current research approaches the topic from several directions: anthropologists study how belief and practice shape experience, psychologists study meaning, wellbeing, and habits, and scholars of religion compare traditions with care and respect. The pages here are neutral overviews, not endorsements of any belief. A good start is one classic (such as William James on religious experience) and one modern study, read side by side.
+
+* Where it sits in the tree
+
+- Parent section: [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]]
+
+- Related categories: [[id:41ea6574-40a5-81d6-b96c-c0f51f97f1bf][Ethics and Virtue]], [[id:41ea6574-40a5-8197-b192-f7938816fbf4][Metaphysics and Epistemology]], [[id:41ea6574-40a5-81a7-889f-f9bf40c4f957][Social and Political Philosophy]], [[id:41ea6574-40a5-810a-82a7-d3a45959f6aa][Psychology]], [[id:41ea6574-40a5-81ba-b4b2-e93fb7f57e0f][Clinical Psychology and Mental Health]], [[id:41ea6574-40a5-8181-90dd-f33652628835][Religion, Spirituality, and Myth]], [[id:41ea6574-40a5-8192-a10b-c205115982a0][Science, Mathematics, and Computing]], [[id:41ea6574-40a5-8130-9767-f7252df4755c][Culture and the Arts]]
+
+- Tags: [[id:41ea6574-40a5-812f-876e-fb12c522b501][Spirituality]], [[id:41ea6574-40a5-81d3-9702-fe6eb72648ab][Religion]], [[id:41ea6574-40a5-81fd-8ea0-dd1749dc2d05][Society and Politics]], [[id:41ea6574-40a5-8116-ac5f-d96dc37d045f][Emotion]], [[id:41ea6574-40a5-81b7-99f1-c077ab04366c][Development and Learning]], [[id:41ea6574-40a5-81e5-9b0e-e72472bd2925][Goals and Habits]], [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-8110-82f0-c26e334b753a][Knowledge]], [[id:41ea6574-40a5-814d-b64b-edec5c869222][Culture and Arts]], [[id:41ea6574-40a5-8191-a3d6-c92614bdd23c][Myth and Story]], [[id:41ea6574-40a5-8147-9b88-c907fa4e16f2][Self and Identity]], [[id:41ea6574-40a5-814c-ba7a-e1e71d09fbee][Mental Health]], [[id:41ea6574-40a5-8165-9a23-e9e0aacc2f8e][Meaning and Purpose]], [[id:41ea6574-40a5-8146-aecf-c84bfa3ffee9][Reality]], [[id:41ea6574-40a5-8129-9320-edbb22dbd70a][Creativity]], [[id:41ea6574-40a5-8141-97cc-f2d93458af86][Jungian Psychology]], [[id:41ea6574-40a5-819b-b732-e9a3d08305c7][Ethics]], [[id:41ea6574-40a5-81b6-a1e2-d72d1825e94d][Logic and Mathematics]], [[id:41ea6574-40a5-81a9-8f88-cfa2a324baf6][History of Ideas]], [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+*All 89 pages in this topic (open to browse)*
+
+- [[id:41ea6574-40a5-8179-bb70-d36484b4ccbe][Mythological, Psychological, and Spiritual]] (section)
+- [[id:41ea6574-40a5-81cb-aad0-c7307ab44d70][Chance and Luck]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81fe-bf3d-eb60de76a348][Community Mental Health Systems and Optimal Helping Strategies and Philosophy]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8137-8b40-dd7ab46c4c09][Creativity]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8172-993e-f27db2b000bc][Imagination]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-814b-a5ac-c4847db4ba3f][Lateral Thinking]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-81a9-9cef-fa5fcca92c7c][Synthesis]] (Mythological, Psychological, and Spiritual / Creativity)
+- [[id:41ea6574-40a5-81d6-bb3a-cb8d3361427d][Culture]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81b5-8be0-d00ed09bd0ce][Multiculturalism]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-8146-9797-fbad1e7a7a20][Music and The Arts]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-81dd-bb3f-c35b16a458ee][Philosophy]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-811a-98d9-e24e080cec0a][Pluralism]] (Mythological, Psychological, and Spiritual / Culture)
+- [[id:41ea6574-40a5-81c8-a565-eaa82393f367][Dreams]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-812c-b067-f86006acf0bd][Ego States]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81af-acc0-eca6b9e87f47][Empathy and Emotional Intelligence]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8120-8615-de59115f82fb][Existentialism]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8192-ab01-ca713c65bf45][Family Systems]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-811d-868c-def4bd4c2017][Games]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81fc-8192-fb8e420c147d][Goal Orientation and Attainment Strategies]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8100-8bee-ff1ca4a92624][Breaking Down to Smaller Steps]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-81fe-97f8-dd1750eca784][Daily Habits]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-815c-ab41-fee02b71db99][Dealing with Obstacles and Setbacks]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-81f2-8827-ef8a80f3d118][Learning From Mistakes]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-8173-80be-e84e0b931220][Visualization of Goals]] (Mythological, Psychological, and Spiritual / Goal Orientation and Attainment Strategies)
+- [[id:41ea6574-40a5-81a8-963d-f92baf8b7872][Good and Evil]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8136-b2b8-e79e45886229][Growth and Psychological Development]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81ed-a2b1-e7889f9c3978][Humor]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81ef-9732-da4cd7ca7e59][Identity Development]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8178-8d91-e538c5ac6c54][Inner Peace and Balance]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8188-8f3e-d29dd2c25414][Integration]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-814f-b219-d82618f7c47c][Intelligence and Cognitive Assessment]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81d8-947e-c733c1749fa5][Jung]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8160-880d-caf499264482][Archetypes]] (Mythological, Psychological, and Spiritual / Jung)
+- [[id:41ea6574-40a5-81c7-9c35-ebffcc54ba64][Magic]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-815c-9f52-db123baff2cf][Manifesting Realities]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8154-8b31-c4f8f2788c77][Meditation, Hypnosis, Prayer]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81f6-8d49-c4a924a1293b][Mythic Journeys]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-814f-8940-f36cfef23ba3][Narratives and Life Objectives]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8154-9478-e3920eeb3c09][Organizational Dynamics and Psychology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8128-8666-f942cdcaf4a1][Psychology of Beliefs and Behavior]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-817a-894e-df62279613ab][Extremes]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-8189-9508-ced9d27c303e][Habituation]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81f6-8877-dd831d04b7ac][Irrational Beliefs]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-8191-b995-ed1906dd3348][Mood States]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-816e-a970-fed075addde0][Anger]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-8144-8cc6-c6e20b274a16][Depression, Sadness, Loneliness, Isolation, Guilt, Shame, Frustration]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-816c-af06-d2e8dca6a1bb][Engaged Flow]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-817b-8364-eb1930e4f940][Joy]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-8115-9fe2-d6a48d320e52][Mania]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior / Mood States)
+- [[id:41ea6574-40a5-8184-a43c-fd58c91589ae][Self Imposed Limitations]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81b4-aff7-de42fde6e693][Systematic Behavioral Learning Process]] (Mythological, Psychological, and Spiritual / Psychology of Beliefs and Behavior)
+- [[id:41ea6574-40a5-81c0-80ac-e3184976aa09][Psychopathology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8175-bf3e-da2f474f3af5][Psychosis]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81ba-97d1-f76e638e56ac][Purpose and Meaning]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81e8-96dd-fca50fa78b2f][Religion and Spirituality]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81b4-81a7-fd6e1f70af26][Altered Consciousness]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8191-bcd0-cbd98e2673cb][Benefits of Music, Dance, Culture, Shared Communities, Belief Systems, Belonging]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-815d-bfd5-fe4d4cb1737d][Christianity]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81ed-80eb-e362fb98c3af][Thomas Aquinas]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Christianity)
+- [[id:41ea6574-40a5-8184-8d4e-cad6eb8c839d][Old and New Testament]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Christianity / Thomas Aquinas)
+- [[id:41ea6574-40a5-8147-9cb5-c3615eda7ae5][Contexts of Life and Death Cycles]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8166-87c0-ead8d9a5a08e][Negatives]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81fc-964d-ceca7ddda5d2][Cult Leaders]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-8149-8674-d986dfa37b36][Dogmatism]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-8146-9390-c45da4ba4fc7][Exclusion, Persecution of Minorities]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81ea-9c94-e187923bb51e][Exploitation]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81c6-8b5d-eb1a321fdeea][Following]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-812c-b14d-f64f47379771][Magical Thinking]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-81fd-bc12-d27b0c234498][Resistance to Change]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-815c-9779-d4091dad6a85][Rigidity and Conflict]] (Mythological, Psychological, and Spiritual / Religion and Spirituality / Negatives)
+- [[id:41ea6574-40a5-8156-b6a9-e7e1c1710626][Other Realms of Being]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-815f-849c-d5a71a65184e][Peak Awareness]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-81d8-be23-fe8f8c375bc4][Rituals]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-8114-9b5a-e832a8e76889][Theism, Atheism, Pantheism, Dao, Theology]] (Mythological, Psychological, and Spiritual / Religion and Spirituality)
+- [[id:41ea6574-40a5-817b-8825-c972bde663ca][Role Modeling and Leadership]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81a4-b8b1-c85245c8a1b3][Science and Non Science]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8109-a088-e0876e2303cb][Social Psychology]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-817e-b18a-f7b38f04bc3b][The Self and Relationships with Others]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81fa-b376-db234bb83f3d][The Under Consciousness]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-8122-9ad7-fb9830a645ed][Primitive Drives]] (Mythological, Psychological, and Spiritual / The Under Consciousness)
+- [[id:41ea6574-40a5-81e7-8b9a-d07b31bf8bf9][The Upper Consciousness]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-819a-b10f-c9918a713ed0][Attainment / Moving Between Levels]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-81d4-9666-f18ce8ad000c][Communities in The Clouds]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-819b-b506-d4396daaf4fe][Guidance from Above]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-8174-89e2-f066cf93bee8][Higher Consciousness]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-811c-842e-dd46d0826948][Higher Selves]] (Mythological, Psychological, and Spiritual / The Upper Consciousness)
+- [[id:41ea6574-40a5-8103-a784-d42d20d6b9a8][Theories of Learning]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-81cc-9c09-f06023bfe944][Theories of Personality and Personality Assessment]] (Mythological, Psychological, and Spiritual)
+- [[id:41ea6574-40a5-813c-86d5-d6e826e74381][What is reality?]] (Mythological, Psychological, and Spiritual)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- William James, /The Varieties of Religious Experience/ (1902). Gifford Lectures. [[https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience][Free edition (Standard Ebooks)]]
+- Joseph Campbell, /The Hero with a Thousand Faces/ (1949). Pantheon.
+- Carl G. Jung and others, /Man and His Symbols/ (1964). Doubleday.
+- Mircea Eliade, /The Sacred and the Profane: The Nature of Religion/ (1957; English 1959). Harcourt.
+- Karen Armstrong, /A Short History of Myth/ (2005). Canongate.
+- Mark Webb, /Religious Experience/ (2011, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/religious-experience/][SEP entry]]
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=SJMm4RAwVLo][Karen Armstrong: 2008 TED Prize wish: Charter for Compassion]]: Karen Armstrong. Channel: TED.
+- [[https://www.youtube.com/watch?v=DloTO-SwFZA][When God Talks Back | Tanya Luhrmann | TEDxStanford]]: Tanya Luhrmann. Channel: TEDx Talks.
+- [[https://www.youtube.com/watch?v=M7utPlqnXV0][Neuroscience of Spirituality | Dr. Lisa Miller, Columbia University]]: Lisa Miller. Channel: Lead With Love.
+- [[https://www.youtube.com/watch?v=CQoenP93kb8]["C.G. Jung, Individuation and the Red Book": Murray Stein in conversation with Stefano Carpani]]: Murray Stein, with Stefano Carpani. Channel: Dr. Stefano Carpani.
+- [[https://www.youtube.com/watch?v=vJZTrVlSBTY][Robert Wright, "Why Buddhism Is True"]]: Robert Wright. Channel: Politics and Prose.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+C'est le plus grand sujet de la carte. Il réunit le mythe (les récits partagés par les cultures sur les origines, les héros et le sens), la psychologie (la manière dont les personnes se développent, apprennent, ressentent et entrent en relation) et la spiritualité (des pratiques et des expériences que l'on décrit comme sacrées ou transcendantes). Des penseurs comme William James, Carl Jung, Joseph Campbell et Mircea Eliade ont étudié la rencontre de ces domaines.
+
+La recherche actuelle aborde le sujet sous plusieurs angles : les anthropologues étudient comment la croyance et la pratique façonnent l'expérience, les psychologues étudient le sens, le bien-être et les habitudes, et les spécialistes des religions comparent les traditions avec soin et respect. Les pages présentées ici sont des aperçus neutres, et non l'adhésion à une croyance. Pour commencer, on peut lire un classique (comme William James sur l'expérience religieuse) et une étude moderne, côte à côte.
+
+Place dans l'arborescence : section parente, catégories liées, étiquettes et pages de ce sujet (89), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./

@@ -3,15 +3,34 @@
 :NOTION_ID: 41ea657440a58152a122cafb3b4c1b59
 :NOTION_URL: https://app.notion.com/p/41ea657440a58152a122cafb3b4c1b59
 :VISIBILITY: public
+:SLUG: version-history
+:URL_PATH: versions/version-history
+:ROAM_TITLE: IC/versions/Version history
+:SITE_URL: https://research.dan.credit/versions/version-history
+:FIRESTORE_PATH: ic_public/root/byPath/versions~version-history
+:SYNC_HASH: 662f7cbc9e9a5c1e
+:SYNC_SOURCE: notion
 :END:
 #+title: Version history
 #+filetags: :Version_history:
+#+language: en
+#+startup: overview
 
 Public change log for the Identity and Consciousness map.
 Each public page shows its own Version and Last public update at the top.
 
 * Français / French :FRENCH:
 Journal public des modifications de cette carte.
+
+* v1.1 (2026-11-19 · Consciousness discussion)
+:PROPERTIES:
+:ID: 41ea6574-40a5-8101-9da0-d1403ab2fd56
+:NOTION_ID: 41ea657440a581019da0d1403ab2fd56
+:END:
+- Updated: 2026-11-19 5:24 PM PT
+- Pages changed: 2026-11-19 · Consciousness discussion: 1.0 → 1.1
+
+Added Daniel's Ethos section (six points: verifying consciousness, rest and gratitude, kindness, helping others, advocacy, making it nice), with French toggle. Page bumped from 1.0 to 1.1. / Ajout de la section Éthos de Daniel (six points), avec traduction française ; page passée de 1.0 à 1.1.
 
 * v1.0
 :PROPERTIES:
@@ -23,12 +42,42 @@ Journal public des modifications de cette carte.
 
 Initial publication of the public Identity and Consciousness map: landing page, 11 Categories, 8 Topics, 32 Tags, 164 mirrored topic pages at Version 1.0, grouped views by Category, Topic, and Tag, and the 2026-11-19 Consciousness discussion page (first published 5:10 PM PT). / Publication initiale de la carte publique ; toutes les pages commencent à la version 1.0.
 
-* v1.1 (2026-11-19 · Consciousness discussion)
+* Landing page v1.1
 :PROPERTIES:
-:ID: 41ea6574-40a5-8101-9da0-d1403ab2fd56
-:NOTION_ID: 41ea657440a581019da0d1403ab2fd56
+:ID: 41ea6574-40a5-81b2-8d7d-efc11d7ada17
+:NOTION_ID: 41ea657440a581b28d7defc11d7ada17
 :END:
-- Updated: 2026-11-19 5:24 PM PT
-- Pages changed: 2026-11-19 · Consciousness discussion: 1.0 → 1.1
+- Updated: 2026-11-19 6:20 PM PT
+- Pages changed: Identity and Consciousness: Public Research Map (landing page)
 
-Added Daniel's Ethos section (six points: verifying consciousness, rest and gratitude, kindness, helping others, advocacy, making it nice), with French toggle. Page bumped from 1.0 to 1.1. / Ajout de la section Éthos de Daniel (six points), avec traduction française ; page passée de 1.0 à 1.1.
+Added a cover photo: the James Webb Space Telescope's Cosmic Cliffs in the Carina Nebula (NASA, ESA, CSA, STScI). / Ajout d'une image de couverture : les Falaises cosmiques de la nébuleuse de la Carène (télescope James Webb).
+
+* Batch cover and icon update
+:PROPERTIES:
+:ID: 41ea6574-40a5-814e-a371-c0e748dea4da
+:NOTION_ID: 41ea657440a5814ea371c0e748dea4da
+:END:
+- Updated: 2026-11-19 6:30 PM PT
+- Pages changed: All public map pages (165), setup guide, taxonomy pages (8 topics, 11 categories, 32 tags), and the landing page
+
+Added the same Webb Cosmic Cliffs cover to every public page in the research tree, and added icons to pages that had none. Existing icons were kept. No text, titles, or sharing were changed. / Ajout de la même couverture des Falaises cosmiques (Webb) à toutes les pages publiques de l'arbre de recherche, et ajout d'icônes aux pages qui n'en avaient pas. Les icônes existantes ont été conservées. Aucun texte, titre ou paramètre de partage n'a été modifié.
+
+* Topic and category guides
+:PROPERTIES:
+:ID: 41ea6574-40a5-813c-9596-fed379829f67
+:NOTION_ID: 41ea657440a5813c9596fed379829f67
+:END:
+- Updated: 2026-11-19 7:00 PM PT
+- Pages changed: Topics (8): Identity; Consciousness; Virtues; Ethics; Philosophical; Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers; Mythological, Psychological, and Spiritual; Biological and Neurological. Categories (11): Philosophy of Mind; Ethics and Virtue; Metaphysics and Epistemology; Logic, Language, and Meaning; Social and Political Philosophy; Psychology; Clinical Psychology and Mental Health; Religion, Spirituality, and Myth; Science, Mathematics, and Computing; Biology and Neuroscience; Culture and the Arts.
+
+Added a guide to every topic and category page: a short summary for newcomers, where the page sits in the tree (parent sections, related topics or categories, tags, and links to its public pages), a starter reading list, verified YouTube lectures by living scholars, and a standard footer. New properties: Summary, Sections, Tags, related Topics or Categories, Version, Last public update. Existing content kept. / Ajout d'un guide sur chaque page de sujet et de catégorie : un court résumé pour débutants, la place de la page dans l'arborescence (sections parentes, sujets ou catégories liés, étiquettes et liens vers ses pages publiques), une liste de lecture de départ, des conférences YouTube vérifiées de chercheurs vivants et un pied de page standard. Nouvelles propriétés : Summary, Sections, Tags, sujets ou catégories liés, Version, Last public update. Contenu existant conservé.
+
+* Shared footer refreshed with current site tree
+:PROPERTIES:
+:ID: 41ea6574-40a5-81f3-adee-cb4e482189b2
+:NOTION_ID: 41ea657440a581f3adeecb4e482189b2
+:END:
+- Updated: 2026-11-19 7:32 PM PT
+- Pages changed: Shared footer (on all public pages that show it, 560). Newly added (11): landing page; 8 sections; two other public pages. Custom footer replaced (19): 8 topics and 11 categories.
+
+Shared footer refreshed with current site tree. The shared site footer now includes the current public tree (landing page, 8 sections, 8 topics, 11 categories, tags index, version history, setup guide, hub) and a short note on the public and private structure, with a French toggle. Cosmetic batch: page versions were not changed. / Le pied de page commun comprend maintenant l'arborescence publique actuelle, avec une version française. Changement cosmétique : les versions des pages restent inchangées.

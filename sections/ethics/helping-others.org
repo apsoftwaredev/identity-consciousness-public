@@ -4,34 +4,56 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581119708ea45ff11f8e9
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81bd-a0f8-d95cd617dc78
 :PRIVATE_NOTION_ID: 41da657440a581bda0f8d95cd617dc78
+:SLUG: helping-others
+:URL_PATH: ethics/helping-others
+:ROAM_TITLE: IC/Ethics/Helping Others
+:SITE_URL: https://research.dan.credit/ethics/helping-others
+:FIRESTORE_PATH: ic_public/root/byPath/ethics~helping-others
+:SYNC_HASH: babfd039bb0100e1
+:SYNC_SOURCE: notion
 :END:
 #+title: Helping Others
 #+filetags: :public:Ethics:Ethics_and_Virtue:Community:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Helping others covers altruism, prosocial behavior and service. Psychology studies why people help and how helping affects both the giver and the receiver.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Helping others covers altruism, empathy, and the duties and motives behind assistance.
 
-- [[id:41ea6574-40a5-8117-991b-f6756a6ca4e6][Giving Back]] (related page in this tree)
-- [[id:41ea6574-40a5-8184-8d4e-cad6eb8c839d][Old and New Testament]] (related page in this tree)
-- [[id:41ea6574-40a5-81fe-bf3d-eb60de76a348][Community Mental Health Systems and Optimal Helping Strategies and Philosophy]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581ae9efbeebdb3a4ed7d][Social Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *C. Daniel Batson*: Psychologist (key thinker in the field); the empathy-altruism hypothesis.
+- *Peter Singer*: Philosopher; "Famine, Affluence, and Morality" (1972) and The Life You Can Save (2009).
+- *Mencius*: Confucian philosopher; the innate goodness of human nature and the four sprouts.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Aider les autres recouvre l'altruisme, le comportement prosocial et le service. La psychologie étudie pourquoi les personnes aident et comment l'aide touche à la fois celui qui donne et celui qui reçoit.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Giving Back ; Old and New Testament ; Community Mental Health Systems and Optimal Helping Strategies and Philosophy ; Social Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8178-afb4-cd5cd9ddc40c][Ethics]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Aider les autres recouvre l'altruisme, l'empathie, ainsi que les devoirs et motifs qui sous-tendent l'aide.
+
+Penseurs et philosophes essentiels :
+
+- *C. Daniel Batson* : Psychologue (penseur clé du domaine) ; l'hypothèse empathie-altruisme.
+- *Peter Singer* : Philosophe ; « Famine, Affluence, and Morality » (1972) et Sauver une vie (2009).
+- *Mencius* : Philosophe confucéen ; la bonté innée de la nature humaine et les quatre germes.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Ethics ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58191a3d6c92614bdd23c
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: myth-and-story
+:URL_PATH: taxonomy/tags/myth-and-story
+:ROAM_TITLE: IC/taxonomy/Research Tags/Myth and Story
+:SITE_URL: https://research.dan.credit/taxonomy/tags/myth-and-story
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~myth-and-story
+:SYNC_HASH: 9177c267d46747cb
+:SYNC_SOURCE: notion
 :END:
 #+title: Myth and Story
 #+filetags: :Tag:Myth_and_Story:
+#+language: en
+#+startup: overview
 
 Tag
 

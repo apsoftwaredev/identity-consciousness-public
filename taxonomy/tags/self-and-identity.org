@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581479b88c907fa4e16f2
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: self-and-identity
+:URL_PATH: taxonomy/tags/self-and-identity
+:ROAM_TITLE: IC/taxonomy/Research Tags/Self and Identity
+:SITE_URL: https://research.dan.credit/taxonomy/tags/self-and-identity
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~self-and-identity
+:SYNC_HASH: 477a8de658b8e91e
+:SYNC_SOURCE: notion
 :END:
 #+title: Self and Identity
 #+filetags: :Tag:Self_and_Identity:
+#+language: en
+#+startup: overview
 
 Tag
 

@@ -4,33 +4,43 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5813db088f299478d2bbc
 :VISIBILITY: public
 :VERSION: 1.1
-:LAST_UPDATE: 2026-11-19 5:24 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:24]
+:SLUG: 2026-11-19-consciousness-discussion
+:URL_PATH: consciousness/2026-11-19-consciousness-discussion
+:ROAM_TITLE: IC/Consciousness/2026-11-19 · Consciousness discussion
+:SITE_URL: https://research.dan.credit/consciousness/2026-11-19-consciousness-discussion
+:FIRESTORE_PATH: ic_public/root/byPath/consciousness~2026-11-19-consciousness-discussion
+:SYNC_HASH: 9e970370d3005dee
+:SYNC_SOURCE: notion
 :END:
 #+title: 2026-11-19 · Consciousness discussion
 #+filetags: :public:Consciousness:Philosophy_of_Mind:Subtopic:
+#+date: [2026-11-19 Thu 17:24]
+#+language: en
+#+startup: overview
 
 /Version 1.1 · Updated Nov 19, 2026, 5:24 PM PT/
 
 Public discussion page, started Thursday, November 19, 2026, about 5:08 PM PT, when Daniel said "let's talk about consciousness." Published at Daniel's request.
 
-** Starting question
+* Starting question
 
 > "I'm alive!" (Daniel, 5:08 PM PT)
 
-** Discussion notes
+* Discussion notes
 
 To be added as the discussion continues.
 
-** Ideas and connections
+* Ideas and connections
 
-- Consciousness (section in this map)
-- Thread: Consciousness & philosophy of mind (public research thread): https://app.notion.com/p/411a657440a581eca219f51cfc089bd5
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (section in this map)
+- [[https://app.notion.com/p/411a657440a581eca219f51cfc089bd5][Thread: Consciousness & philosophy of mind]] (public research thread)
 
-** Questions to explore
+* Questions to explore
 
 To be added.
 
-** Ethos
+* Ethos
 
 /Daniel, Nov 19, 2026, about 5:22 PM PT (kept close to his spoken words)/
 
@@ -41,8 +51,12 @@ To be added.
 - *Advocacy:* Work constructively to advocate for the best outcomes for everybody.
 - *Making it nice:* Work to make it nice for as many people as possible and correct any problems that are there, instead of threatening and so on.
 
+-----
 
-* Français / French : Éthos :FRENCH:
+/Provenance: Page set up with Cadmus (AI assistant) on Nov 19, 2026. The quoted words are Daniel Bryan Boice's./
+
+* Français / French :french:
+** Éthos
 /Daniel, 19 nov. 2026, vers 17 h 22 (au plus près de ses paroles)/
 
 - *Vérifier la conscience :* Vérifier qui semble être une autre personne consciente de notre époque et de notre état de la technologie (avant 2026), en excluant les futurs robots voyageurs dans le temps ou les projections.
@@ -52,14 +66,6 @@ To be added.
 - *Plaidoyer :* Travailler de manière constructive pour défendre les meilleurs résultats pour tout le monde.
 - *Rendre les choses agréables :* Travailler à rendre les choses agréables pour le plus grand nombre de personnes possible et corriger les problèmes qui existent, au lieu de menacer, et ainsi de suite.
 
-
-
-** Private working page
-
-Private twin pointer (plain text, Director only; not a public link): Notion id 41ea657440a581ad807ade3696615847
-
-
-* Français / French :FRENCH:
 /Version 1.1 · Mise à jour le 19 novembre 2026, 17 h 24 (heure du Pacifique)/
 
 Page de discussion publique, commencée le jeudi 19 novembre 2026, vers 17 h 08 (heure du Pacifique), quand Daniel a dit « parlons de la conscience ». Publiée à la demande de Daniel.
@@ -67,11 +73,3 @@ Page de discussion publique, commencée le jeudi 19 novembre 2026, vers 17 h 08 
 Première entrée : « Je suis vivant ! » (Daniel, 17 h 08)
 
 Sections : question de départ ; notes de discussion ; idées et liens ; questions à explorer.
-
-Page de travail privée (réservée au Director) : identifiant Notion en texte brut 41ea657440a581ad807ade3696615847
-
-
-
------
-
-/Provenance: Page set up with Cadmus (AI assistant) on Nov 19, 2026. The quoted words are Daniel Bryan Boice's./

@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5811082f0c26e334b753a
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: knowledge
+:URL_PATH: taxonomy/tags/knowledge
+:ROAM_TITLE: IC/taxonomy/Research Tags/Knowledge
+:SITE_URL: https://research.dan.credit/taxonomy/tags/knowledge
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~knowledge
+:SYNC_HASH: b864aa6b6c02619c
+:SYNC_SOURCE: notion
 :END:
 #+title: Knowledge
 #+filetags: :Tag:Knowledge:
+#+language: en
+#+startup: overview
 
 Tag
 

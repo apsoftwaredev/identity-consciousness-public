@@ -4,9 +4,18 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581a98f88cfa2a324baf6
 :VISIBILITY: public
 :TAXONOMY: Tag
+:SLUG: history-of-ideas
+:URL_PATH: taxonomy/tags/history-of-ideas
+:ROAM_TITLE: IC/taxonomy/Research Tags/History of Ideas
+:SITE_URL: https://research.dan.credit/taxonomy/tags/history-of-ideas
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~tags~history-of-ideas
+:SYNC_HASH: 39e85db971fb9cea
+:SYNC_SOURCE: notion
 :END:
 #+title: History of Ideas
 #+filetags: :Tag:History_of_Ideas:
+#+language: en
+#+startup: overview
 
 Tag
 

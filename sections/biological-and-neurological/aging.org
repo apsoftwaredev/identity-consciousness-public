@@ -4,33 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a581c2821edf21d992a0af
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-811f-a4a1-f9dfda786c1f
 :PRIVATE_NOTION_ID: 41da657440a5811fa4a1f9dfda786c1f
+:SLUG: aging
+:URL_PATH: biological-and-neurological/aging
+:ROAM_TITLE: IC/Biological and Neurological/Aging
+:SITE_URL: https://research.dan.credit/biological-and-neurological/aging
+:FIRESTORE_PATH: ic_public/root/byPath/biological-and-neurological~aging
+:SYNC_HASH: fc56c2a1999f76c5
+:SYNC_SOURCE: notion
 :END:
 #+title: Aging
 #+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Health_and_Aging:Development_and_Learning:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Aging is the gradual biological, psychological and social change across the later lifespan. The topic covers health, cognition, wisdom and meaning in later life.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Aging covers the biological, psychological, and social changes of growing older.
 
-- [[id:41ea6574-40a5-81c3-a29d-f07102ebd6be][Lifecycle Stages]] (related page in this tree)
-- [[id:41ea6574-40a5-8147-9cb5-c3615eda7ae5][Contexts of Life and Death Cycles]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a581d3876af9ddcc2c2004][Developmental Psychology]] (Research Library topic)
+* Need-to-know philosophers and key thinkers
 
+- *Paul Baltes*: Psychologist (key thinker in the field); life-span developmental psychology.
+- *Laura Carstensen*: Psychologist (key thinker in the field); socioemotional selectivity theory of aging.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : Le vieillissement est le changement biologique, psychologique et social progressif de la fin de la vie. Le sujet couvre la santé, la cognition, la sagesse et le sens dans les dernières étapes de la vie.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Lifecycle Stages ; Contexts of Life and Death Cycles ; Developmental Psychology.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (parent page in this map)
+- [[https://app.notion.com/p/411a657440a581c6ae95df281db23be3][Thread: Lifelong learning & languages]] (public research thread)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : Le vieillissement couvre les changements biologiques, psychologiques et sociaux liés à l'avancée en âge.
+
+Penseurs et philosophes essentiels :
+
+- *Paul Baltes* : Psychologue (penseur clé du domaine) ; psychologie du développement sur la vie entière.
+- *Laura Carstensen* : Psychologue (penseuse clé du domaine) ; théorie de la sélectivité socio-émotionnelle du vieillissement.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Biological and Neurological ; Thread: Lifelong learning & languages ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

@@ -3,35 +3,45 @@
 :NOTION_ID: 41ea657440a58183bd6be4d148ab2374
 :NOTION_URL: https://app.notion.com/p/41ea657440a58183bd6be4d148ab2374
 :VISIBILITY: public
-:VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:23 PM PT
+:VERSION: 1.1
+:LAST_UPDATE: [2026-11-19 Thu 18:20]
+:SLUG: identity-and-consciousness-public-research-map
+:URL_PATH: identity-and-consciousness-public-research-map
+:ROAM_TITLE: IC/Identity and Consciousness: Public Research Map
+:SITE_URL: https://research.dan.credit/identity-and-consciousness-public-research-map
+:FIRESTORE_PATH: ic_public/root/byPath/identity-and-consciousness-public-research-map
+:SYNC_HASH: 6ebc50aa772d639c
+:SYNC_SOURCE: notion
 :END:
 #+title: Identity and Consciousness: Public Research Map
 #+filetags: :public:
+#+date: [2026-11-19 Thu 18:20]
+#+language: en
+#+startup: overview
 
-/Version 1.0 · Updated Nov 19, 2026/
+/Version 1.1 · Updated Nov 19, 2026, 6:20 PM PT/
 
 This is Daniel Bryan Boice's research topic map on identity and consciousness. He started it in 2021 in Roam Research as an Adaptive Philosophy topic map, and it is published here as an open, in-progress map. Each topic has its own page with a short overview, need-to-know philosophers and key thinkers, and readings that link to other public pages.
 
 Public guide on how to hook up a Grok bot to Notion and how to copy this research system: https://app.notion.com/p/41ea657440a58116ba97df91737716c9
 
-** Featured
+* Featured
 
 - 2026-11-19 · Consciousness discussion: a new public discussion, starting with "I'm alive!"
 
-** How to browse
+* How to browse
 
 - *Sections* below follow the original map, like folders. Each page lists its sub-pages.
 - *Topic*, *Category*, and *Tags* chips at the top of every page are clickable in Notion. In this Org-mode tree they appear as filetags and as pages under taxonomy/.
 
-** Sections
+* Sections
 
 The eight top-level sections are in the sections/ folder of this tree: Identity; Consciousness; Virtues; Ethics; Philosophical; Quantum Physics, Mathematics and Statistics, Data Science, AI, and Computers; Mythological, Psychological, and Spiritual; Biological and Neurological.
 
-** Topics, Categories, and Tags
+* Topics, Categories, and Tags
 
 See taxonomy/topics/, taxonomy/categories/, and taxonomy/tags/. This snapshot has 8 Topics, 11 Categories, and 32 Tags.
 
-** Version history
+* Version history
 
 See versions/version-history.org for the public change log.

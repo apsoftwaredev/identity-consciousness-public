@@ -4,34 +4,55 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a58102a30bf1838993b6d6
 :VISIBILITY: public
 :VERSION: 1.0
-:LAST_UPDATE: 2026-11-19 5:07 PM PT
+:LAST_UPDATE: [2026-11-19 Thu 17:07]
 :PRIVATE_TWIN: 41da6574-40a5-81ce-ba1b-db767cf4469e
 :PRIVATE_NOTION_ID: 41da657440a581ceba1bdb767cf4469e
+:SLUG: adaptation
+:URL_PATH: biological-and-neurological/adaptation
+:ROAM_TITLE: IC/Biological and Neurological/Adaptation
+:SITE_URL: https://research.dan.credit/biological-and-neurological/adaptation
+:FIRESTORE_PATH: ic_public/root/byPath/biological-and-neurological~adaptation
+:SYNC_HASH: f5cdec635ae64f32
+:SYNC_SOURCE: notion
 :END:
 #+title: Adaptation
 #+filetags: :public:Biological_and_Neurological:Biology_and_Neuroscience:Evolution_and_Adaptation:Subtopic:
+#+date: [2026-11-19 Thu 17:07]
+#+language: en
+#+startup: overview
 
-** Summary
+* Summary
 
-Topic overview (Daniel's notes not yet written): Adaptation is the process of adjusting to an environment, in biology through natural selection and in psychology through learning and coping. It also gives Adaptive Philosophy its name.
+*Topic overview (Daniel's notes not yet written)*
 
-** Recommended readings
+Adaptation is how organisms, and minds, adjust to their environments.
 
-- [[id:41ea6574-40a5-811c-bfeb-df15c20e0cd5][Evolution]] (related page in this tree)
-- [[id:41ea6574-40a5-81d5-974a-d5add371f8e2][Adaptive Philosophy]] (related page in this tree)
-- [[https://app.notion.com/p/3eaa657440a58159abf7e2ad97468eba][Philosophy of Biology]] (Research Library topic)
-- [[https://app.notion.com/p/405a657440a58188951bdd8d68d7cb3b][The Bigger Picture: Why We Care]] (public research page)
+* Need-to-know philosophers and key thinkers
 
+- *Charles Darwin*: Naturalist (key thinker in the field); On the Origin of Species (1859).
+- *Jean Piaget*: Psychologist (key thinker in the field); stages of cognitive development.
 
-* Français / French :FRENCH:
-Résumé : Aperçu du sujet (notes de Daniel pas encore rédigées) : L'adaptation est le processus d'ajustement à un environnement, en biologie par la sélection naturelle et en psychologie par l'apprentissage et la capacité à faire face. Elle donne aussi son nom à Adaptive Philosophy.
+* Recommended readings (public pages)
 
-Lectures recommandées (titres conservés tels quels) : Evolution ; Adaptive Philosophy ; Philosophy of Biology ; The Bigger Picture: Why We Care.
-
-Résumé et lectures ajoutés par Cadmus (IA) le 19 novembre 2026.
-
-
-
-*Summary and readings added by Cadmus (AI) on Nov 19, 2026.*
+- [[id:41ea6574-40a5-8101-882e-d0d08c1ca109][Biological and Neurological]] (parent page in this map)
+- [[https://app.notion.com/p/405a657440a58185a1e5d8bb1e0f7ff0][Animals: Consciousness, Welfare & Rights]] (public research page)
+- [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] (public map of research threads)
 
 -----
+
+/Provenance: Layout prepared with Cadmus (AI assistant) on Nov 19, 2026, from Daniel's Roam topic map; topics and ideas are Daniel Bryan Boice's. Summaries and thinker lists are general AI-prepared overviews, not Daniel's own views. Use the Topic, Category, and Tags chips above to browse related pages./
+
+* Français / French :french:
+*Aperçu du sujet (les notes de Daniel ne sont pas encore rédigées)*
+
+Résumé : L'adaptation est la manière dont les organismes, et les esprits, s'ajustent à leur environnement.
+
+Penseurs et philosophes essentiels :
+
+- *Charles Darwin* : Naturaliste (penseur clé du domaine) ; L'Origine des espèces (1859).
+- *Jean Piaget* : Psychologue (penseur clé du domaine) ; stades du développement cognitif.
+
+Lectures recommandées (pages publiques, titres conservés tels quels) : Biological and Neurological ; Animals: Consciousness, Welfare & Rights ; Research Threads (map of my mind).
+
+
+Mise en page préparée avec Cadmus (assistant IA) le 19 novembre 2026 à partir de la carte Roam de Daniel ; les sujets et les idées sont ceux de Daniel Bryan Boice. Les résumés et les listes de penseurs sont des aperçus généraux préparés par l'IA, et non les opinions de Daniel.

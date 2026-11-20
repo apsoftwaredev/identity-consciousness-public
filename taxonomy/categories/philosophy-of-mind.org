@@ -4,11 +4,100 @@
 :NOTION_URL: https://app.notion.com/p/41ea657440a5819fb654ee337d3bae06
 :VISIBILITY: public
 :TAXONOMY: Category
+:VERSION: 1.0
+:LAST_UPDATE: [2026-11-19 Thu 18:56]
+:SLUG: philosophy-of-mind
+:URL_PATH: taxonomy/categories/philosophy-of-mind
+:ROAM_TITLE: IC/taxonomy/Research Categorys/Philosophy of Mind
+:SITE_URL: https://research.dan.credit/taxonomy/categories/philosophy-of-mind
+:FIRESTORE_PATH: ic_public/root/byPath/taxonomy~categories~philosophy-of-mind
+:SYNC_HASH: 77e61dd62130bbde
+:SYNC_SOURCE: notion
 :END:
 #+title: Philosophy of Mind
 #+filetags: :Category:Philosophy_of_Mind:
+#+date: [2026-11-19 Thu 18:56]
+#+language: en
+#+startup: overview
 
+* About
 Consciousness, self, and the nature of mind.
 
-* Français / French :FRENCH:
+** Français / French :FRENCH:
 Conscience, soi et nature de l'esprit.
+
+/Version 1.0 · Updated Nov 19, 2026, 6:56 PM PT/
+
+* Summary
+
+Philosophy of mind studies what minds are and how they relate to bodies, brains, and the world. Classic positions include dualism (mind and matter are distinct, as René Descartes argued), physicalism (everything mental is ultimately physical), and functionalism (mental states are defined by what they do). Questions about consciousness, the self, perception, and mental content all belong here.
+
+The field now works closely with cognitive science and neuroscience. Recent ideas include the extended mind (the view that tools and environment can be part of thinking), predictive processing (the brain as a prediction machine), and renewed debate about panpsychism and illusionism. A good start is one encyclopedia entry on functionalism and one short paper, such as "The Extended Mind."
+
+* Where it sits in the tree
+
+- Parent sections: [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]], [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]]
+
+- Related topics: [[id:41ea6574-40a5-818c-8890-ec21d77a0f05][Identity]], [[id:41ea6574-40a5-811c-aa3e-f1d496fa2f24][Consciousness]]
+
+- Tags: [[id:41ea6574-40a5-81fb-8c8f-f4e6aef50c67][Consciousness]], [[id:41ea6574-40a5-8144-8895-da05a294674b][Language and Communication]], [[id:41ea6574-40a5-816a-a51b-fe28850fbcd1][Community]], [[id:41ea6574-40a5-815e-a9e3-d40e6e3888b9][Mind and Machines]], [[id:41ea6574-40a5-81b5-adec-e04d4abcfa21][Computing and AI]], [[id:41ea6574-40a5-81af-9f24-cdbd823fa05f][Time and Space]], [[id:41ea6574-40a5-8181-96f9-d2f21af3dd33][Brain and Nervous System]], [[id:41ea6574-40a5-8146-aecf-c84bfa3ffee9][Reality]], [[id:41ea6574-40a5-8147-9b88-c907fa4e16f2][Self and Identity]]
+
+- Map landing page: [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]]
+
+Pages in this category (13):
+
+- [[id:41ea6574-40a5-811c-8406-dfb3d9256039][Consciousness]] (section)
+- [[id:41ea6574-40a5-813d-b088-f299478d2bbc][2026-11-19 · Consciousness discussion]] (Consciousness)
+- [[id:41ea6574-40a5-81c0-beb2-c15c38c74013][Community of Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-8134-97e3-f0ca611af725][Consciousness and Communication]] (Consciousness)
+- [[id:41ea6574-40a5-819d-8ffc-fb497b86149c][Consciousness and Location]] (Consciousness)
+- [[id:41ea6574-40a5-8100-9576-e648dfb52935][Consciousness and Machines / Nonorganic Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-81fa-b9c0-d4bc408259e8][Flow of Consciousness in Person, Place, Time]] (Consciousness)
+- [[id:41ea6574-40a5-8174-87f9-c84898d04149][Problems Defining]] (Consciousness)
+- [[id:41ea6574-40a5-8101-b42c-d0fbf2e53424][Theories of Consciousness, maps of current controversies]] (Consciousness)
+- [[id:41ea6574-40a5-81ad-9061-fd84b1f3042b][Types of Consciousness]] (Consciousness)
+- [[id:41ea6574-40a5-8103-9523-d47caeef0b50][What is consciousness?]] (Consciousness)
+- [[id:41ea6574-40a5-81ab-a84b-ee21804bca9b][Why is there consciousness?]] (Consciousness)
+- [[id:41ea6574-40a5-81f8-b858-ff6bb853bad3][Identity]] (section)
+
+* Start here: reading list
+
+A short starting list that mixes classic and current works. Encyclopedia entries (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) are free, reliable first stops.
+
+- René Descartes, /Meditations on First Philosophy/ (1641). Classic statement of mind and body as distinct. [[https://plato.stanford.edu/entries/descartes-epistemology/][SEP guide: Descartes' Epistemology]]
+- Gilbert Ryle, /The Concept of Mind/ (1949). Hutchinson. [[https://plato.stanford.edu/entries/ryle/][SEP guide: Gilbert Ryle]]
+- Andy Clark and David J. Chalmers, /The Extended Mind/ (1998). Analysis 58(1). [[https://consc.net/papers/extended.html][Open-access text]]
+- Janet Levin, /Functionalism/ (2004, revised since). Stanford Encyclopedia of Philosophy entry. [[https://plato.stanford.edu/entries/functionalism/][SEP entry]]
+- Patricia S. Churchland, /Neurophilosophy: Toward a Unified Science of the Mind-Brain/ (1986). MIT Press.
+- Jaegwon Kim, /Philosophy of Mind (3rd edition)/ (2011). Westview Press.
+
+* Lectures and talks (YouTube)
+
+Talks and lectures by living scholars and scientists. Each video link was checked on YouTube on Nov 19, 2026.
+
+- [[https://www.youtube.com/watch?v=U8epdBqRvPU][Neurophilosophy – Patricia Churchland]]: Patricia Churchland. Channel: Serious Science.
+- [[https://www.youtube.com/watch?v=A1Ghrd7NBtk][How the brain shapes reality - with Andy Clark]]: Andy Clark. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=OsYUWtLQBS0][The Meta-Problem of Consciousness | Professor David Chalmers | Talks at Google]]: David Chalmers. Channel: Talks at Google.
+- [[https://www.youtube.com/watch?v=qXcH26M7PQM][Is Reality a Controlled Hallucination? - with Anil Seth]]: Anil Seth. Channel: The Royal Institution.
+- [[https://www.youtube.com/watch?v=TNNGShujqF8][Galen Strawson - What's the Stuff of Mind and Brain?]]: Galen Strawson. Channel: Closer To Truth.
+
+* Footer
+
+Part of the Identity and Consciousness Public Research Map. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Back to the landing page]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][How to set up and copy this system (open source)]] · Contact: [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Reading lists and videos were gathered with AI assistance (Grok Bot) and checked by link; suggestions welcome./
+
+* Français / French :french:
+La philosophie de l'esprit étudie ce que sont les esprits et comment ils se rapportent aux corps, aux cerveaux et au monde. Les positions classiques comprennent le dualisme (l'esprit et la matière sont distincts, comme le soutenait René Descartes), le physicalisme (tout ce qui est mental est en fin de compte physique) et le fonctionnalisme (les états mentaux se définissent par ce qu'ils font). Les questions sur la conscience, le soi, la perception et le contenu mental relèvent toutes de ce domaine.
+
+Le domaine travaille désormais en lien étroit avec les sciences cognitives et les neurosciences. Parmi les idées récentes figurent l'esprit étendu (l'idée que les outils et l'environnement peuvent faire partie de la pensée), le traitement prédictif (le cerveau comme machine à prédire) et un débat renouvelé sur le panpsychisme et l'illusionnisme. Pour commencer, on peut lire un article d'encyclopédie sur le fonctionnalisme et un court article, comme « The Extended Mind ».
+
+Place dans l'arborescence : sections parentes, sujets liés, étiquettes et pages de cette catégorie (13), ci-dessus. Les titres des pages restent en anglais. Retour à la page d'accueil de la carte : [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Identity and Consciousness: Public Research Map]].
+
+Une courte liste de départ qui mêle œuvres classiques et actuelles. Les articles d'encyclopédie (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy) sont gratuits et constituent de bons premiers repères. Les titres des œuvres restent dans leur langue d'origine.
+
+Conférences et entretiens de chercheurs et de scientifiques vivants. Chaque lien vidéo a été vérifié sur YouTube le 19 novembre 2026. Les titres des vidéos restent dans leur langue d'origine.
+
+Fait partie de la carte de recherche publique Identité et conscience. [[https://adaptivephilosophy.notion.site/41ea657440a58183bd6be4d148ab2374][Retour à la page d'accueil]] · [[https://adaptivephilosophy.notion.site/How-to-set-up-and-copy-this-system-open-source-41ea657440a58116ba97df91737716c9][Comment mettre en place et copier ce système (open source)]] · Contact : [[mailto:DanBoice@adaptivephilosophy.foundation][DanBoice@adaptivephilosophy.foundation]]
+
+/Les listes de lecture et les vidéos ont été réunies avec l'aide de l'IA (Grok Bot) et vérifiées lien par lien ; vos suggestions sont les bienvenues./
